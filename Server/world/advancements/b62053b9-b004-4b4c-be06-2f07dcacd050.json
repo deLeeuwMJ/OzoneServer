@@ -257,6 +257,12 @@
     },
     "done": true
   },
+  "galacticraftcore:galacticraft/rocket_t1": {
+    "criteria": {
+      "rocket_crafted": "2021-02-04 15:42:55 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2021-02-01 16:42:04 +0100"
@@ -355,6 +361,12 @@
     },
     "done": false
   },
+  "galacticraftcore:galacticraft/basic_wafer": {
+    "criteria": {
+      "compressor": "2021-02-04 13:05:07 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2021-02-01 16:32:44 +0100"
@@ -385,6 +397,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_block": {
+    "criteria": {
+      "has_iron_block": "2021-02-04 14:21:29 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2021-02-01 16:42:04 +0100"
@@ -400,6 +418,12 @@
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2021-02-01 17:17:35 +0100"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/compressor": {
+    "criteria": {
+      "compressor": "2021-02-04 13:05:26 +0100"
     },
     "done": true
   },
@@ -459,6 +483,12 @@
     },
     "done": true
   },
+  "galacticraftcore:galacticraft/rocket_workbench": {
+    "criteria": {
+      "rocket_workbench": "2021-02-04 13:15:26 +0100"
+    },
+    "done": true
+  },
   "galacticraftcore:galacticraft/root": {
     "criteria": {
       "tick": "2021-02-01 16:28:27 +0100"
@@ -468,6 +498,12 @@
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_bonemeal": "2021-02-02 20:42:22 +0100"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/refinery": {
+    "criteria": {
+      "refinery": "2021-02-04 13:20:58 +0100"
     },
     "done": true
   },
@@ -498,6 +534,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2021-02-01 18:11:02 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2021-02-04 14:45:36 +0100"
     },
     "done": true
   },
@@ -573,6 +615,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2021-02-04 14:37:32 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2021-02-02 13:54:23 +0100"
@@ -638,6 +686,13 @@
       "has_glass": "2021-02-01 17:58:32 +0100"
     },
     "done": true
+  },
+  "galacticraftcore:galacticraft/oxygen_gear": {
+    "criteria": {
+      "oxygen_gear": "2021-02-04 14:32:41 +0100",
+      "oxygen_mask": "2021-02-04 14:38:05 +0100"
+    },
+    "done": false
   },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
@@ -1019,6 +1074,18 @@
   "simplyjetpacks:root": {
     "criteria": {
       "location": "2021-02-01 16:28:27 +0100"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/electric_compressor": {
+    "criteria": {
+      "electric_compressor": "2021-02-04 13:09:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2021-02-04 14:21:29 +0100"
     },
     "done": true
   },
@@ -1436,6 +1503,12 @@
     },
     "done": true
   },
+  "galacticraftcore:galacticraft/advanced_wafer": {
+    "criteria": {
+      "compressor": "2021-02-04 13:08:30 +0100"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2021-02-01 17:42:49 +0100"
@@ -1550,6 +1623,12 @@
     },
     "done": true
   },
+  "galacticraftcore:galacticraft/oxygen_collector": {
+    "criteria": {
+      "oxygen_collector": "2021-02-04 14:13:40 +0100"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2021-02-01 16:28:27 +0100",
@@ -1659,6 +1738,12 @@
     },
     "done": true
   },
+  "galacticraftcore:galacticraft/fuel_loader": {
+    "criteria": {
+      "fuel_loader": "2021-02-04 13:21:57 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2021-02-01 17:58:32 +0100"
@@ -1668,6 +1753,12 @@
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2021-02-01 18:52:11 +0100"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/oxygen_compressor": {
+    "criteria": {
+      "oxygen_compressor": "2021-02-04 14:25:09 +0100"
     },
     "done": true
   },
@@ -1878,6 +1969,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2021-02-01 16:43:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2021-02-04 15:26:08 +0100"
     },
     "done": true
   },
