@@ -1,0 +1,24 @@
+{
+    "machine": "multi_compressor",
+    "registryName": "multi_compressor_diron",
+    "recipeTime": 1,
+    "requirements": [
+       {
+            "type": "item",
+            "io-type": "input",
+            "item": "ore:ingotDarkIron",
+            "amount": 2
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "extraplanets:tier10_items@4",
+            "amount": 1
+        },
+		{
+			"type": "energy",
+			"io-type": "input",
+			"energyPerTick": 8000
+		}
+    ]
+}

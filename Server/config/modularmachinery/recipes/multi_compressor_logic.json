@@ -1,0 +1,24 @@
+{
+    "machine": "multi_compressor",
+    "registryName": "multi_compressor_logic",
+    "recipeTime": 1,
+    "requirements": [
+       {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:gold_ingot",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "appliedenergistics2:material@18",
+            "amount": 1
+        },
+		{
+			"type": "energy",
+			"io-type": "input",
+			"energyPerTick": 5000
+		}
+    ]
+}

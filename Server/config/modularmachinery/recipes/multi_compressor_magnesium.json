@@ -1,0 +1,24 @@
+{
+    "machine": "multi_compressor",
+    "registryName": "multi_compressor_magnesium",
+    "recipeTime": 1,
+    "requirements": [
+       {
+            "type": "item",
+            "io-type": "input",
+            "item": "ore:ingotMagnesium",
+            "amount": 2
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "extraplanets:tier6_items@4",
+            "amount": 1
+        },
+		{
+			"type": "energy",
+			"io-type": "input",
+			"energyPerTick": 8000
+		}
+    ]
+}

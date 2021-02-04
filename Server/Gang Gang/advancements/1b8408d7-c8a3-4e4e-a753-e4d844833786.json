@@ -1,0 +1,75 @@
+{
+  "simplyjetpacks:vanilla/root_vanilla": {
+    "criteria": {
+      "code_trigger": "2021-02-04 00:28:16 +0100"
+    },
+    "done": true
+  },
+  "nuclearcraft:root": {
+    "criteria": {
+      "location": "2021-02-04 00:28:16 +0100"
+    },
+    "done": true
+  },
+  "simplyjetpacks:eio/root_eio": {
+    "criteria": {
+      "code_trigger": "2021-02-04 00:28:16 +0100"
+    },
+    "done": true
+  },
+  "astralsorcery:root": {
+    "criteria": {
+      "astralsorcery_present": "2021-02-04 00:28:17 +0100"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/root": {
+    "criteria": {
+      "auto": "2021-02-04 00:28:16 +0100"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/root": {
+    "criteria": {
+      "tick": "2021-02-04 00:28:17 +0100"
+    },
+    "done": true
+  },
+  "rockcandy:recipes/root": {
+    "criteria": {
+      "auto": "2021-02-04 00:28:16 +0100"
+    },
+    "done": true
+  },
+  "simplyjetpacks:ie/root_ie": {
+    "criteria": {
+      "code_trigger": "2021-02-04 00:28:16 +0100"
+    },
+    "done": true
+  },
+  "simplyjetpacks:te/root_te": {
+    "criteria": {
+      "code_trigger": "2021-02-04 00:28:16 +0100"
+    },
+    "done": true
+  },
+  "simplyjetpacks:mek/root_mek": {
+    "criteria": {
+      "code_trigger": "2021-02-04 00:28:16 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2021-02-04 00:28:16 +0100",
+      "forest_hills": "2021-02-04 00:36:51 +0100"
+    },
+    "done": false
+  },
+  "simplyjetpacks:root": {
+    "criteria": {
+      "location": "2021-02-04 00:28:16 +0100"
+    },
+    "done": true
+  }
+}
