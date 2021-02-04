@@ -11,10 +11,14 @@
           "status:8": "MEMBER"
         },
         "2:10": {
+          "uuid:8": "011bc9d2-d2dd-4bd8-9e61-a11bf49e4430",
+          "status:8": "MEMBER"
+        },
+        "3:10": {
           "uuid:8": "7f1766e3-30d1-4dfe-8db5-ebeda2ae8f91",
           "status:8": "OWNER"
         },
-        "3:10": {
+        "4:10": {
           "uuid:8": "b62053b9-b004-4b4c-be06-2f07dcacd050",
           "status:8": "MEMBER"
         }
