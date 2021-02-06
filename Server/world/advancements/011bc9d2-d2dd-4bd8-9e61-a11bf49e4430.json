@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wooden_slab": {
+    "criteria": {
+      "has_planks": "2021-02-06 17:04:37 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2021-02-05 17:53:02 +0100"
@@ -50,6 +56,12 @@
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2021-02-04 14:51:26 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2021-02-06 16:16:35 +0100"
     },
     "done": true
   },
@@ -89,9 +101,21 @@
     },
     "done": true
   },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "kill_mob": "2021-02-06 16:14:29 +0100"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2021-02-05 17:53:02 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-02-06 16:16:35 +0100"
     },
     "done": true
   },
@@ -185,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2021-02-06 19:12:41 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2021-02-04 14:51:26 +0100"
@@ -206,6 +236,12 @@
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2021-02-05 18:59:41 +0100"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/activate_magic_item": {
+    "criteria": {
+      "coded_trigger": "2021-02-06 15:45:36 +0100"
     },
     "done": true
   },
@@ -259,9 +295,16 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "apple": "2021-02-05 20:05:10 +0100"
+      "apple": "2021-02-05 20:05:10 +0100",
+      "golden_apple": "2021-02-06 16:13:34 +0100"
     },
     "done": false
+  },
+  "twilightforest:alt/biomes/general_biomes": {
+    "criteria": {
+      "3": "2021-02-06 16:10:16 +0100"
+    },
+    "done": true
   },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
@@ -272,6 +315,12 @@
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2021-02-05 19:27:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2021-02-06 15:48:04 +0100"
     },
     "done": true
   },
@@ -305,11 +354,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2021-02-06 19:41:56 +0100"
+    },
+    "done": true
+  },
   "tombstone:tutorial/info_grave_key": {
     "criteria": {
       "grave_key": "2021-02-04 14:43:38 +0100"
     },
     "done": true
+  },
+  "twilightforest:arborist": {
+    "criteria": {
+      "twilight_oak_log": "2021-02-06 16:11:33 +0100"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/fence_gate": {
     "criteria": {
@@ -343,6 +404,7 @@
   },
   "enderioconduits:root": {
     "criteria": {
+      "inv_changed-enderio:gravel": "2021-02-06 19:41:56 +0100",
       "inv_changed-enderio:sand": "2021-02-05 17:53:02 +0100"
     },
     "done": false
@@ -407,6 +469,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2021-02-06 17:04:37 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2021-02-04 15:25:39 +0100"
@@ -428,6 +496,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_at_least_9_gold_ingot": "2021-02-04 19:45:04 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/oak_savannah": {
+    "criteria": {
+      "discover": "2021-02-06 16:10:16 +0100"
     },
     "done": true
   },
@@ -476,6 +550,12 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2021-02-05 17:53:02 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_log": "2021-02-06 16:16:27 +0100"
     },
     "done": true
   },
@@ -600,6 +680,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2021-02-06 17:04:37 +0100"
+    },
+    "done": true
+  },
   "rockcandy:recipes/root": {
     "criteria": {
       "auto": "2021-02-04 14:37:04 +0100"
@@ -636,6 +722,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2021-02-06 16:16:35 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2021-02-04 15:04:43 +0100"
@@ -648,16 +740,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick": {
+    "criteria": {
+      "has_nether_wart": "2021-02-06 15:48:04 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2021-02-06 19:13:31 +0100"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "wither_skeleton": "2021-02-05 19:50:56 +0100",
       "zombie_villager": "2021-02-05 19:24:48 +0100",
       "skeleton": "2021-02-04 15:15:06 +0100",
+      "blaze": "2021-02-06 16:18:19 +0100",
       "zombie": "2021-02-04 14:56:14 +0100",
       "witch": "2021-02-04 19:52:45 +0100",
       "spider": "2021-02-04 19:51:40 +0100",
       "ghast": "2021-02-05 20:04:08 +0100",
-      "creeper": "2021-02-05 20:55:18 +0100"
+      "creeper": "2021-02-05 20:55:18 +0100",
+      "enderman": "2021-02-06 16:20:33 +0100"
     },
     "done": false
   },
@@ -673,15 +779,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/ender_eye": {
-    "criteria": {
-      "has_blaze_powder": "2021-02-05 19:03:15 +0100"
-    },
-    "done": true
-  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2021-02-05 18:59:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2021-02-05 19:03:15 +0100"
     },
     "done": true
   },
@@ -715,6 +821,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2021-02-06 16:16:35 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2021-02-05 17:42:40 +0100"
@@ -727,6 +839,12 @@
     },
     "done": true
   },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2021-02-06 16:10:16 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_at_least_9_gold_nugget": "2021-02-05 19:27:33 +0100"
@@ -736,6 +854,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2021-02-04 15:04:43 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "skeleton_druid": "2021-02-06 16:14:29 +0100"
     },
     "done": true
   },
@@ -760,6 +884,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_sand": "2021-02-05 17:53:02 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_block": {
+    "criteria": {
+      "has_gold_block": "2021-02-06 19:23:29 +0100"
     },
     "done": true
   },
@@ -829,6 +959,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/undead": {
+    "criteria": {
+      "0": "2021-02-06 16:14:18 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2021-02-04 19:38:37 +0100"
@@ -880,6 +1016,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2021-02-05 19:34:25 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-02-06 17:04:37 +0100"
     },
     "done": true
   },
@@ -949,6 +1091,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/use_lost_tablet": {
+    "criteria": {
+      "coded_trigger": "2021-02-06 15:45:58 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fence": {
     "criteria": {
       "has_planks": "2021-02-04 14:51:26 +0100"
@@ -970,6 +1118,24 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2021-02-05 17:56:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2021-02-06 19:13:31 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/skeleton_druid": {
+    "criteria": {
+      "hurt": "2021-02-06 16:14:18 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2021-02-06 19:05:58 +0100"
     },
     "done": true
   },
@@ -1012,6 +1178,18 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2021-02-05 19:08:27 +0100"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/presses": {
+    "criteria": {
+      "silicon": "2021-02-06 15:51:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wooden_slab": {
+    "criteria": {
+      "has_planks": "2021-02-06 16:16:35 +0100"
     },
     "done": true
   },
@@ -1081,6 +1259,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log2": "2021-02-06 17:03:39 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2021-02-04 15:17:37 +0100"
@@ -1141,6 +1325,7 @@
       "deep_ocean": "2021-02-04 20:41:02 +0100",
       "beaches": "2021-02-04 14:41:16 +0100",
       "desert_hills": "2021-02-04 20:40:12 +0100",
+      "forest_hills": "2021-02-06 15:50:18 +0100",
       "savanna": "2021-02-04 14:39:12 +0100",
       "plains": "2021-02-04 14:37:17 +0100",
       "savanna_rock": "2021-02-05 19:31:46 +0100",
@@ -1315,6 +1500,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2021-02-04 19:38:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2021-02-06 17:04:37 +0100"
     },
     "done": true
   },
