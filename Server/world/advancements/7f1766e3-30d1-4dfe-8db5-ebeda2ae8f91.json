@@ -371,6 +371,7 @@
       "apple": "2021-02-01 16:40:49 +0100",
       "potato": "2021-02-01 17:21:05 +0100",
       "mutton": "2021-02-01 17:16:35 +0100",
+      "golden_apple": "2021-02-06 22:55:16 +0100",
       "rotten_flesh": "2021-02-01 17:13:07 +0100",
       "enchanted_golden_apple": "2021-02-03 15:17:34 +0100"
     },
@@ -379,6 +380,12 @@
   "rftools:builder": {
     "criteria": {
       "placed_builder": "2021-02-05 12:29:38 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/general_biomes": {
+    "criteria": {
+      "3": "2021-02-06 23:50:08 +0100"
     },
     "done": true
   },
@@ -457,6 +464,12 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2021-02-01 17:21:16 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/dense_twilight_forest": {
+    "criteria": {
+      "discover": "2021-02-06 23:53:40 +0100"
     },
     "done": true
   },
@@ -621,6 +634,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_at_least_9_gold_ingot": "2021-02-03 15:49:16 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/oak_savannah": {
+    "criteria": {
+      "discover": "2021-02-06 23:50:08 +0100"
     },
     "done": true
   },
@@ -1017,6 +1036,12 @@
   "pneumaticcraft:pressure_tube": {
     "criteria": {
       "pressure_tube": "2021-02-05 12:06:55 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2021-02-06 23:50:08 +0100"
     },
     "done": true
   },
@@ -1676,6 +1701,7 @@
       "birch_forest": "2021-02-01 16:51:04 +0100",
       "deep_ocean": "2021-02-01 17:03:56 +0100",
       "beaches": "2021-02-01 17:03:22 +0100",
+      "extreme_hills_with_trees": "2021-02-06 23:39:07 +0100",
       "desert_hills": "2021-02-02 15:31:44 +0100",
       "forest_hills": "2021-02-01 16:46:54 +0100",
       "savanna": "2021-02-01 17:05:27 +0100",

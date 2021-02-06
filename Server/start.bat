@@ -1,2 +1,2 @@
-java -Xmx6024M -Xms1024M -jar forge-1.12.2-14.23.5.2854.jar nogui 
+java -Xmx6024M -Xms1024M -jar forgeserver.jar nogui 
 pause

@@ -21,11 +21,11 @@
   "Enable Snow": false,
   "Dictionary Types": [
     "SPARSE",
-    "DRY",
     "SAVANNA",
-    "WASTELAND",
+    "DEAD",
     "HOT",
-    "DEAD"
+    "DRY",
+    "WASTELAND"
   ],
   "BiomeManager Entries": {
     "DESERT Weights": [
