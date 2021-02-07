@@ -928,6 +928,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "wither_skeleton": "2021-02-02 11:36:49 +0100",
+      "zombie_villager": "2021-02-07 13:21:51 +0100",
       "skeleton": "2021-02-02 14:22:13 +0100",
       "zombie": "2021-02-02 12:35:21 +0100",
       "cave_spider": "2021-02-03 16:27:55 +0100",
@@ -957,6 +958,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2021-02-03 10:53:03 +0100"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/oil": {
+    "criteria": {
+      "in_oil": "2021-02-07 13:53:07 +0100"
     },
     "done": true
   },
@@ -1068,6 +1075,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2021-02-07 13:44:42 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2021-02-03 16:27:55 +0100"
@@ -1152,6 +1165,12 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2021-02-07 13:45:10 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
     "criteria": {
       "has_bonemeal": "2021-02-02 14:05:37 +0100"
@@ -1227,6 +1246,12 @@
   "simplyjetpacks:ie/root_ie": {
     "criteria": {
       "code_trigger": "2021-02-02 11:35:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_bricks": {
+    "criteria": {
+      "has_end_stone": "2021-02-07 13:45:30 +0100"
     },
     "done": true
   },
@@ -1611,8 +1636,10 @@
       "taiga": "2021-02-03 14:51:37 +0100",
       "redwood_taiga_hills": "2021-02-03 14:51:48 +0100",
       "ocean": "2021-02-02 13:25:59 +0100",
+      "extreme_hills": "2021-02-07 13:43:31 +0100",
       "river": "2021-02-02 11:53:34 +0100",
-      "desert": "2021-02-02 11:53:34 +0100"
+      "desert": "2021-02-02 11:53:34 +0100",
+      "stone_beach": "2021-02-07 13:43:35 +0100"
     },
     "done": false
   },
@@ -1760,6 +1787,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_at_least_9_diamond": "2021-02-07 19:07:29 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "entered_water": "2021-02-02 22:35:37 +0100"
@@ -1829,6 +1862,12 @@
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_brick": "2021-02-02 11:53:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2021-02-07 13:45:10 +0100"
     },
     "done": true
   },
@@ -1962,6 +2001,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2021-02-02 11:53:34 +0100"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/network1": {
+    "criteria": {
+      "cable": "2021-02-07 13:56:05 +0100"
     },
     "done": true
   },
