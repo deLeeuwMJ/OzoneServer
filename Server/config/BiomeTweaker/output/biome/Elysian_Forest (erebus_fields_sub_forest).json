@@ -21,8 +21,8 @@
   "Enable Snow": false,
   "Dictionary Types": [
     "MAGICAL",
-    "LUSH",
-    "FOREST"
+    "FOREST",
+    "LUSH"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [],
