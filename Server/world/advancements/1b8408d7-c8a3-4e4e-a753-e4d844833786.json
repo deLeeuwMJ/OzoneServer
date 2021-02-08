@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/multiblock_dieselgenerator": {
+    "criteria": {
+      "form_blastfurnace": "2021-02-08 19:16:10 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_stained_glass_pane": {
     "criteria": {
       "has_glass": "2021-02-02 14:14:13 +0100"
@@ -16,6 +22,12 @@
       "has_glass": "2021-02-03 14:27:28 +0100"
     },
     "done": true
+  },
+  "erebus:exploration/entomology": {
+    "criteria": {
+      "in_erebus": "2021-02-08 18:47:45 +0100"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
@@ -59,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_carpet": {
+    "criteria": {
+      "has_lime_wool": "2021-02-08 16:38:14 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2021-02-02 13:25:33 +0100"
@@ -98,6 +116,12 @@
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2021-02-03 16:27:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_banner": {
+    "criteria": {
+      "has_lime_wool": "2021-02-08 16:38:14 +0100"
     },
     "done": true
   },
@@ -146,6 +170,18 @@
   "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
       "has_pumpkin": "2021-02-02 11:44:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_bed": {
+    "criteria": {
+      "has_magenta_wool": "2021-02-08 16:38:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2021-02-08 12:21:37 +0100"
     },
     "done": true
   },
@@ -341,6 +377,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/multiblock_arcfurnace": {
+    "criteria": {
+      "form_blastfurnace": "2021-02-08 15:03:33 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2021-02-02 13:03:12 +0100"
@@ -362,6 +404,12 @@
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2021-02-03 19:25:19 +0100"
+    },
+    "done": true
+  },
+  "enderioconduits:item/1_item_conduit": {
+    "criteria": {
+      "inv_changed-enderio:item_conduit": "2021-02-08 15:13:44 +0100"
     },
     "done": true
   },
@@ -413,6 +461,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2021-02-02 14:50:06 +0100"
+    },
+    "done": true
+  },
+  "enderioconduits:redstone/1_redstone_conduit": {
+    "criteria": {
+      "inv_changed-enderio:redstone_conduit": "2021-02-08 15:22:24 +0100"
     },
     "done": true
   },
@@ -515,6 +569,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_carpet": {
+    "criteria": {
+      "has_magenta_wool": "2021-02-08 16:38:14 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_bonemeal": "2021-02-02 14:05:37 +0100"
@@ -533,9 +593,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_bed": {
+    "criteria": {
+      "has_lime_wool": "2021-02-08 16:38:14 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2021-02-02 11:43:05 +0100"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/charger": {
+    "criteria": {
+      "certus": "2021-02-08 15:31:44 +0100"
     },
     "done": true
   },
@@ -623,6 +695,12 @@
     },
     "done": true
   },
+  "erebus:agriculture/nectar": {
+    "criteria": {
+      "get_nectar": "2021-02-08 18:49:43 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_at_least_9_gold_ingot": "2021-02-02 14:14:13 +0100"
@@ -644,6 +722,12 @@
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2021-02-02 13:03:12 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet": {
+    "criteria": {
+      "has_orange_wool": "2021-02-08 16:38:14 +0100"
     },
     "done": true
   },
@@ -773,6 +857,13 @@
     },
     "done": true
   },
+  "enderioconduits:goals/all_conduits": {
+    "criteria": {
+      "inv_changed-enderio:redstone_conduit2": "2021-02-08 15:22:24 +0100",
+      "inv_changed-enderio:item_conduit2": "2021-02-08 15:13:44 +0100"
+    },
+    "done": false
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2021-02-02 13:03:12 +0100"
@@ -844,6 +935,12 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2021-02-02 13:03:12 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/multiblock_crusher": {
+    "criteria": {
+      "form_blastfurnace": "2021-02-08 23:42:01 +0100"
     },
     "done": true
   },
@@ -932,6 +1029,7 @@
       "skeleton": "2021-02-02 14:22:13 +0100",
       "zombie": "2021-02-02 12:35:21 +0100",
       "cave_spider": "2021-02-03 16:27:55 +0100",
+      "guardian": "2021-02-08 12:21:32 +0100",
       "spider": "2021-02-02 18:14:13 +0100",
       "creeper": "2021-02-03 19:28:25 +0100"
     },
@@ -949,6 +1047,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/craft_workbench": {
+    "criteria": {
+      "craft_hammer": "2021-02-08 18:54:48 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2021-02-02 22:29:28 +0100"
@@ -958,6 +1062,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2021-02-03 10:53:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed": {
+    "criteria": {
+      "has_orange_wool": "2021-02-08 16:38:14 +0100"
     },
     "done": true
   },
@@ -1039,6 +1149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2021-02-08 16:38:14 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2021-02-02 14:14:13 +0100"
@@ -1096,6 +1212,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2021-02-02 15:00:27 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:lubricant_bucket": {
+    "criteria": {
+      "lpg_bucket": "2021-02-08 20:04:55 +0100"
     },
     "done": true
   },
@@ -1183,9 +1305,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_bed": {
+    "criteria": {
+      "has_purple_wool": "2021-02-08 16:38:14 +0100"
+    },
+    "done": true
+  },
   "twilightforest:alt/compat/ie_shaders": {
     "criteria": {
       "tf_shader_bag": "2021-02-03 19:24:25 +0100"
+    },
+    "done": true
+  },
+  "erebus:exploration/root": {
+    "criteria": {
+      "in_ere": "2021-02-08 18:47:45 +0100"
     },
     "done": true
   },
@@ -1489,6 +1623,20 @@
     },
     "done": true
   },
+  "erebus:exploration/traveller": {
+    "criteria": {
+      "fungal": "2021-02-08 18:49:10 +0100",
+      "petrified": "2021-02-08 18:47:45 +0100",
+      "outback": "2021-02-08 18:48:01 +0100"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/orange_banner": {
+    "criteria": {
+      "has_orange_wool": "2021-02-08 16:38:14 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wooden_slab": {
     "criteria": {
       "has_planks": "2021-02-05 12:12:55 +0100"
@@ -1516,6 +1664,12 @@
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2021-02-02 19:13:20 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2021-02-08 12:21:37 +0100"
     },
     "done": true
   },
@@ -1609,9 +1763,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_stone": "2021-02-08 18:16:38 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2021-02-02 14:51:51 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/root": {
+    "criteria": {
+      "hold_manual": "2021-02-08 15:50:53 +0100"
     },
     "done": true
   },
@@ -1632,6 +1798,7 @@
       "forest_hills": "2021-02-04 11:36:20 +0100",
       "savanna": "2021-02-02 11:39:31 +0100",
       "plains": "2021-02-03 14:13:10 +0100",
+      "savanna_rock": "2021-02-08 19:04:04 +0100",
       "redwood_taiga": "2021-02-03 14:22:13 +0100",
       "taiga": "2021-02-03 14:51:37 +0100",
       "redwood_taiga_hills": "2021-02-03 14:51:48 +0100",
@@ -1673,6 +1840,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/craft_hammer": {
+    "criteria": {
+      "craft_hammer": "2021-02-08 15:03:29 +0100"
+    },
+    "done": true
+  },
   "simplyjetpacks:te/root_te": {
     "criteria": {
       "code_trigger": "2021-02-02 11:37:12 +0100"
@@ -1697,9 +1870,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_banner": {
+    "criteria": {
+      "has_magenta_wool": "2021-02-08 16:38:14 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2021-02-02 13:03:12 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2021-02-08 16:38:14 +0100"
     },
     "done": true
   },
@@ -1769,6 +1954,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/multiblock_excavator": {
+    "criteria": {
+      "form_blastfurnace": "2021-02-08 22:00:37 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2021-02-05 20:00:43 +0100"
@@ -1790,6 +1981,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_at_least_9_diamond": "2021-02-07 19:07:29 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/place_conveyor": {
+    "criteria": {
+      "place_conveyor": "2021-02-08 15:40:47 +0100"
     },
     "done": true
   },
@@ -1943,6 +2140,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2021-02-08 12:21:37 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/connect_wire": {
+    "criteria": {
+      "code_trigger": "2021-02-08 20:12:37 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2021-02-05 12:55:55 +0100"
@@ -1977,6 +2186,12 @@
   "minecraft:recipes/building_blocks/purple_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2021-02-05 20:00:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick": {
+    "criteria": {
+      "has_netherbrick": "2021-02-08 14:05:03 +0100"
     },
     "done": true
   },
