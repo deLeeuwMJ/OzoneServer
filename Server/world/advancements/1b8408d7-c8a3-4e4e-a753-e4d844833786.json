@@ -430,6 +430,7 @@
       "cooked_beef": "2021-02-02 11:36:49 +0100",
       "apple": "2021-02-02 11:14:13 +0100",
       "potato": "2021-02-02 22:10:26 +0100",
+      "golden_apple": "2021-02-09 14:46:33 +0100",
       "carrot": "2021-02-03 19:22:38 +0100"
     },
     "done": false
@@ -1065,6 +1066,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/craft_pump": {
+    "criteria": {
+      "craft_hammer": "2021-02-09 13:57:24 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_bed": {
     "criteria": {
       "has_orange_wool": "2021-02-08 16:38:14 +0100"
@@ -1146,6 +1153,12 @@
   "minecraft:recipes/building_blocks/gray_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2021-02-05 20:00:43 +0100"
+    },
+    "done": true
+  },
+  "enderiomachines:basics/sagmill/6_coal": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2021-02-09 11:45:11 +0100"
     },
     "done": true
   },
@@ -1840,6 +1853,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/multiblock_metalpress": {
+    "criteria": {
+      "form_blastfurnace": "2021-02-09 11:54:20 +0100"
+    },
+    "done": true
+  },
   "immersiveengineering:main/craft_hammer": {
     "criteria": {
       "craft_hammer": "2021-02-08 15:03:29 +0100"
@@ -1927,6 +1946,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2021-02-03 16:27:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2021-02-09 16:11:30 +0100"
     },
     "done": true
   },
@@ -2198,6 +2223,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2021-02-03 13:42:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2021-02-09 16:11:42 +0100"
     },
     "done": true
   },

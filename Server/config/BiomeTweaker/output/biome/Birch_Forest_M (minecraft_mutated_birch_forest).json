@@ -20,9 +20,9 @@
   "Enable Rain": false,
   "Enable Snow": false,
   "Dictionary Types": [
-    "HILLS",
-    "DENSE",
     "FOREST",
+    "DENSE",
+    "HILLS",
     "RARE"
   ],
   "BiomeManager Entries": {},

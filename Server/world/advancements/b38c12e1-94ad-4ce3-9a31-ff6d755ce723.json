@@ -66,6 +66,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_red_flower": "2021-02-09 20:21:54 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2021-02-03 14:54:27 +0100"
@@ -99,6 +105,12 @@
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2021-02-01 18:58:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2021-02-09 15:49:57 +0100"
     },
     "done": true
   },
@@ -202,6 +214,15 @@
   "minecraft:recipes/building_blocks/white_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2021-02-04 19:23:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2021-02-09 19:14:17 +0100",
+      "diamond_helmet": "2021-02-09 19:14:17 +0100",
+      "diamond_chestplate": "2021-02-09 19:14:17 +0100",
+      "diamond_boots": "2021-02-09 19:14:17 +0100"
     },
     "done": true
   },
@@ -614,17 +635,17 @@
     },
     "done": true
   },
-  "minecraft:nether/return_to_sender": {
-    "criteria": {
-      "killed_ghast": "2021-02-08 23:40:20 +0100"
-    },
-    "done": true
-  },
   "erebus:exploration/rhino_exo_set": {
     "criteria": {
       "shield": "2021-02-08 23:07:25 +0100"
     },
     "done": false
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2021-02-08 23:40:20 +0100"
+    },
+    "done": true
   },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
@@ -711,6 +732,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2021-02-09 21:36:47 +0100"
+    },
+    "done": true
+  },
   "tombstone:tutorial/create_magic_scroll": {
     "criteria": {
       "has_ingredient": "2021-02-01 19:10:19 +0100"
@@ -777,6 +804,12 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2021-02-09 16:02:43 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2021-02-03 13:47:17 +0100"
@@ -792,6 +825,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_pigman": "2021-02-07 00:21:10 +0100",
+      "shulker": "2021-02-09 17:01:47 +0100",
       "wither_skeleton": "2021-02-01 17:23:49 +0100",
       "zombie_villager": "2021-02-02 11:55:18 +0100",
       "slime": "2021-02-02 15:24:12 +0100",
@@ -936,6 +970,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2021-02-09 15:58:15 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2021-02-02 21:18:57 +0100"
@@ -1005,6 +1045,12 @@
   "twilightforest:alt/entities/yeti": {
     "criteria": {
       "hurt": "2021-02-06 22:26:10 +0100"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2021-02-09 15:58:31 +0100"
     },
     "done": true
   },
@@ -1128,6 +1174,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2021-02-09 21:36:47 +0100"
+    },
+    "done": true
+  },
   "erebus:exploration/rhino_beetle": {
     "criteria": {
       "kill_rhino": "2021-02-08 18:51:42 +0100"
@@ -1156,6 +1208,12 @@
   "twilightforest:alt/entities/lich": {
     "criteria": {
       "hurt_by_indirect": "2021-02-06 21:15:10 +0100"
+    },
+    "done": true
+  },
+  "enderio:start/1_infinity_powder_get": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2021-02-09 16:02:47 +0100"
     },
     "done": true
   },
@@ -1339,6 +1397,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2021-02-09 21:36:47 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_log": "2021-02-03 13:41:27 +0100"
@@ -1506,6 +1570,12 @@
   "twilightforest:alt/entities/pinch_beetle": {
     "criteria": {
       "hurt": "2021-02-06 21:40:33 +0100"
+    },
+    "done": true
+  },
+  "astralsorcery:rock_crystals": {
+    "criteria": {
+      "rock_crystal_in_inventory": "2021-02-09 17:05:54 +0100"
     },
     "done": true
   },
@@ -1727,6 +1797,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2021-02-09 16:03:56 +0100"
+    },
+    "done": true
+  },
   "twilightforest:alt/treasures/phantom_armor_worn": {
     "criteria": {
       "helmet": "2021-02-06 22:03:06 +0100"
@@ -1755,6 +1831,12 @@
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2021-02-06 15:05:54 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2021-02-09 17:01:49 +0100"
     },
     "done": true
   },
@@ -1929,6 +2011,12 @@
   "minecraft:recipes/decorations/blue_bed": {
     "criteria": {
       "has_blue_wool": "2021-02-03 13:45:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pillar_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2021-02-09 21:36:47 +0100"
     },
     "done": true
   },
@@ -2658,6 +2746,12 @@
     },
     "done": true
   },
+  "enderiomachines:basics/alloy/2_energetic_alloy_get": {
+    "criteria": {
+      "inv_changed-enderio:item_energetic_alloy": "2021-02-09 16:40:41 +0100"
+    },
+    "done": true
+  },
   "twilightforest:alt/entities/death_tome": {
     "criteria": {
       "hurt": "2021-02-06 21:28:50 +0100"
@@ -2751,6 +2845,12 @@
   "twilightforest:alt/treasures/giant_tool_set": {
     "criteria": {
       "ingredien2": "2021-02-06 22:44:39 +0100"
+    },
+    "done": true
+  },
+  "enderiomachines:basics/sagmill/6_coal": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2021-02-09 16:50:52 +0100"
     },
     "done": true
   },
@@ -2850,6 +2950,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/charged_quartz": {
+    "criteria": {
+      "certus": "2021-02-09 18:55:14 +0100"
+    },
+    "done": true
+  },
   "twilightforest:alt/entities/bunny": {
     "criteria": {
       "slay": "2021-02-06 20:54:32 +0100"
@@ -2931,6 +3037,12 @@
   "twilightforest:alt/entities/unstable_ice_core": {
     "criteria": {
       "hurt_by_indirect": "2021-02-06 22:33:18 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_bricks": {
+    "criteria": {
+      "has_end_stone": "2021-02-09 15:59:11 +0100"
     },
     "done": true
   },
@@ -3176,6 +3288,12 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2021-02-09 17:01:43 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magma": {
     "criteria": {
       "has_magma_cream": "2021-02-08 19:40:21 +0100"
@@ -3281,6 +3399,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_stone": "2021-02-09 18:55:09 +0100"
+    },
+    "done": true
+  },
   "twilightforest:alt/treasures/foods/any": {
     "criteria": {
       "3": "2021-02-06 20:49:45 +0100"
@@ -3329,6 +3453,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2021-02-09 15:49:57 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_red_flower": "2021-02-09 20:21:28 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_bed": {
     "criteria": {
       "has_red_wool": "2021-02-03 13:45:11 +0100"
@@ -3344,6 +3480,12 @@
   "twilightforest:alt/major_landmarks/knight_stronghold": {
     "criteria": {
       "discover": "2021-02-06 21:57:26 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_iron_nugget": "2021-02-09 16:44:12 +0100"
     },
     "done": true
   },
@@ -3461,9 +3603,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2021-02-09 15:49:57 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-02-01 17:40:16 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2021-02-09 15:58:31 +0100"
     },
     "done": true
   },
@@ -3562,6 +3716,12 @@
     "criteria": {
       "shield_scepter": "2021-02-06 21:18:59 +0100",
       "kill_naga": "2021-02-06 21:11:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:end/respawn_dragon": {
+    "criteria": {
+      "summoned_dragon": "2021-02-09 16:00:01 +0100"
     },
     "done": true
   },
