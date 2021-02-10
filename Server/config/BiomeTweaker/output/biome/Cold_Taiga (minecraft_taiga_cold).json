@@ -20,10 +20,10 @@
   "Enable Rain": false,
   "Enable Snow": true,
   "Dictionary Types": [
-    "FOREST",
+    "COLD",
     "CONIFEROUS",
-    "SNOWY",
-    "COLD"
+    "FOREST",
+    "SNOWY"
   ],
   "BiomeManager Entries": {
     "ICY Weights": [
@@ -69,6 +69,12 @@
     },
     {
       "Entity Class": "com.robrit.moofluids.common.entity.EntityFluidCow",
+      "Weight": 8,
+      "Min Group Count": 4,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "com.robrit.moofluids.common.entity.holiday.EntityValentinesCow",
       "Weight": 8,
       "Min Group Count": 4,
       "Max Group Count": 4

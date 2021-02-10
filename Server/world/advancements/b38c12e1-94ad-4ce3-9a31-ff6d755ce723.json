@@ -855,6 +855,12 @@
     },
     "done": true
   },
+  "galacticraftcore:galacticraft/oil": {
+    "criteria": {
+      "in_oil": "2021-02-10 12:17:03 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_banner": {
     "criteria": {
       "has_yellow_wool": "2021-02-03 13:45:05 +0100"
@@ -1767,6 +1773,12 @@
     },
     "done": true
   },
+  "botania:main/bauble_wear": {
+    "criteria": {
+      "code_triggered": "2021-02-10 15:09:16 +0100"
+    },
+    "done": true
+  },
   "appliedenergistics2:main/root": {
     "criteria": {
       "certus": "2021-02-01 19:34:51 +0100"
@@ -2310,6 +2322,7 @@
       "canopy_log": "2021-02-06 20:52:36 +0100",
       "twilight_oak_sapling": "2021-02-06 20:53:23 +0100",
       "canopy_sapling": "2021-02-06 20:52:36 +0100",
+      "liveroots": "2021-02-10 12:08:57 +0100",
       "tower_wood": "2021-02-06 22:13:23 +0100"
     },
     "done": false
@@ -2794,6 +2807,12 @@
     },
     "done": true
   },
+  "minecraft:nether/uneasy_alliance": {
+    "criteria": {
+      "killed_ghast": "2021-02-10 20:30:10 +0100"
+    },
+    "done": true
+  },
   "tombstone:tutorial/first_grave": {
     "criteria": {
       "coded_trigger": "2021-02-01 17:25:13 +0100"
@@ -3270,6 +3289,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime": "2021-02-10 12:11:36 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2021-02-01 19:34:21 +0100"
@@ -3384,6 +3409,12 @@
   "twilightforest:alt/entities/deer": {
     "criteria": {
       "hurt": "2021-02-06 20:49:44 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/steeleaf_armor_set": {
+    "criteria": {
+      "ingredient": "2021-02-10 21:44:34 +0100"
     },
     "done": true
   },

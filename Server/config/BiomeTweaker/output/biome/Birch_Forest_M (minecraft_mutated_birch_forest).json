@@ -20,9 +20,9 @@
   "Enable Rain": false,
   "Enable Snow": false,
   "Dictionary Types": [
-    "FOREST",
     "DENSE",
     "HILLS",
+    "FOREST",
     "RARE"
   ],
   "BiomeManager Entries": {},
@@ -53,6 +53,12 @@
     },
     {
       "Entity Class": "com.robrit.moofluids.common.entity.EntityFluidCow",
+      "Weight": 8,
+      "Min Group Count": 4,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "com.robrit.moofluids.common.entity.holiday.EntityValentinesCow",
       "Weight": 8,
       "Min Group Count": 4,
       "Max Group Count": 4

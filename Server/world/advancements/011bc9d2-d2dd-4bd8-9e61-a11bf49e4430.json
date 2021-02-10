@@ -1285,11 +1285,13 @@
       "forest_hills": "2021-02-06 15:50:18 +0100",
       "savanna": "2021-02-04 14:39:12 +0100",
       "plains": "2021-02-04 14:37:17 +0100",
+      "jungle_edge": "2021-02-10 21:28:29 +0100",
       "savanna_rock": "2021-02-05 19:31:46 +0100",
       "taiga_hills": "2021-02-09 19:54:38 +0100",
       "ocean": "2021-02-04 15:48:04 +0100",
       "roofed_forest": "2021-02-09 19:54:57 +0100",
       "river": "2021-02-04 14:56:18 +0100",
+      "jungle": "2021-02-10 21:28:04 +0100",
       "desert": "2021-02-04 20:40:20 +0100"
     },
     "done": false
@@ -1875,6 +1877,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2021-02-10 19:59:36 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2021-02-07 18:24:09 +0100"
@@ -1920,6 +1928,12 @@
   "erebus:agriculture/nectar": {
     "criteria": {
       "get_nectar": "2021-02-08 18:50:59 +0100"
+    },
+    "done": true
+  },
+  "astralsorcery:craft_t3_altar": {
+    "criteria": {
+      "altar_craft_t3_altar": "2021-02-10 17:55:10 +0100"
     },
     "done": true
   },
@@ -2167,6 +2181,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2021-02-10 20:19:04 +0100"
+    },
+    "done": true
+  },
   "twilightforest:alt/major_landmarks/small_hollow_hill": {
     "criteria": {
       "discover": "2021-02-06 21:01:43 +0100"
@@ -2188,6 +2208,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2021-02-04 19:38:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2021-02-10 20:19:04 +0100"
     },
     "done": true
   },
@@ -2254,6 +2280,12 @@
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_at_least_9_gold_nugget": "2021-02-05 19:27:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2021-02-10 18:44:04 +0100"
     },
     "done": true
   },

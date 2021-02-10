@@ -36,6 +36,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2021-02-10 13:49:05 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_wooden_slab": {
     "criteria": {
       "has_planks": "2021-02-01 17:28:34 +0100"
@@ -51,6 +57,12 @@
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2021-02-05 19:10:35 +0100"
+    },
+    "done": true
+  },
+  "projecte:red_matter": {
+    "criteria": {
+      "rm": "2021-02-10 19:22:21 +0100"
     },
     "done": true
   },
@@ -242,6 +254,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2021-02-10 12:17:38 +0100"
+    },
+    "done": true
+  },
   "rftools:builder": {
     "criteria": {
       "placed_builder": "2021-02-05 12:29:38 +0100"
@@ -272,9 +290,21 @@
     },
     "done": true
   },
+  "abyssalcraft:ethaxium": {
+    "criteria": {
+      "abyssalnite": "2021-02-10 14:11:52 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2021-02-01 17:13:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_block": {
+    "criteria": {
+      "has_iron_block": "2021-02-10 19:45:11 +0100"
     },
     "done": true
   },
@@ -546,6 +576,7 @@
       "vindicator": "2021-02-09 21:30:17 +0100",
       "skeleton": "2021-02-01 20:48:22 +0100",
       "blaze": "2021-02-03 15:12:31 +0100",
+      "evoker": "2021-02-10 10:09:40 +0100",
       "zombie": "2021-02-01 19:51:02 +0100",
       "silverfish": "2021-02-02 22:18:07 +0100",
       "spider": "2021-02-01 17:24:11 +0100",
@@ -564,6 +595,12 @@
   "minecraft:recipes/decorations/orange_bed": {
     "criteria": {
       "has_orange_wool": "2021-02-05 12:59:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2021-02-10 14:25:39 +0100"
     },
     "done": true
   },
@@ -609,6 +646,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-02-10 12:17:38 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2021-02-08 22:50:41 +0100"
@@ -630,6 +673,12 @@
   "minecraft:recipes/decorations/yellow_bed": {
     "criteria": {
       "has_yellow_wool": "2021-02-05 12:57:37 +0100"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/create_strange_scroll": {
+    "criteria": {
+      "has_strange_scroll": "2021-02-10 13:49:05 +0100"
     },
     "done": true
   },
@@ -711,6 +760,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/compat/ie_shaders": {
+    "criteria": {
+      "ie_shader_bag": "2021-02-10 10:21:07 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2021-02-08 22:50:41 +0100"
@@ -786,6 +841,12 @@
   "minecraft:recipes/redstone/wooden_pressure_plate": {
     "criteria": {
       "has_planks": "2021-02-01 16:41:45 +0100"
+    },
+    "done": true
+  },
+  "enderio:start/1_infinity_powder_get": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2021-02-10 14:32:53 +0100"
     },
     "done": true
   },
@@ -924,6 +985,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2021-02-02 17:33:16 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wooden_slab": {
+    "criteria": {
+      "has_planks": "2021-02-10 12:17:38 +0100"
     },
     "done": true
   },
@@ -1182,6 +1249,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2021-02-10 17:41:06 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_at_least_9_diamond": "2021-02-03 15:01:20 +0100"
@@ -1203,6 +1276,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2021-02-09 17:46:16 +0100"
+    },
+    "done": true
+  },
+  "bhc:main/yellow_heart": {
+    "criteria": {
+      "orange_heart_in_inventory": "2021-02-10 10:21:06 +0100"
     },
     "done": true
   },
@@ -1536,6 +1615,12 @@
     },
     "done": true
   },
+  "projecte:philosophers_stone": {
+    "criteria": {
+      "philosophers_stone": "2021-02-10 19:18:49 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_at_least_9_wheat": "2021-02-01 17:19:57 +0100"
@@ -1796,6 +1881,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2021-02-10 13:49:05 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2021-02-01 17:47:14 +0100"
@@ -1805,6 +1896,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2021-02-02 19:19:45 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2021-02-10 12:17:38 +0100"
     },
     "done": true
   },
@@ -1898,9 +1995,21 @@
     },
     "done": true
   },
+  "abyssalcraft:mine_dreadlands_ores": {
+    "criteria": {
+      "dreaded_abyssalnite": "2021-02-10 12:50:15 +0100"
+    },
+    "done": true
+  },
   "erebus:exploration/jade_ore": {
     "criteria": {
       "collect_jade": "2021-02-09 14:04:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2021-02-10 19:45:11 +0100"
     },
     "done": true
   },
@@ -2177,6 +2286,12 @@
     },
     "done": true
   },
+  "abyssalcraft:dreadium": {
+    "criteria": {
+      "abyssalnite": "2021-02-10 12:57:28 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2021-02-01 17:25:50 +0100"
@@ -2228,6 +2343,12 @@
   "minecraft:recipes/building_blocks/pink_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2021-02-08 22:50:41 +0100"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_strange_scroll": {
+    "criteria": {
+      "has_ingredient": "2021-02-10 13:49:05 +0100"
     },
     "done": true
   },
@@ -2309,6 +2430,12 @@
     },
     "done": true
   },
+  "rockcandy:recipes/food/rock_candy_recipe": {
+    "criteria": {
+      "has_raw_rock_candy": "2021-02-10 21:17:21 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_brick": "2021-02-03 15:12:20 +0100"
@@ -2378,6 +2505,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2021-02-08 22:50:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2021-02-10 12:17:38 +0100"
     },
     "done": true
   },

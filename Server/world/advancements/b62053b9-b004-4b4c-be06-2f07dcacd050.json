@@ -2512,6 +2512,12 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2021-02-10 21:09:36 +0100"
+    },
+    "done": true
+  },
   "simplyjetpacks:root": {
     "criteria": {
       "location": "2021-02-01 16:28:27 +0100"
@@ -2951,6 +2957,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2021-02-01 16:42:04 +0100"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/qnb": {
+    "criteria": {
+      "certus": "2021-02-10 10:10:06 +0100"
     },
     "done": true
   },
