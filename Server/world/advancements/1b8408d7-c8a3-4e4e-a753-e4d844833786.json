@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow": {
+    "criteria": {
+      "has_snowball": "2021-02-11 19:26:06 +0100"
+    },
+    "done": true
+  },
   "astralsorcery:root": {
     "criteria": {
       "astralsorcery_present": "2021-02-02 11:35:05 +0100"
@@ -255,6 +261,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/goblins": {
+    "criteria": {
+      "3": "2021-02-11 18:47:00 +0100"
+    },
+    "done": true
+  },
   "enderioconduits:item/1_item_conduit": {
     "criteria": {
       "inv_changed-enderio:item_conduit": "2021-02-08 15:13:44 +0100"
@@ -386,6 +398,12 @@
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_bonemeal": "2021-02-02 14:05:37 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/dark_tower": {
+    "criteria": {
+      "discover": "2021-02-11 13:29:18 +0100"
     },
     "done": true
   },
@@ -563,6 +581,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2021-02-11 13:34:43 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "entered_water": "2021-02-02 11:37:12 +0100"
@@ -654,6 +678,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/knightmetal_armor_set": {
+    "criteria": {
+      "ingredient": "2021-02-11 18:47:44 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2021-02-05 12:55:55 +0100"
@@ -683,6 +713,12 @@
       "has_hardened_clay": "2021-02-05 20:00:43 +0100"
     },
     "done": true
+  },
+  "twilightforest:progress_glacier": {
+    "criteria": {
+      "previous_progression": "2021-02-11 18:40:55 +0100"
+    },
+    "done": false
   },
   "tombstone:tutorial/create_strange_scroll": {
     "criteria": {
@@ -732,6 +768,12 @@
     },
     "done": true
   },
+  "nuclearcraft:food/smore": {
+    "criteria": {
+      "has_item": "2021-02-11 19:26:22 +0100"
+    },
+    "done": true
+  },
   "twilightforest:alt/major_landmarks/naga_courtyard": {
     "criteria": {
       "discover": "2021-02-10 21:44:53 +0100"
@@ -765,6 +807,12 @@
   "minecraft:end/root": {
     "criteria": {
       "entered_end": "2021-02-07 13:45:10 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/yeti": {
+    "criteria": {
+      "hurt": "2021-02-11 18:40:21 +0100"
     },
     "done": true
   },
@@ -961,6 +1009,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2021-02-11 13:34:43 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2021-02-02 15:02:29 +0100"
@@ -997,6 +1051,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/biomes/firefly_forest": {
+    "criteria": {
+      "discover": "2021-02-11 13:20:00 +0100"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2021-02-03 13:25:33 +0100"
@@ -1030,6 +1090,12 @@
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2021-02-02 19:13:20 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/goblin_knight": {
+    "criteria": {
+      "slay": "2021-02-11 18:47:42 +0100"
     },
     "done": true
   },
@@ -1290,6 +1356,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/tools": {
+    "criteria": {
+      "1": "2021-02-11 13:34:34 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_prismarine_shard": "2021-02-08 12:21:37 +0100"
@@ -1317,6 +1389,12 @@
   "minecraft:recipes/building_blocks/light_gray_wool": {
     "criteria": {
       "has_white_wool": "2021-02-02 14:14:13 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/charm_of_keeping": {
+    "criteria": {
+      "1": "2021-02-11 13:20:33 +0100"
     },
     "done": true
   },
@@ -1398,6 +1476,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/winter_wolf": {
+    "criteria": {
+      "slay": "2021-02-11 19:24:35 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2021-02-03 16:27:31 +0100"
@@ -1410,9 +1494,21 @@
     },
     "done": true
   },
+  "twilightforest:alt/major_landmarks/yeti_lairs": {
+    "criteria": {
+      "discover": "2021-02-11 18:40:21 +0100"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2021-02-03 10:53:12 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/yeti_alpha": {
+    "criteria": {
+      "hurt": "2021-02-11 18:40:51 +0100"
     },
     "done": true
   },
@@ -1564,6 +1660,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/wolves": {
+    "criteria": {
+      "2": "2021-02-11 19:24:35 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2021-02-02 13:03:32 +0100"
@@ -1573,6 +1675,18 @@
   "enderioconduits:redstone/1_redstone_conduit": {
     "criteria": {
       "inv_changed-enderio:redstone_conduit": "2021-02-08 15:22:24 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/charms": {
+    "criteria": {
+      "1": "2021-02-11 13:20:33 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/dark_forest": {
+    "criteria": {
+      "0": "2021-02-11 13:28:27 +0100"
     },
     "done": true
   },
@@ -1683,6 +1797,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2021-02-02 11:40:46 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/twilight_forest": {
+    "criteria": {
+      "discover": "2021-02-11 13:22:27 +0100"
     },
     "done": true
   },
@@ -1834,6 +1954,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/blockchain_goblin": {
+    "criteria": {
+      "slay": "2021-02-11 18:47:00 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2021-02-02 13:03:12 +0100"
@@ -1942,6 +2068,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/death_tome": {
+    "criteria": {
+      "hurt": "2021-02-11 18:39:41 +0100"
+    },
+    "done": true
+  },
   "tombstone:recipes/from_decorative_grave": {
     "criteria": {
       "has_ingredient": "2021-02-02 11:36:49 +0100"
@@ -1975,6 +2107,12 @@
   "twilightforest:root": {
     "criteria": {
       "in_tf": "2021-02-10 21:25:51 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/arctic_armor_set": {
+    "criteria": {
+      "ingredient": "2021-02-11 18:40:28 +0100"
     },
     "done": true
   },
@@ -2017,6 +2155,12 @@
   "simplyjetpacks:root": {
     "criteria": {
       "location": "2021-02-03 14:26:16 +0100"
+    },
+    "done": true
+  },
+  "abyssalcraft:mine_dreadlands_ores": {
+    "criteria": {
+      "dreaded_abyssalnite": "2021-02-11 19:32:55 +0100"
     },
     "done": true
   },
@@ -2104,6 +2248,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/biomes/snowy_forest": {
+    "criteria": {
+      "discover": "2021-02-11 18:40:21 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_bed": {
     "criteria": {
       "has_pink_wool": "2021-02-10 15:15:29 +0100"
@@ -2122,6 +2272,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/biomes/dark_forest_center": {
+    "criteria": {
+      "discover": "2021-02-11 13:29:12 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2021-02-02 13:06:27 +0100"
@@ -2134,6 +2290,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/ice_bomb": {
+    "criteria": {
+      "ice_bomb": "2021-02-11 18:40:58 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2021-02-02 13:47:05 +0100"
@@ -2143,6 +2305,18 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2021-02-02 11:43:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow_layer": {
+    "criteria": {
+      "has_snowball": "2021-02-11 19:26:06 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/yeti_armor_set": {
+    "criteria": {
+      "ingredient": "2021-02-11 18:40:59 +0100"
     },
     "done": true
   },
@@ -2173,6 +2347,12 @@
   "minecraft:recipes/building_blocks/light_blue_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2021-02-05 20:00:43 +0100"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/crafting_terminal": {
+    "criteria": {
+      "certus": "2021-02-11 18:28:11 +0100"
     },
     "done": true
   },
@@ -2207,6 +2387,12 @@
       "outback": "2021-02-08 18:48:01 +0100"
     },
     "done": false
+  },
+  "twilightforest:alt/treasures/knightmetal_tool_set": {
+    "criteria": {
+      "ingredient": "2021-02-11 18:47:44 +0100"
+    },
+    "done": true
   },
   "minecraft:story/root": {
     "criteria": {
@@ -2280,6 +2466,18 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/arthopods": {
+    "criteria": {
+      "2": "2021-02-11 18:46:45 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/steeleaf_armor_set": {
+    "criteria": {
+      "ingredient": "2021-02-11 13:34:34 +0100"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2021-02-02 22:36:54 +0100"
@@ -2301,6 +2499,12 @@
   "immersiveengineering:main/root": {
     "criteria": {
       "hold_manual": "2021-02-08 15:50:53 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/foods/any": {
+    "criteria": {
+      "5": "2021-02-11 13:30:23 +0100"
     },
     "done": true
   },
@@ -2328,6 +2532,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/biomes/twilight_swamp": {
+    "criteria": {
+      "0": "2021-02-11 13:37:46 +0100"
+    },
+    "done": true
+  },
   "tombstone:recipes/from_strange_scroll": {
     "criteria": {
       "has_ingredient": "2021-02-02 14:22:13 +0100"
@@ -2352,9 +2562,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2021-02-11 13:34:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_iron_nugget": "2021-02-11 09:21:44 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/knight_stronghold": {
+    "criteria": {
+      "discover": "2021-02-11 18:46:32 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2021-02-03 16:27:55 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/steeleaf_tool_set": {
+    "criteria": {
+      "ingredient": "2021-02-11 13:34:34 +0100"
     },
     "done": true
   },
@@ -2474,9 +2708,10 @@
   },
   "twilightforest:progress_yeti": {
     "criteria": {
-      "previous_progression": "2021-02-10 21:45:43 +0100"
+      "previous_progression": "2021-02-10 21:45:43 +0100",
+      "yeti": "2021-02-11 18:40:55 +0100"
     },
-    "done": false
+    "done": true
   },
   "simplyjetpacks:mek/root_mek": {
     "criteria": {
@@ -2484,9 +2719,21 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/foods/experiment_115": {
+    "criteria": {
+      "food": "2021-02-11 13:30:23 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2021-02-02 11:35:05 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/slime_beetle": {
+    "criteria": {
+      "hurt": "2021-02-11 18:46:45 +0100"
     },
     "done": true
   },

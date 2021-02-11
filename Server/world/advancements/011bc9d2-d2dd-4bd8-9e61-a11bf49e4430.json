@@ -258,6 +258,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_at_least_9_emerald": "2021-02-11 16:30:59 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log2": "2021-02-05 17:39:01 +0100"
@@ -452,6 +458,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2021-02-11 16:30:59 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2021-02-07 18:24:09 +0100"
@@ -511,6 +523,12 @@
       "killed_ghast": "2021-02-05 20:04:08 +0100"
     },
     "done": true
+  },
+  "erebus:exploration/rhino_exo_set": {
+    "criteria": {
+      "shield": "2021-02-11 17:36:59 +0100"
+    },
+    "done": false
   },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
@@ -839,6 +857,12 @@
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_lapis": "2021-02-05 20:55:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2021-02-11 17:20:03 +0100"
     },
     "done": true
   },
@@ -1459,6 +1483,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2021-02-11 15:57:01 +0100"
+    },
+    "done": true
+  },
   "twilightforest:alt/major_landmarks/labyrinth": {
     "criteria": {
       "discover": "2021-02-06 21:36:55 +0100"
@@ -1663,6 +1693,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2021-02-11 17:17:38 +0100"
+    },
+    "done": true
+  },
   "twilightforest:alt/entities/giants": {
     "criteria": {
       "1": "2021-02-06 22:43:42 +0100"
@@ -1816,6 +1852,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2021-02-11 17:17:38 +0100"
+    },
+    "done": true
+  },
   "galacticraftcore:galacticraft/root": {
     "criteria": {
       "tick": "2021-02-04 14:37:04 +0100"
@@ -1849,6 +1891,12 @@
   "twilightforest:alt/major_landmarks/troll_lairs": {
     "criteria": {
       "discover": "2021-02-06 22:45:18 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:alt/compat/tconstruct": {
+    "criteria": {
+      "cast": "2021-02-11 14:57:38 +0100"
     },
     "done": true
   },
@@ -1989,6 +2037,12 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2021-02-04 15:27:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2021-02-11 15:51:46 +0100"
     },
     "done": true
   },
@@ -2229,6 +2283,12 @@
     },
     "done": true
   },
+  "minecraft:nether/uneasy_alliance": {
+    "criteria": {
+      "killed_ghast": "2021-02-11 15:08:47 +0100"
+    },
+    "done": true
+  },
   "tombstone:tutorial/first_grave": {
     "criteria": {
       "coded_trigger": "2021-02-04 14:43:33 +0100"
@@ -2298,6 +2358,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2021-02-04 15:04:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2021-02-11 15:49:38 +0100"
     },
     "done": true
   },
@@ -2430,6 +2496,18 @@
   "twilightforest:alt/biomes/snowy_forest": {
     "criteria": {
       "discover": "2021-02-06 22:25:55 +0100"
+    },
+    "done": true
+  },
+  "projecte:alchemical_chest": {
+    "criteria": {
+      "alch_chest": "2021-02-11 17:14:54 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2021-02-11 17:17:38 +0100"
     },
     "done": true
   },
@@ -2632,6 +2710,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2021-02-11 17:20:03 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/string_to_wool": {
     "criteria": {
       "has_string": "2021-02-04 15:26:15 +0100"
@@ -2691,6 +2775,12 @@
   "twilightforest:alt/treasures/steeleaf_armor_set": {
     "criteria": {
       "chestplate": "2021-02-06 21:39:45 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2021-02-11 17:20:03 +0100"
     },
     "done": true
   },

@@ -897,6 +897,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/knightmetal_armor_set": {
+    "criteria": {
+      "ingredien3": "2021-02-11 19:17:32 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2021-02-01 22:02:47 +0100"
@@ -3667,6 +3673,12 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred_sheep": "2021-02-02 20:39:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_stone": "2021-02-11 15:58:14 +0100"
     },
     "done": true
   },

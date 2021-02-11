@@ -260,6 +260,12 @@
     },
     "done": true
   },
+  "nuclearcraft:processors/rock_crusher": {
+    "criteria": {
+      "has_item": "2021-02-11 12:48:37 +0100"
+    },
+    "done": true
+  },
   "rftools:builder": {
     "criteria": {
       "placed_builder": "2021-02-05 12:29:38 +0100"
@@ -299,6 +305,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2021-02-01 17:13:28 +0100"
+    },
+    "done": true
+  },
+  "enderiomachines:basics/sagmill/1_sagmill_get": {
+    "criteria": {
+      "inv_changed-enderio:block_simple_sag_mill": "2021-02-11 14:33:27 +0100"
     },
     "done": true
   },
@@ -622,6 +634,12 @@
     },
     "done": true
   },
+  "nuclearcraft:processors/speed_upgrade": {
+    "criteria": {
+      "has_item": "2021-02-11 12:59:42 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2021-02-01 17:47:14 +0100"
@@ -741,6 +759,12 @@
       "entered_end": "2021-02-09 13:50:25 +0100"
     },
     "done": true
+  },
+  "enderiomachines:basics/goal/1_all_simple_get": {
+    "criteria": {
+      "inv_changed-enderio:block_simple_sag_mill": "2021-02-11 14:33:27 +0100"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
@@ -1297,6 +1321,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/tools": {
+    "criteria": {
+      "1": "2021-02-11 13:35:15 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_stone": "2021-02-01 17:25:56 +0100"
@@ -1821,6 +1851,12 @@
     },
     "done": true
   },
+  "enderiomachines:basics/sagmill/7_black": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2021-02-11 12:31:50 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2021-02-01 17:19:10 +0100"
@@ -1917,9 +1953,27 @@
     },
     "done": true
   },
+  "immersiveengineering:main/craft_pump": {
+    "criteria": {
+      "craft_hammer": "2021-02-11 11:28:51 +0100"
+    },
+    "done": true
+  },
+  "enderiomachines:basics/alloy/2_energetic_alloy_get": {
+    "criteria": {
+      "inv_changed-enderio:item_energetic_alloy": "2021-02-11 13:15:28 +0100"
+    },
+    "done": true
+  },
   "tombstone:recipes/from_decorative_grave": {
     "criteria": {
       "has_ingredient": "2021-02-01 16:40:02 +0100"
+    },
+    "done": true
+  },
+  "projecte:dark_matter": {
+    "criteria": {
+      "dm": "2021-02-11 11:50:47 +0100"
     },
     "done": true
   },
@@ -2094,6 +2148,12 @@
   "projecte:root": {
     "criteria": {
       "philstone_recipe": "2021-02-05 12:24:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_bricks": {
+    "criteria": {
+      "has_end_stone": "2021-02-11 13:02:14 +0100"
     },
     "done": true
   },
@@ -2280,6 +2340,12 @@
     },
     "done": true
   },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2021-02-11 14:44:58 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log2": "2021-02-01 17:27:50 +0100"
@@ -2301,6 +2367,12 @@
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2021-02-03 17:18:18 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/steeleaf_armor_set": {
+    "criteria": {
+      "ingredient": "2021-02-11 13:35:15 +0100"
     },
     "done": true
   },
@@ -2328,6 +2400,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/armors": {
+    "criteria": {
+      "2": "2021-02-11 13:35:15 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2021-02-01 17:19:10 +0100"
@@ -2337,6 +2415,12 @@
   "appliedenergistics2:main/qnb": {
     "criteria": {
       "certus": "2021-02-09 12:44:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_block": {
+    "criteria": {
+      "has_chorus_fruit_popped": "2021-02-11 14:49:50 +0100"
     },
     "done": true
   },
@@ -2382,6 +2466,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/steeleaf_tool_set": {
+    "criteria": {
+      "ingredient": "2021-02-11 13:35:15 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2021-02-08 22:50:41 +0100"
@@ -2421,6 +2511,12 @@
   "bonsaitrees:grow": {
     "criteria": {
       "finished_growing_a_bonsai_tree": "2021-02-01 17:32:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_rod": {
+    "criteria": {
+      "has_chorus_fruit_popped": "2021-02-11 14:49:50 +0100"
     },
     "done": true
   },

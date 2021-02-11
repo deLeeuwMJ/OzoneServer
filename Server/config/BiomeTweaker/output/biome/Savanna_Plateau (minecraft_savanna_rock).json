@@ -22,8 +22,8 @@
   "Dictionary Types": [
     "SPARSE",
     "HOT",
-    "PLAINS",
     "RARE",
+    "PLAINS",
     "SAVANNA"
   ],
   "BiomeManager Entries": {},
