@@ -2062,6 +2062,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2021-02-12 21:24:25 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2021-02-01 17:34:31 +0100"
@@ -3373,6 +3379,12 @@
   "twilightforest:alt/treasures/giant_blocks": {
     "criteria": {
       "giant_log": "2021-02-06 22:44:39 +0100"
+    },
+    "done": true
+  },
+  "abyssalcraft:dreadium": {
+    "criteria": {
+      "abyssalnite": "2021-02-12 22:21:13 +0100"
     },
     "done": true
   },
