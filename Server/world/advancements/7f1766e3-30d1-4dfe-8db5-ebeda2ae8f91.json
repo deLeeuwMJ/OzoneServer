@@ -604,6 +604,7 @@
       "evoker": "2021-02-10 10:09:40 +0100",
       "zombie": "2021-02-01 19:51:02 +0100",
       "silverfish": "2021-02-02 22:18:07 +0100",
+      "guardian": "2021-02-13 20:03:45 +0100",
       "spider": "2021-02-01 17:24:11 +0100",
       "ghast": "2021-02-03 16:38:08 +0100",
       "creeper": "2021-02-03 14:12:15 +0100",
@@ -983,6 +984,12 @@
     },
     "done": true
   },
+  "projecte:condenser": {
+    "criteria": {
+      "condenser": "2021-02-13 17:37:07 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2021-02-01 17:19:10 +0100"
@@ -1086,6 +1093,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/fiery_tool_set": {
+    "criteria": {
+      "ingredien2": "2021-02-13 20:36:44 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2021-02-01 17:21:16 +0100"
@@ -1113,6 +1126,12 @@
   "tombstone:tutorial/root": {
     "criteria": {
       "auto": "2021-02-01 16:26:49 +0100"
+    },
+    "done": true
+  },
+  "projecte:red_matter_block": {
+    "criteria": {
+      "rm_block": "2021-02-13 17:45:40 +0100"
     },
     "done": true
   },
@@ -1190,6 +1209,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/fiery_blood_tears": {
+    "criteria": {
+      "armor": "2021-02-13 20:36:44 +0100"
+    },
+    "done": true
+  },
   "simplyjetpacks:te/root_te": {
     "criteria": {
       "code_trigger": "2021-02-01 16:26:48 +0100"
@@ -1241,6 +1266,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2021-02-01 17:13:28 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/fiery_armor_set": {
+    "criteria": {
+      "ingredien2": "2021-02-13 20:36:44 +0100"
     },
     "done": true
   },
@@ -1322,6 +1353,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2021-02-13 22:26:20 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2021-02-09 17:46:16 +0100"
@@ -1349,6 +1386,12 @@
   "twilightforest:alt/treasures/tools": {
     "criteria": {
       "1": "2021-02-11 13:35:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2021-02-13 17:59:08 +0100"
     },
     "done": true
   },
@@ -1484,6 +1527,12 @@
     },
     "done": true
   },
+  "projecte:transmutation_tablet": {
+    "criteria": {
+      "trans_tablet": "2021-02-13 19:07:11 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2021-02-08 21:27:35 +0100"
@@ -1568,6 +1617,12 @@
     },
     "done": true
   },
+  "projecte:dark_matter_block": {
+    "criteria": {
+      "dm_block": "2021-02-13 17:57:59 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "entered_water": "2021-02-01 16:39:50 +0100"
@@ -1583,6 +1638,12 @@
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2021-02-05 19:10:35 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2021-02-13 20:10:01 +0100"
     },
     "done": true
   },
@@ -2050,6 +2111,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2021-02-13 22:29:27 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2021-02-01 17:47:14 +0100"
@@ -2119,6 +2186,12 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2021-02-01 17:21:16 +0100"
+    },
+    "done": true
+  },
+  "projecte:transmutation_table": {
+    "criteria": {
+      "trans_table": "2021-02-13 17:26:17 +0100"
     },
     "done": true
   },
@@ -2262,6 +2335,7 @@
   },
   "twilightforest:progress_ur_ghast": {
     "criteria": {
+      "tear": "2021-02-13 20:36:44 +0100",
       "trophy": "2021-02-08 12:46:06 +0100"
     },
     "done": false

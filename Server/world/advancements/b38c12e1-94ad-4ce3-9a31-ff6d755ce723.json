@@ -762,6 +762,12 @@
     },
     "done": true
   },
+  "nuclearcraft:processors/electrolyser": {
+    "criteria": {
+      "has_item": "2021-02-13 21:23:22 +0100"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2021-02-01 17:19:44 +0100"
@@ -873,6 +879,12 @@
     },
     "done": true
   },
+  "nuclearcraft:processors/speed_upgrade": {
+    "criteria": {
+      "has_item": "2021-02-13 21:44:34 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-02-01 17:40:16 +0100"
@@ -936,6 +948,12 @@
   "minecraft:recipes/building_blocks/green_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2021-02-04 19:23:31 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:pressure_tube": {
+    "criteria": {
+      "pressure_tube": "2021-02-13 18:47:37 +0100"
     },
     "done": true
   },
@@ -1549,6 +1567,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:advanced_pressure_tube": {
+    "criteria": {
+      "pressure_tube": "2021-02-13 19:19:03 +0100"
+    },
+    "done": true
+  },
   "tombstone:tutorial/root": {
     "criteria": {
       "auto": "2021-02-01 17:08:33 +0100"
@@ -1620,6 +1644,12 @@
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_bonemeal": "2021-02-01 17:40:16 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:vortex_tube": {
+    "criteria": {
+      "air_compressor": "2021-02-13 18:47:45 +0100"
     },
     "done": true
   },
@@ -2068,6 +2098,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/winter_wolf": {
+    "criteria": {
+      "slay": "2021-02-13 17:26:46 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2021-02-01 17:34:31 +0100"
@@ -2182,6 +2218,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:refinery": {
+    "criteria": {
+      "refinery": "2021-02-13 18:55:29 +0100"
+    },
+    "done": true
+  },
   "twilightforest:alt/treasures/carminite": {
     "criteria": {
       "carminite": "2021-02-06 22:25:22 +0100"
@@ -2191,6 +2233,12 @@
   "twilightforest:alt/entities/giants": {
     "criteria": {
       "0": "2021-02-06 22:43:46 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:plastic": {
+    "criteria": {
+      "plastic": "2021-02-13 18:42:38 +0100"
     },
     "done": true
   },
@@ -2285,6 +2333,12 @@
   "twilightforest:alt/biomes/general_biomes": {
     "criteria": {
       "3": "2021-02-05 12:44:40 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/wolves": {
+    "criteria": {
+      "2": "2021-02-13 17:26:46 +0100"
     },
     "done": true
   },
@@ -2626,6 +2680,18 @@
     },
     "done": true
   },
+  "nuclearcraft:processors/manufactory": {
+    "criteria": {
+      "has_item": "2021-02-13 20:05:58 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:root": {
+    "criteria": {
+      "explode_iron": "2021-02-13 18:35:35 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2021-02-01 18:45:55 +0100"
@@ -2762,6 +2828,12 @@
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2021-02-08 20:57:11 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_pump": {
+    "criteria": {
+      "craft_hammer": "2021-02-13 18:57:45 +0100"
     },
     "done": true
   },
@@ -3107,6 +3179,12 @@
     },
     "done": true
   },
+  "nuclearcraft:processors/chemical_reactor": {
+    "criteria": {
+      "has_item": "2021-02-13 20:29:53 +0100"
+    },
+    "done": true
+  },
   "twilightforest:alt/biomes/dark_forest_center": {
     "criteria": {
       "discover": "2021-02-06 21:58:54 +0100"
@@ -3286,6 +3364,12 @@
       "desert": "2021-02-08 18:12:22 +0100",
       "swamp": "2021-02-08 18:44:03 +0100",
       "outback": "2021-02-08 18:46:26 +0100"
+    },
+    "done": true
+  },
+  "abyssalcraft:mine_coralium": {
+    "criteria": {
+      "gem": "2021-02-13 18:07:20 +0100"
     },
     "done": true
   },
