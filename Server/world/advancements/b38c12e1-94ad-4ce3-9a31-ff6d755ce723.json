@@ -363,6 +363,12 @@
     },
     "done": true
   },
+  "enderioconduits:item/1_item_conduit": {
+    "criteria": {
+      "inv_changed-enderio:item_conduit": "2021-02-15 18:54:07 +0100"
+    },
+    "done": true
+  },
   "tombstone:tutorial/find_lost_tablet": {
     "criteria": {
       "has_lost_tablet": "2021-02-14 19:52:04 +0100"
@@ -771,6 +777,12 @@
   "nuclearcraft:processors/electrolyser": {
     "criteria": {
       "has_item": "2021-02-13 21:23:22 +0100"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2021-02-15 14:30:55 +0100"
     },
     "done": true
   },
@@ -2164,6 +2176,12 @@
     },
     "done": true
   },
+  "projecte:transmutation_tablet": {
+    "criteria": {
+      "trans_tablet": "2021-02-15 18:24:23 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine": {
     "criteria": {
       "has_prismarine_shard": "2021-02-01 20:36:32 +0100"
@@ -2671,6 +2689,12 @@
       "entered_water": "2021-02-01 18:42:24 +0100"
     },
     "done": true
+  },
+  "enderioconduits:goals/all_conduits": {
+    "criteria": {
+      "inv_changed-enderio:item_conduit2": "2021-02-15 18:54:07 +0100"
+    },
+    "done": false
   },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
@@ -3481,6 +3505,12 @@
     },
     "done": true
   },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2021-02-15 21:10:16 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log2": "2021-02-01 17:26:44 +0100"
@@ -3903,6 +3933,12 @@
   "minecraft:end/respawn_dragon": {
     "criteria": {
       "summoned_dragon": "2021-02-09 16:00:01 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick": {
+    "criteria": {
+      "has_netherbrick": "2021-02-15 19:11:02 +0100"
     },
     "done": true
   },
