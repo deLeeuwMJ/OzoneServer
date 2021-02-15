@@ -363,6 +363,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/find_lost_tablet": {
+    "criteria": {
+      "has_lost_tablet": "2021-02-14 19:52:04 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2021-02-01 22:02:47 +0100"
@@ -1773,6 +1779,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:tp_plant": {
+    "criteria": {
+      "refinery": "2021-02-14 17:36:34 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2021-02-04 19:23:31 +0100"
@@ -1830,6 +1842,12 @@
   "twilightforest:alt/entities/ur_ghast": {
     "criteria": {
       "hurt": "2021-02-06 22:24:44 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_red_flower": "2021-02-14 22:52:58 +0100"
     },
     "done": true
   },
@@ -1939,6 +1957,12 @@
   "twilightforest:alt/major_landmarks/labyrinth": {
     "criteria": {
       "discover": "2021-02-06 21:36:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_block": {
+    "criteria": {
+      "has_bone_block": "2021-02-14 19:19:36 +0100"
     },
     "done": true
   },
@@ -2692,6 +2716,12 @@
     },
     "done": true
   },
+  "enderiomachines:basics/sagmill/7_black": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2021-02-14 22:51:18 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2021-02-01 18:45:55 +0100"
@@ -3397,6 +3427,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/create_magic_tablet": {
+    "criteria": {
+      "has_tablet_of_recall": "2021-02-15 01:09:11 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2021-02-03 13:47:31 +0100"
@@ -3541,6 +3577,12 @@
   "twilightforest:alt/treasures/foods/any": {
     "criteria": {
       "3": "2021-02-06 20:49:45 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/root": {
+    "criteria": {
+      "hold_manual": "2021-02-14 18:35:01 +0100"
     },
     "done": true
   },

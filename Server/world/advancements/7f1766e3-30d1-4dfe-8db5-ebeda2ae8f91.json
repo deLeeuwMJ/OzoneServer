@@ -54,6 +54,15 @@
     },
     "done": true
   },
+  "twilightforest:fiery_set": {
+    "criteria": {
+      "head": "2021-02-14 17:15:25 +0100",
+      "feet": "2021-02-14 17:15:25 +0100",
+      "chest": "2021-02-14 17:15:25 +0100",
+      "legs": "2021-02-14 17:15:25 +0100"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2021-02-05 19:10:35 +0100"
@@ -219,8 +228,16 @@
   "erebus:exploration/kill_all": {
     "criteria": {
       "kill_black_widow": "2021-02-03 15:14:17 +0100",
+      "kill_bot_fly": "2021-02-15 00:55:08 +0100",
+      "kill_magma_crawler": "2021-02-15 00:58:32 +0100",
+      "kill_stag": "2021-02-15 01:05:10 +0100",
+      "kill_antlion": "2021-02-15 01:04:48 +0100",
       "kill_tarantula": "2021-02-08 18:51:07 +0100",
-      "kill_rhino": "2021-02-08 18:51:23 +0100"
+      "kill_rhino": "2021-02-08 18:51:23 +0100",
+      "kill_fire_ant_soldier": "2021-02-15 01:09:41 +0100",
+      "kill_dragonfly": "2021-02-15 00:55:07 +0100",
+      "kill_chameleon_tick": "2021-02-15 00:58:06 +0100",
+      "kill_fire_ant": "2021-02-15 01:03:55 +0100"
     },
     "done": false
   },
@@ -245,6 +262,12 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2021-02-03 16:05:52 +0100"
+    },
+    "done": true
+  },
+  "enderioconduits:item/1_item_conduit": {
+    "criteria": {
+      "inv_changed-enderio:item_conduit": "2021-02-14 12:32:52 +0100"
     },
     "done": true
   },
@@ -359,6 +382,12 @@
   "abyssalcraft:shadow_gems": {
     "criteria": {
       "necronomicon": "2021-02-09 19:47:05 +0100"
+    },
+    "done": true
+  },
+  "erebus:portal/portal": {
+    "criteria": {
+      "portal_activate": "2021-02-14 17:23:46 +0100"
     },
     "done": true
   },
@@ -666,6 +695,12 @@
     },
     "done": true
   },
+  "enderiomachines:basics/sagmill/a_powder_coating": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2021-02-14 13:58:27 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_red_flower": "2021-02-09 14:19:51 +0100"
@@ -813,6 +848,12 @@
   "minecraft:recipes/building_blocks/yellow_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2021-02-08 22:50:41 +0100"
+    },
+    "done": true
+  },
+  "projecte:klein_star_omega": {
+    "criteria": {
+      "klein_star": "2021-02-14 23:58:16 +0100"
     },
     "done": true
   },
@@ -1008,6 +1049,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2021-02-14 20:35:54 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_log": "2021-02-01 19:41:00 +0100"
@@ -1105,6 +1152,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2021-02-14 20:33:13 +0100"
+    },
+    "done": true
+  },
   "chancecubes:chance_icosahedron": {
     "criteria": {
       "placed_icosahedron": "2021-02-05 12:54:49 +0100"
@@ -1141,6 +1194,12 @@
     },
     "done": true
   },
+  "enderiomachines:basics/sagmill/4_brown": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2021-02-14 20:25:59 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2021-02-02 12:46:53 +0100"
@@ -1156,6 +1215,12 @@
   "astralsorcery:rock_crystals": {
     "criteria": {
       "rock_crystal_in_inventory": "2021-02-02 20:47:01 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2021-02-14 13:56:47 +0100"
     },
     "done": true
   },
@@ -1221,6 +1286,12 @@
     },
     "done": true
   },
+  "enderioconduits:fluid/1_fluid_conduit": {
+    "criteria": {
+      "inv_changed-enderio:liquid_conduit": "2021-02-14 15:42:32 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2021-02-01 17:13:28 +0100"
@@ -1272,6 +1343,12 @@
   "twilightforest:alt/treasures/fiery_armor_set": {
     "criteria": {
       "ingredien2": "2021-02-13 20:36:44 +0100"
+    },
+    "done": true
+  },
+  "enderiomachines:basics/alloy/machine_chassis_get": {
+    "criteria": {
+      "inv_changed-enderio:block_machine_chassis": "2021-02-14 13:58:45 +0100"
     },
     "done": true
   },
@@ -1341,6 +1418,19 @@
     },
     "done": true
   },
+  "erebus:portal/portal_activator": {
+    "criteria": {
+      "get_activator": "2021-02-14 17:24:03 +0100",
+      "get_keystone": "2021-02-14 17:23:44 +0100"
+    },
+    "done": true
+  },
+  "projecte:klein_star_ein": {
+    "criteria": {
+      "klein_star": "2021-02-14 23:57:17 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2021-02-01 17:24:06 +0100"
@@ -1386,6 +1476,12 @@
   "twilightforest:alt/treasures/tools": {
     "criteria": {
       "1": "2021-02-11 13:35:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2021-02-14 20:33:13 +0100"
     },
     "done": true
   },
@@ -1533,6 +1629,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2021-02-14 20:33:13 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2021-02-08 21:27:35 +0100"
@@ -1584,6 +1686,12 @@
   "minecraft:recipes/decorations/pink_carpet": {
     "criteria": {
       "has_pink_wool": "2021-02-05 12:57:37 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:plastic": {
+    "criteria": {
+      "plastic": "2021-02-14 19:04:32 +0100"
     },
     "done": true
   },
@@ -1665,6 +1773,12 @@
     },
     "done": true
   },
+  "nuclearcraft:processors/infuser": {
+    "criteria": {
+      "has_item": "2021-02-14 20:53:04 +0100"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "baked_potato": "2021-02-01 17:38:38 +0100",
@@ -1689,6 +1803,12 @@
     },
     "done": true
   },
+  "enderioconduits:redstone/1_redstone_conduit": {
+    "criteria": {
+      "inv_changed-enderio:redstone_conduit": "2021-02-14 22:15:27 +0100"
+    },
+    "done": true
+  },
   "tombstone:tutorial/info_grave_key": {
     "criteria": {
       "grave_key": "2021-02-01 16:40:02 +0100"
@@ -1698,6 +1818,12 @@
   "minecraft:recipes/decorations/orange_stained_glass_pane": {
     "criteria": {
       "has_glass": "2021-02-01 17:47:14 +0100"
+    },
+    "done": true
+  },
+  "enderiomachines:basics/sagmill/9_white": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2021-02-14 20:20:10 +0100"
     },
     "done": true
   },
@@ -1905,6 +2031,15 @@
     },
     "done": true
   },
+  "enderioconduits:goals/all_conduits": {
+    "criteria": {
+      "inv_changed-enderio:redstone_conduit2": "2021-02-14 22:15:27 +0100",
+      "inv_changed-enderio:power_conduit2": "2021-02-14 13:52:19 +0100",
+      "inv_changed-enderio:item_conduit2": "2021-02-14 12:32:52 +0100",
+      "inv_changed-enderio:liquid_conduit_ender2": "2021-02-14 15:42:32 +0100"
+    },
+    "done": false
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2021-02-02 12:46:53 +0100"
@@ -2045,6 +2180,12 @@
     },
     "done": true
   },
+  "simplyjetpacks:te/jetpack_te5": {
+    "criteria": {
+      "jetpack_te5": "2021-02-14 23:46:07 +0100"
+    },
+    "done": true
+  },
   "enderiomachines:basics/alloy/2_energetic_alloy_get": {
     "criteria": {
       "inv_changed-enderio:item_energetic_alloy": "2021-02-11 13:15:28 +0100"
@@ -2096,6 +2237,12 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2021-02-01 17:47:14 +0100"
+    },
+    "done": true
+  },
+  "enderiomachines:basics/sagmill/6_coal": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2021-02-14 13:17:41 +0100"
     },
     "done": true
   },
@@ -2174,6 +2321,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stonebrick": "2021-02-01 21:44:27 +0100"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/charged_quartz": {
+    "criteria": {
+      "certus": "2021-02-14 18:47:45 +0100"
     },
     "done": true
   },
@@ -2315,6 +2468,12 @@
     },
     "done": true
   },
+  "enderiomachines:root": {
+    "criteria": {
+      "inv_changed-enderio:block_machine_chassis_root": "2021-02-14 13:58:45 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2021-02-02 12:46:53 +0100"
@@ -2339,6 +2498,12 @@
       "trophy": "2021-02-08 12:46:06 +0100"
     },
     "done": false
+  },
+  "enderio:gears/g5_vibrant_gear": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2021-02-14 15:04:49 +0100"
+    },
+    "done": true
   },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
@@ -2388,6 +2553,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2021-02-14 13:56:47 +0100"
+    },
+    "done": true
+  },
   "simplyjetpacks:vanilla/root_vanilla": {
     "criteria": {
       "code_trigger": "2021-02-01 16:26:48 +0100"
@@ -2399,6 +2570,8 @@
       "fungal": "2021-02-08 18:48:34 +0100",
       "petrified": "2021-02-08 18:47:06 +0100",
       "savannah": "2021-02-08 18:49:44 +0100",
+      "elysian": "2021-02-15 00:48:57 +0100",
+      "desert": "2021-02-15 00:50:14 +0100",
       "outback": "2021-02-08 18:47:21 +0100"
     },
     "done": false
@@ -2406,6 +2579,12 @@
   "abyssalcraft:mine_coralium": {
     "criteria": {
       "gem": "2021-02-09 20:54:07 +0100"
+    },
+    "done": true
+  },
+  "enderioconduits:energy/1_energy_conduit": {
+    "criteria": {
+      "inv_changed-enderio:power_conduit": "2021-02-14 13:52:19 +0100"
     },
     "done": true
   },
@@ -2430,6 +2609,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2021-02-01 17:20:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma": {
+    "criteria": {
+      "has_magma_cream": "2021-02-15 01:06:56 +0100"
     },
     "done": true
   },
@@ -2523,6 +2708,12 @@
     },
     "done": true
   },
+  "enderiomachines:basics/sagmill/8_blue": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2021-02-14 13:58:07 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purpur_block": {
     "criteria": {
       "has_chorus_fruit_popped": "2021-02-11 14:49:50 +0100"
@@ -2544,6 +2735,12 @@
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_brick": "2021-02-03 15:12:20 +0100"
+    },
+    "done": true
+  },
+  "enderiomachines:basics/sagmill/5_green": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2021-02-14 13:57:25 +0100"
     },
     "done": true
   },
@@ -2580,6 +2777,12 @@
   "minecraft:recipes/building_blocks/magenta_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2021-02-08 22:50:41 +0100"
+    },
+    "done": true
+  },
+  "nuclearcraft:processors/crystallizer": {
+    "criteria": {
+      "has_item": "2021-02-14 22:49:22 +0100"
     },
     "done": true
   },
@@ -2715,6 +2918,12 @@
     },
     "done": true
   },
+  "enderio:start/2_simple_chassis_get": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2021-02-14 13:52:52 +0100"
+    },
+    "done": true
+  },
   "minecraft:end/respawn_dragon": {
     "criteria": {
       "summoned_dragon": "2021-02-12 22:10:58 +0100"
@@ -2730,6 +2939,12 @@
   "appliedenergistics2:main/network1": {
     "criteria": {
       "cable": "2021-02-05 17:04:44 +0100"
+    },
+    "done": true
+  },
+  "enderiomachines:basics/sagmill/2_sagmill_flowers": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2021-02-14 13:56:19 +0100"
     },
     "done": true
   },
@@ -2766,6 +2981,12 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_at_least_9_bonemeal": "2021-02-02 12:42:14 +0100"
+    },
+    "done": true
+  },
+  "enderioconduits:fluid/3_fluid_conduit_ender": {
+    "criteria": {
+      "inv_changed-enderio:liquid_conduit_ender": "2021-02-14 15:42:32 +0100"
     },
     "done": true
   }

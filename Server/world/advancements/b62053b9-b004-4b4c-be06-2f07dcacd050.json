@@ -217,6 +217,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2021-02-14 18:00:50 +0100"
+    },
+    "done": true
+  },
   "erebus:exploration/kill_all": {
     "criteria": {
       "kill_black_widow": "2021-02-02 17:45:33 +0100"
@@ -665,6 +671,12 @@
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2021-02-02 17:50:42 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed": {
+    "criteria": {
+      "has_orange_wool": "2021-02-14 20:12:55 +0100"
     },
     "done": true
   },
@@ -1200,6 +1212,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_banner": {
+    "criteria": {
+      "has_orange_wool": "2021-02-14 20:12:55 +0100"
+    },
+    "done": true
+  },
   "appliedenergistics2:main/presses": {
     "criteria": {
       "eng": "2021-02-01 17:44:53 +0100"
@@ -1257,6 +1275,12 @@
   "twilightforest:alt/entities/goblin_knight": {
     "criteria": {
       "hurt_by_indirect": "2021-02-06 21:57:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2021-02-14 18:18:59 +0100"
     },
     "done": true
   },
@@ -1600,6 +1624,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2021-02-14 18:18:59 +0100"
+    },
+    "done": true
+  },
   "twilightforest:alt/major_landmarks/labyrinth": {
     "criteria": {
       "discover": "2021-02-06 21:36:50 +0100"
@@ -1666,6 +1696,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2021-02-14 18:00:50 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2021-02-01 16:43:29 +0100"
@@ -1681,6 +1717,12 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-02-01 17:17:35 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2021-02-14 18:00:50 +0100"
     },
     "done": true
   },
@@ -1735,6 +1777,12 @@
   "twilightforest:alt/entities/yeti_alpha": {
     "criteria": {
       "hurt": "2021-02-06 22:26:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2021-02-14 18:18:59 +0100"
     },
     "done": true
   },
@@ -2128,6 +2176,12 @@
   "twilightforest:alt/biomes/oak_savannah": {
     "criteria": {
       "discover": "2021-02-05 17:09:38 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet": {
+    "criteria": {
+      "has_orange_wool": "2021-02-14 20:12:55 +0100"
     },
     "done": true
   },
