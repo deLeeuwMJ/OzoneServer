@@ -1435,6 +1435,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2021-02-16 15:00:40 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_at_least_9_diamond": "2021-02-04 15:15:47 +0100"
@@ -1636,6 +1642,12 @@
   "twilightforest:alt/entities/yeti_alpha": {
     "criteria": {
       "hurt": "2021-02-06 22:26:39 +0100"
+    },
+    "done": true
+  },
+  "projecte:transmutation_tablet": {
+    "criteria": {
+      "trans_tablet": "2021-02-16 15:03:40 +0100"
     },
     "done": true
   },
