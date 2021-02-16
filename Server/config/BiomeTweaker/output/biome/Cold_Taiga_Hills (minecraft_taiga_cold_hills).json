@@ -21,9 +21,9 @@
   "Enable Snow": true,
   "Dictionary Types": [
     "FOREST",
-    "CONIFEROUS",
     "COLD",
     "HILLS",
+    "CONIFEROUS",
     "SNOWY"
   ],
   "BiomeManager Entries": {},
@@ -66,12 +66,6 @@
     },
     {
       "Entity Class": "com.robrit.moofluids.common.entity.EntityFluidCow",
-      "Weight": 8,
-      "Min Group Count": 4,
-      "Max Group Count": 4
-    },
-    {
-      "Entity Class": "com.robrit.moofluids.common.entity.holiday.EntityValentinesCow",
       "Weight": 8,
       "Min Group Count": 4,
       "Max Group Count": 4

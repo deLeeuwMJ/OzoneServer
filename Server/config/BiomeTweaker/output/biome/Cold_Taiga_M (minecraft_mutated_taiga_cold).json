@@ -21,11 +21,11 @@
   "Enable Snow": true,
   "Dictionary Types": [
     "FOREST",
-    "RARE",
-    "CONIFEROUS",
     "COLD",
+    "MOUNTAIN",
+    "CONIFEROUS",
     "SNOWY",
-    "MOUNTAIN"
+    "RARE"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
@@ -67,12 +67,6 @@
     },
     {
       "Entity Class": "com.robrit.moofluids.common.entity.EntityFluidCow",
-      "Weight": 8,
-      "Min Group Count": 4,
-      "Max Group Count": 4
-    },
-    {
-      "Entity Class": "com.robrit.moofluids.common.entity.holiday.EntityValentinesCow",
       "Weight": 8,
       "Min Group Count": 4,
       "Max Group Count": 4
