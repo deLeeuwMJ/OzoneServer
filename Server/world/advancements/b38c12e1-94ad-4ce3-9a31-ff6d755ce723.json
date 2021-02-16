@@ -1397,6 +1397,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/storage_bus": {
+    "criteria": {
+      "part": "2021-02-16 19:48:53 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_log": "2021-02-01 17:28:33 +0100"
@@ -2547,6 +2553,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2021-02-01 18:58:14 +0100"
+    },
+    "done": true
+  },
+  "botania:main/terrasteel_pickup": {
+    "criteria": {
+      "terrasteel": "2021-02-16 19:22:40 +0100"
     },
     "done": true
   },

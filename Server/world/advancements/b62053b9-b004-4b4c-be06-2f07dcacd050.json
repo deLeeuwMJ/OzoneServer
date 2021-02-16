@@ -375,6 +375,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_carpet": {
+    "criteria": {
+      "has_magenta_wool": "2021-02-16 20:13:22 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_bonemeal": "2021-02-02 20:42:22 +0100"
@@ -1350,6 +1356,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2021-02-16 19:16:14 +0100"
+    },
+    "done": true
+  },
   "twilightforest:progress_knights": {
     "criteria": {
       "previous_progression": "2021-02-06 21:57:39 +0100",
@@ -1452,6 +1464,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2021-02-01 17:12:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_banner": {
+    "criteria": {
+      "has_magenta_wool": "2021-02-16 20:13:22 +0100"
     },
     "done": true
   },
@@ -1708,6 +1726,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/slime": {
+    "criteria": {
+      "has_at_least_9_slime_ball": "2021-02-16 19:16:14 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2021-02-01 16:43:29 +0100"
@@ -1783,6 +1807,12 @@
   "twilightforest:alt/entities/yeti_alpha": {
     "criteria": {
       "hurt": "2021-02-06 22:26:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_bed": {
+    "criteria": {
+      "has_magenta_wool": "2021-02-16 20:13:22 +0100"
     },
     "done": true
   },
@@ -2929,6 +2959,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2021-02-16 19:16:14 +0100"
+    },
+    "done": true
+  },
   "simplyjetpacks:vanilla/root_vanilla": {
     "criteria": {
       "code_trigger": "2021-02-01 16:28:27 +0100"
@@ -2957,6 +2993,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2021-02-01 16:41:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime": "2021-02-16 19:15:23 +0100"
     },
     "done": true
   },

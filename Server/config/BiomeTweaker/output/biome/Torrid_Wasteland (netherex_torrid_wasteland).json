@@ -22,10 +22,10 @@
   "Dictionary Types": [
     "SAVANNA",
     "NETHER",
-    "PLAINS",
-    "WASTELAND",
     "HOT",
-    "DRY"
+    "DRY",
+    "WASTELAND",
+    "PLAINS"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
