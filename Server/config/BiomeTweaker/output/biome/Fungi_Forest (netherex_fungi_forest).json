@@ -20,13 +20,13 @@
   "Enable Rain": false,
   "Enable Snow": false,
   "Dictionary Types": [
-    "SAVANNA",
-    "NETHER",
-    "HOT",
     "COLD",
+    "WET",
     "DRY",
     "MUSHROOM",
-    "WET",
+    "NETHER",
+    "HOT",
+    "SAVANNA",
     "PLAINS"
   ],
   "BiomeManager Entries": {},

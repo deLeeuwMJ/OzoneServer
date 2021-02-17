@@ -48,6 +48,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_red_flower": "2021-02-17 21:00:20 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2021-02-02 13:54:23 +0100"
@@ -623,6 +629,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/ironwood_tool_set": {
+    "criteria": {
+      "ingredien2": "2021-02-17 22:53:40 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-02-01 17:22:14 +0100"
@@ -1108,6 +1120,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_carpet": {
+    "criteria": {
+      "has_light_blue_wool": "2021-02-17 21:00:53 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/golden_rail": {
     "criteria": {
       "has_rail": "2021-02-09 13:36:04 +0100"
@@ -1470,6 +1488,12 @@
   "minecraft:recipes/decorations/magenta_banner": {
     "criteria": {
       "has_magenta_wool": "2021-02-16 20:13:22 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_banner": {
+    "criteria": {
+      "has_light_blue_wool": "2021-02-17 21:00:53 +0100"
     },
     "done": true
   },
@@ -2537,6 +2561,12 @@
     },
     "done": true
   },
+  "enderiomachines:basics/alloy/2_energetic_alloy_get": {
+    "criteria": {
+      "inv_changed-enderio:item_energetic_alloy": "2021-02-17 22:54:05 +0100"
+    },
+    "done": true
+  },
   "twilightforest:alt/major_landmarks/small_hollow_hill": {
     "criteria": {
       "discover": "2021-02-06 21:01:19 +0100"
@@ -2672,6 +2702,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2021-02-04 14:21:29 +0100"
+    },
+    "done": true
+  },
+  "erebus:exploration/jade_ore": {
+    "criteria": {
+      "collect_jade": "2021-02-17 22:54:03 +0100"
     },
     "done": true
   },
@@ -3008,6 +3044,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2021-02-17 23:11:32 +0100"
+    },
+    "done": true
+  },
   "galacticraftcore:galacticraft/advanced_wafer": {
     "criteria": {
       "compressor": "2021-02-04 13:08:30 +0100"
@@ -3057,6 +3099,12 @@
     },
     "done": true
   },
+  "abyssalcraft:dreadium": {
+    "criteria": {
+      "abyssalnite": "2021-02-17 22:52:28 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2021-02-01 17:15:16 +0100"
@@ -3078,6 +3126,12 @@
   "twilightforest:alt/entities/arthopods": {
     "criteria": {
       "2": "2021-02-06 21:59:17 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/steeleaf_armor_set": {
+    "criteria": {
+      "ingredient": "2021-02-17 22:54:02 +0100"
     },
     "done": true
   },
@@ -3198,6 +3252,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2021-02-01 16:42:01 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/steeleaf_tool_set": {
+    "criteria": {
+      "ingredient": "2021-02-17 22:54:02 +0100"
     },
     "done": true
   },
@@ -3378,6 +3438,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/network2": {
+    "criteria": {
+      "cable": "2021-02-17 22:56:00 +0100"
+    },
+    "done": true
+  },
   "appliedenergistics2:main/network1": {
     "criteria": {
       "cable": "2021-02-05 15:46:59 +0100"
@@ -3393,6 +3459,12 @@
   "twilightforest:alt/entities/ice_cores": {
     "criteria": {
       "0": "2021-02-06 22:30:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed": {
+    "criteria": {
+      "has_light_blue_wool": "2021-02-17 21:00:53 +0100"
     },
     "done": true
   },

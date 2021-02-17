@@ -20,11 +20,11 @@
   "Enable Rain": false,
   "Enable Snow": false,
   "Dictionary Types": [
-    "SAVANNA",
-    "NETHER",
     "SANDY",
-    "HOT",
     "DRY",
+    "NETHER",
+    "HOT",
+    "SAVANNA",
     "PLAINS"
   ],
   "BiomeManager Entries": {},
