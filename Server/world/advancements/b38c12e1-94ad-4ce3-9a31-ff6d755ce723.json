@@ -90,6 +90,12 @@
     },
     "done": true
   },
+  "projecte:red_matter": {
+    "criteria": {
+      "rm": "2021-02-21 02:38:30 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/snow": {
     "criteria": {
       "has_snowball": "2021-02-08 20:45:26 +0100"
@@ -683,6 +689,12 @@
     },
     "done": true
   },
+  "enderioconduits:item/2_basic_filter": {
+    "criteria": {
+      "inv_changed-enderio:item_basic_item_filter": "2021-02-20 22:30:55 +0100"
+    },
+    "done": true
+  },
   "twilightforest:progress_trophy_pedestal": {
     "criteria": {
       "kill_lich": "2021-02-06 21:18:59 +0100",
@@ -1153,6 +1165,12 @@
   "minecraft:recipes/building_blocks/yellow_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2021-02-04 19:23:31 +0100"
+    },
+    "done": true
+  },
+  "projecte:klein_star_omega": {
+    "criteria": {
+      "klein_star": "2021-02-21 02:51:42 +0100"
     },
     "done": true
   },
@@ -1639,6 +1657,18 @@
     },
     "done": true
   },
+  "projecte:red_matter_block": {
+    "criteria": {
+      "rm_block": "2021-02-21 02:38:48 +0100"
+    },
+    "done": true
+  },
+  "projecte:dark_matter_pickaxe": {
+    "criteria": {
+      "dm_pick": "2021-02-21 05:30:25 +0100"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "spider": "2021-02-01 17:20:38 +0100"
@@ -1776,6 +1806,12 @@
   "simplyjetpacks:te/root_te": {
     "criteria": {
       "code_trigger": "2021-02-01 17:08:33 +0100"
+    },
+    "done": true
+  },
+  "enderioconduits:fluid/1_fluid_conduit": {
+    "criteria": {
+      "inv_changed-enderio:liquid_conduit": "2021-02-20 21:49:08 +0100"
     },
     "done": true
   },
@@ -1939,6 +1975,12 @@
     "criteria": {
       "get_activator": "2021-02-08 17:55:51 +0100",
       "get_keystone": "2021-02-08 17:57:16 +0100"
+    },
+    "done": true
+  },
+  "projecte:klein_star_ein": {
+    "criteria": {
+      "klein_star": "2021-02-21 02:49:45 +0100"
     },
     "done": true
   },
@@ -2684,6 +2726,12 @@
     },
     "done": true
   },
+  "projecte:red_matter_pickaxe": {
+    "criteria": {
+      "rm_pick": "2021-02-21 05:31:35 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2021-02-01 17:34:31 +0100"
@@ -2740,7 +2788,8 @@
   },
   "enderioconduits:goals/all_conduits": {
     "criteria": {
-      "inv_changed-enderio:item_conduit2": "2021-02-15 18:54:07 +0100"
+      "inv_changed-enderio:item_conduit2": "2021-02-15 18:54:07 +0100",
+      "inv_changed-enderio:liquid_conduit_ender2": "2021-02-20 21:49:10 +0100"
     },
     "done": false
   },
@@ -2960,6 +3009,12 @@
   "tombstone:recipes/from_decorative_grave": {
     "criteria": {
       "has_ingredient": "2021-02-01 17:25:16 +0100"
+    },
+    "done": true
+  },
+  "projecte:dark_matter": {
+    "criteria": {
+      "dm": "2021-02-21 02:38:12 +0100"
     },
     "done": true
   },
@@ -3922,6 +3977,12 @@
     },
     "done": true
   },
+  "enderioconduits:goals/all_filters": {
+    "criteria": {
+      "inv_changed-enderio:item_basic_item_filter2": "2021-02-20 22:30:55 +0100"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2021-02-01 19:34:21 +0100"
@@ -4095,6 +4156,12 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_at_least_9_bonemeal": "2021-02-02 18:44:01 +0100"
+    },
+    "done": true
+  },
+  "enderioconduits:fluid/3_fluid_conduit_ender": {
+    "criteria": {
+      "inv_changed-enderio:liquid_conduit_ender": "2021-02-20 21:49:10 +0100"
     },
     "done": true
   }
