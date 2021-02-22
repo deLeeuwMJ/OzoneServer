@@ -117,6 +117,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "kill_mob": "2021-02-22 12:42:12 +0100"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-02-01 17:25:50 +0100"
@@ -544,6 +550,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_double_plant": "2021-02-22 10:20:58 +0100"
+    },
+    "done": true
+  },
   "erebus:exploration/rhino_exo_set": {
     "criteria": {
       "shield": "2021-02-08 23:08:19 +0100"
@@ -661,6 +673,12 @@
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2021-02-05 13:00:42 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:printed_circuit_board": {
+    "criteria": {
+      "air_compressor": "2021-02-22 14:35:20 +0100"
     },
     "done": true
   },
@@ -828,6 +846,18 @@
     },
     "done": true
   },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "wild_boar": "2021-02-22 12:42:12 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/foods/meef": {
+    "criteria": {
+      "raw": "2021-02-22 12:54:42 +0100"
+    },
+    "done": true
+  },
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold": "2021-02-08 22:18:11 +0100"
@@ -885,6 +915,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2021-02-03 15:12:32 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/minotaur_axe_gold": {
+    "criteria": {
+      "axe": "2021-02-22 12:54:48 +0100"
     },
     "done": true
   },
@@ -972,6 +1008,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/foods/vension": {
+    "criteria": {
+      "raw": "2021-02-22 12:42:28 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_at_least_9_iron_ingot": "2021-02-01 17:19:10 +0100"
@@ -981,6 +1023,12 @@
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2021-02-05 13:00:45 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/minotaur_axes": {
+    "criteria": {
+      "gold": "2021-02-22 12:54:48 +0100"
     },
     "done": true
   },
@@ -1200,6 +1248,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/biomes/firefly_forest": {
+    "criteria": {
+      "discover": "2021-02-22 12:44:42 +0100"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2021-02-08 21:22:38 +0100"
@@ -1216,6 +1270,12 @@
     "criteria": {
       "logic": "2021-02-01 16:45:06 +0100",
       "eng": "2021-02-01 16:45:06 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/mushroom_forest": {
+    "criteria": {
+      "discover": "2021-02-22 12:43:05 +0100"
     },
     "done": true
   },
@@ -1240,6 +1300,12 @@
   "minecraft:recipes/building_blocks/prismarine_bricks": {
     "criteria": {
       "has_prismarine_shard": "2021-02-14 20:33:13 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/hollow_hills": {
+    "criteria": {
+      "1": "2021-02-22 12:47:48 +0100"
     },
     "done": true
   },
@@ -1431,6 +1497,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:tp_plant": {
+    "criteria": {
+      "refinery": "2021-02-22 18:56:09 +0100"
+    },
+    "done": true
+  },
   "enderiomachines:basics/alloy/machine_chassis_get": {
     "criteria": {
       "inv_changed-enderio:block_machine_chassis": "2021-02-14 13:58:45 +0100"
@@ -1576,6 +1648,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/major_landmarks/labyrinth": {
+    "criteria": {
+      "discover": "2021-02-22 12:52:24 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_stone": "2021-02-01 17:25:56 +0100"
@@ -1603,6 +1681,12 @@
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
       "has_planks": "2021-02-01 17:28:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2021-02-22 10:15:52 +0100"
     },
     "done": true
   },
@@ -1900,6 +1984,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/biomes/dark_forest": {
+    "criteria": {
+      "0": "2021-02-22 12:43:58 +0100"
+    },
+    "done": true
+  },
   "tombstone:tutorial/info_grave_key": {
     "criteria": {
       "grave_key": "2021-02-01 16:40:02 +0100"
@@ -1951,6 +2041,12 @@
   "projecte:philosophers_stone": {
     "criteria": {
       "philosophers_stone": "2021-02-10 19:18:49 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/maps": {
+    "criteria": {
+      "1": "2021-02-22 12:54:42 +0100"
     },
     "done": true
   },
@@ -2032,6 +2128,12 @@
     },
     "done": false
   },
+  "twilightforest:alt/biomes/twilight_forest": {
+    "criteria": {
+      "discover": "2021-02-22 12:42:03 +0100"
+    },
+    "done": true
+  },
   "twilightforest:alt/biomes/oak_savannah": {
     "criteria": {
       "discover": "2021-02-06 23:50:08 +0100"
@@ -2044,6 +2146,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/biomes/twilight_clearing": {
+    "criteria": {
+      "discover": "2021-02-22 12:42:06 +0100"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2021-02-01 17:13:28 +0100"
@@ -2053,6 +2161,13 @@
   "appliedenergistics2:main/p2p": {
     "criteria": {
       "certus": "2021-02-09 12:16:36 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/animals": {
+    "criteria": {
+      "5": "2021-02-22 12:42:12 +0100",
+      "6": "2021-02-22 12:42:12 +0100"
     },
     "done": true
   },
@@ -2172,6 +2287,12 @@
   "enderiomachines:basics/sagmill/7_black": {
     "criteria": {
       "inv_changed-enderio:item_material": "2021-02-11 12:31:50 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:root": {
+    "criteria": {
+      "explode_iron": "2021-02-22 18:55:21 +0100"
     },
     "done": true
   },
@@ -2310,6 +2431,12 @@
   "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
       "has_ender_eye": "2021-02-08 23:50:38 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/uneasy_alliance": {
+    "criteria": {
+      "killed_ghast": "2021-02-22 12:37:06 +0100"
     },
     "done": true
   },
@@ -2556,6 +2683,12 @@
   "bonsaitrees:root": {
     "criteria": {
       "bonsaipot_in_inventory": "2021-02-01 17:24:09 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/dark_forest_center": {
+    "criteria": {
+      "discover": "2021-02-22 12:45:31 +0100"
     },
     "done": true
   },
@@ -2812,9 +2945,27 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/wild_boar": {
+    "criteria": {
+      "slay": "2021-02-22 12:42:12 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/medium_hollow_hill": {
+    "criteria": {
+      "discover": "2021-02-22 12:47:48 +0100"
+    },
+    "done": true
+  },
   "twilightforest:alt/treasures/steeleaf_armor_set": {
     "criteria": {
       "ingredient": "2021-02-11 13:35:15 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/deer": {
+    "criteria": {
+      "slay": "2021-02-22 12:42:27 +0100"
     },
     "done": true
   },
@@ -2839,6 +2990,12 @@
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2021-02-05 19:10:35 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/foods/any": {
+    "criteria": {
+      "3": "2021-02-22 12:42:28 +0100"
     },
     "done": true
   },
@@ -2878,6 +3035,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/biomes/twilight_swamp": {
+    "criteria": {
+      "0": "2021-02-22 12:49:14 +0100"
+    },
+    "done": true
+  },
   "tombstone:recipes/from_strange_scroll": {
     "criteria": {
       "has_ingredient": "2021-02-10 13:49:05 +0100"
@@ -2905,6 +3068,12 @@
   "minecraft:recipes/decorations/red_bed": {
     "criteria": {
       "has_red_wool": "2021-02-05 13:00:32 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/maze_map": {
+    "criteria": {
+      "maze_map_focus": "2021-02-22 12:54:42 +0100"
     },
     "done": true
   },

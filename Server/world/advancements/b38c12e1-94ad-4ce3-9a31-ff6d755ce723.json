@@ -262,6 +262,12 @@
     },
     "done": true
   },
+  "enderio:gears/g3_iron_gear": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2021-02-22 12:46:42 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2021-02-01 18:45:55 +0100"
@@ -1096,6 +1102,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2021-02-22 14:08:11 +0100"
+    },
+    "done": true
+  },
   "twilightforest:alt/major_landmarks/naga_courtyard": {
     "criteria": {
       "discover": "2021-02-06 20:53:11 +0100"
@@ -1105,6 +1117,12 @@
   "abyssalcraft:root": {
     "criteria": {
       "necronomicon": "2021-02-03 17:07:48 +0100"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/interface": {
+    "criteria": {
+      "certus": "2021-02-22 12:15:22 +0100"
     },
     "done": true
   },
@@ -1131,6 +1149,12 @@
       "entered_end": "2021-02-09 15:58:31 +0100"
     },
     "done": true
+  },
+  "enderiomachines:basics/goal/1_all_simple_get": {
+    "criteria": {
+      "inv_changed-enderio:block_simple_stirling_generator": "2021-02-22 13:24:58 +0100"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
@@ -1304,6 +1328,12 @@
   "enderio:start/1_infinity_powder_get": {
     "criteria": {
       "inv_changed-enderio:item_material": "2021-02-09 16:02:47 +0100"
+    },
+    "done": true
+  },
+  "enderio:gears/g4_energized_gear": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2021-02-22 13:06:59 +0100"
     },
     "done": true
   },
@@ -2549,6 +2579,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/maps": {
+    "criteria": {
+      "1": "2021-02-22 12:54:54 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2021-02-06 21:41:46 +0100"
@@ -3000,6 +3036,12 @@
     },
     "done": true
   },
+  "simplyjetpacks:te/jetpack_te1": {
+    "criteria": {
+      "jetpack_te1": "2021-02-22 13:57:52 +0100"
+    },
+    "done": true
+  },
   "twilightforest:alt/entities/death_tome": {
     "criteria": {
       "hurt": "2021-02-06 21:28:50 +0100"
@@ -3300,6 +3342,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/network_tool": {
+    "criteria": {
+      "network_tool": "2021-02-22 12:12:05 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_bricks": {
     "criteria": {
       "has_end_stone": "2021-02-09 15:59:11 +0100"
@@ -3590,6 +3638,12 @@
     },
     "done": true
   },
+  "enderiomachines:basics/stirling/1_stirling_generator_get": {
+    "criteria": {
+      "inv_changed-enderio:block_simple_stirling_generator": "2021-02-22 13:24:58 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2021-02-08 16:09:46 +0100"
@@ -3791,6 +3845,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/maze_map": {
+    "criteria": {
+      "maze_map_focus": "2021-02-22 12:54:54 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_bed": {
     "criteria": {
       "has_cyan_wool": "2021-02-03 13:45:07 +0100"
@@ -3806,6 +3866,12 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_at_least_9_iron_nugget": "2021-02-09 16:44:12 +0100"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/growth_accelerator": {
+    "criteria": {
+      "certus": "2021-02-22 12:19:43 +0100"
     },
     "done": true
   },

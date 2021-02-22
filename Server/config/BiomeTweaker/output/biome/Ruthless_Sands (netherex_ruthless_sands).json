@@ -21,9 +21,9 @@
   "Enable Snow": false,
   "Dictionary Types": [
     "NETHER",
-    "DRY",
     "SAVANNA",
     "PLAINS",
+    "DRY",
     "HOT",
     "SANDY"
   ],

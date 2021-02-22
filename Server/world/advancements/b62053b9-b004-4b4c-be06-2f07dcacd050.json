@@ -319,6 +319,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2021-02-22 21:51:30 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2021-02-01 16:42:04 +0100"
@@ -540,10 +546,11 @@
   },
   "galacticraftcore:galacticraft/oxygen_gear": {
     "criteria": {
+      "heavy_tank": "2021-02-22 21:38:48 +0100",
       "oxygen_gear": "2021-02-04 14:32:41 +0100",
       "oxygen_mask": "2021-02-04 14:38:05 +0100"
     },
-    "done": false
+    "done": true
   },
   "minecraft:story/lava_bucket": {
     "criteria": {
@@ -1102,6 +1109,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2021-02-22 21:51:30 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_log": "2021-02-01 16:36:14 +0100"
@@ -1177,6 +1190,12 @@
   "minecraft:recipes/decorations/red_banner": {
     "criteria": {
       "has_red_wool": "2021-02-08 21:46:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2021-02-22 21:51:30 +0100"
     },
     "done": true
   },
@@ -1356,6 +1375,12 @@
     },
     "done": true
   },
+  "galacticraftcore:galacticraft/fill_all_tanks": {
+    "criteria": {
+      "heavy_tank": "2021-02-22 21:38:48 +0100"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2021-02-01 17:52:17 +0100"
@@ -1371,6 +1396,12 @@
   "astralsorcery:rock_crystals": {
     "criteria": {
       "rock_crystal_in_inventory": "2021-02-13 19:28:26 +0100"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/fill_tank": {
+    "criteria": {
+      "heavy_tank": "2021-02-22 21:38:48 +0100"
     },
     "done": true
   },
@@ -2977,6 +3008,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:liquid_compressor": {
+    "criteria": {
+      "air_compressor": "2021-02-22 22:48:04 +0100"
+    },
+    "done": true
+  },
   "appliedenergistics2:main/crafting_terminal": {
     "criteria": {
       "certus": "2021-02-05 16:05:09 +0100"
@@ -3417,6 +3454,18 @@
     "criteria": {
       "kill_lich": "2021-02-06 21:16:00 +0100",
       "kill_naga": "2021-02-06 20:53:36 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:logistics_configurator": {
+    "criteria": {
+      "taken": "2021-02-22 22:45:57 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:flux_compressor": {
+    "criteria": {
+      "taken": "2021-02-22 20:03:18 +0100"
     },
     "done": true
   },
