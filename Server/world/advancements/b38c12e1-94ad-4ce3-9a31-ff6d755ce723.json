@@ -750,6 +750,12 @@
     },
     "done": true
   },
+  "galacticraftcore:galacticraft/oxygen_gear": {
+    "criteria": {
+      "oxygen_mask": "2021-02-23 20:54:14 +0100"
+    },
+    "done": false
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2021-02-03 19:51:23 +0100"
@@ -1726,6 +1732,12 @@
   "astralsorcery:rock_crystals": {
     "criteria": {
       "rock_crystal_in_inventory": "2021-02-09 17:05:54 +0100"
+    },
+    "done": true
+  },
+  "chancecubes:herobrine": {
+    "criteria": {
+      "spawn_herobrine": "2021-02-23 21:01:13 +0100"
     },
     "done": true
   },
@@ -3641,6 +3653,12 @@
   "enderiomachines:basics/stirling/1_stirling_generator_get": {
     "criteria": {
       "inv_changed-enderio:block_simple_stirling_generator": "2021-02-22 13:24:58 +0100"
+    },
+    "done": true
+  },
+  "chancecubes:root": {
+    "criteria": {
+      "cube_in_inventory": "2021-02-23 20:35:54 +0100"
     },
     "done": true
   },

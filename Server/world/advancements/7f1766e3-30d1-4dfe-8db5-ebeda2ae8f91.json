@@ -616,6 +616,13 @@
     },
     "done": true
   },
+  "galacticraftcore:galacticraft/oxygen_gear": {
+    "criteria": {
+      "oxygen_gear": "2021-02-23 20:55:00 +0100",
+      "oxygen_mask": "2021-02-23 20:55:00 +0100"
+    },
+    "done": false
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2021-02-02 12:52:39 +0100"
@@ -714,16 +721,19 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_pigman": "2021-02-23 21:01:24 +0100",
       "shulker": "2021-02-12 22:34:32 +0100",
       "wither_skeleton": "2021-02-01 17:22:03 +0100",
       "zombie_villager": "2021-02-03 14:12:15 +0100",
       "magma_cube": "2021-02-03 15:39:05 +0100",
+      "slime": "2021-02-23 21:04:07 +0100",
       "vindicator": "2021-02-09 21:30:17 +0100",
       "skeleton": "2021-02-01 20:48:22 +0100",
       "blaze": "2021-02-03 15:12:31 +0100",
       "evoker": "2021-02-10 10:09:40 +0100",
       "zombie": "2021-02-01 19:51:02 +0100",
       "silverfish": "2021-02-02 22:18:07 +0100",
+      "cave_spider": "2021-02-23 21:02:02 +0100",
       "guardian": "2021-02-13 20:03:45 +0100",
       "spider": "2021-02-01 17:24:11 +0100",
       "ghast": "2021-02-03 16:38:08 +0100",
@@ -2858,6 +2868,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2021-02-01 16:41:47 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime": "2021-02-23 21:01:36 +0100"
     },
     "done": true
   },

@@ -235,6 +235,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2021-02-23 20:59:01 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
     "criteria": {
       "has_bonemeal": "2021-02-02 20:42:22 +0100"
@@ -675,12 +681,14 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "wither_skeleton": "2021-02-02 14:48:14 +0100",
+      "slime": "2021-02-23 20:56:44 +0100",
       "skeleton": "2021-02-01 21:36:58 +0100",
       "blaze": "2021-02-02 17:40:53 +0100",
       "cave_spider": "2021-02-01 18:10:23 +0100",
       "zombie": "2021-02-01 17:47:57 +0100",
       "silverfish": "2021-02-02 22:18:25 +0100",
       "witch": "2021-02-02 14:48:15 +0100",
+      "guardian": "2021-02-23 20:49:17 +0100",
       "spider": "2021-02-01 17:47:45 +0100",
       "creeper": "2021-02-02 14:48:14 +0100",
       "enderman": "2021-02-02 14:48:15 +0100"
@@ -1330,6 +1338,12 @@
   "twilightforest:alt/major_landmarks/hollow_hills": {
     "criteria": {
       "0": "2021-02-06 21:01:19 +0100"
+    },
+    "done": true
+  },
+  "chancecubes:chance_icosahedron": {
+    "criteria": {
+      "placed_icosahedron": "2021-02-23 20:59:42 +0100"
     },
     "done": true
   },
@@ -2319,6 +2333,12 @@
     },
     "done": true
   },
+  "projecte:red_matter_pickaxe": {
+    "criteria": {
+      "rm_pick": "2021-02-23 20:37:36 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2021-02-01 16:43:29 +0100"
@@ -2778,6 +2798,12 @@
     },
     "done": true
   },
+  "chancecubes:giant_chance_cube": {
+    "criteria": {
+      "break_giant_cube": "2021-02-23 21:27:33 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2021-02-01 16:43:29 +0100"
@@ -3096,6 +3122,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2021-02-01 17:42:49 +0100"
+    },
+    "done": true
+  },
+  "chancecubes:root": {
+    "criteria": {
+      "cube_in_inventory": "2021-02-23 20:35:38 +0100"
     },
     "done": true
   },
