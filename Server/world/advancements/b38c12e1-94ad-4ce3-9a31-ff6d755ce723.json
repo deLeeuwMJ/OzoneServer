@@ -387,6 +387,12 @@
     },
     "done": true
   },
+  "enderioconduits:item/3_big_filter": {
+    "criteria": {
+      "inv_changed-enderio:item_big_item_filter": "2021-02-24 01:03:33 +0100"
+    },
+    "done": true
+  },
   "tombstone:tutorial/find_lost_tablet": {
     "criteria": {
       "has_lost_tablet": "2021-02-14 19:52:04 +0100"
@@ -1911,6 +1917,12 @@
     },
     "done": true
   },
+  "nuclearcraft:processors/alloy_furnace": {
+    "criteria": {
+      "has_item": "2021-02-24 01:25:01 +0100"
+    },
+    "done": true
+  },
   "pneumaticcraft:tp_plant": {
     "criteria": {
       "refinery": "2021-02-14 17:36:34 +0100"
@@ -2561,6 +2573,12 @@
     },
     "done": false
   },
+  "enderioconduits:item/4_big_advanced_filter": {
+    "criteria": {
+      "inv_changed-enderio:item_big_advanced_item_filter": "2021-02-24 01:03:33 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2021-02-01 17:34:31 +0100"
@@ -2922,6 +2940,12 @@
     },
     "done": true
   },
+  "nuclearcraft:processors/salt_mixer": {
+    "criteria": {
+      "has_item": "2021-02-24 00:28:18 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-02-01 17:40:16 +0100"
@@ -3018,6 +3042,12 @@
     },
     "done": true
   },
+  "simplyjetpacks:te/jetpack_te4": {
+    "criteria": {
+      "jetpack_te4": "2021-02-24 00:47:01 +0100"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2021-02-02 21:12:47 +0100"
@@ -3027,6 +3057,12 @@
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2021-02-08 20:57:11 +0100"
+    },
+    "done": true
+  },
+  "simplyjetpacks:te/jetpack_te3": {
+    "criteria": {
+      "jetpack_te3": "2021-02-24 00:46:59 +0100"
     },
     "done": true
   },
@@ -3045,6 +3081,12 @@
   "enderiomachines:basics/alloy/2_energetic_alloy_get": {
     "criteria": {
       "inv_changed-enderio:item_energetic_alloy": "2021-02-09 16:40:41 +0100"
+    },
+    "done": true
+  },
+  "simplyjetpacks:te/jetpack_te2": {
+    "criteria": {
+      "jetpack_te2": "2021-02-24 00:46:56 +0100"
     },
     "done": true
   },
@@ -3851,6 +3893,12 @@
     },
     "done": true
   },
+  "botania:main/spark_craft": {
+    "criteria": {
+      "spark": "2021-02-24 00:23:07 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_red_flower": "2021-02-09 20:21:28 +0100"
@@ -4069,6 +4117,8 @@
   },
   "enderioconduits:goals/all_filters": {
     "criteria": {
+      "inv_changed-enderio:item_big_item_filter2": "2021-02-24 01:03:33 +0100",
+      "inv_changed-enderio:item_big_advanced_item_filter2": "2021-02-24 01:03:33 +0100",
       "inv_changed-enderio:item_basic_item_filter2": "2021-02-20 22:30:55 +0100"
     },
     "done": false
@@ -4131,6 +4181,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2021-02-04 19:23:31 +0100"
+    },
+    "done": true
+  },
+  "nuclearcraft:processors/ingot_former": {
+    "criteria": {
+      "has_item": "2021-02-24 00:28:42 +0100"
     },
     "done": true
   },
