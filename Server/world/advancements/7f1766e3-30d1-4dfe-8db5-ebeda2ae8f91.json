@@ -153,6 +153,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2021-02-24 17:21:56 +0100"
+    },
+    "done": true
+  },
   "botania:main/generating_flower": {
     "criteria": {
       "code_triggered": "2021-02-15 20:18:20 +0100"
@@ -278,6 +284,12 @@
     },
     "done": true
   },
+  "botania:challenge/odin_ring": {
+    "criteria": {
+      "ring": "2021-02-24 17:52:43 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_at_least_9_emerald": "2021-02-06 19:02:27 +0100"
@@ -365,6 +377,12 @@
   "enderioconduits:start/1_binder_composite": {
     "criteria": {
       "inv_changed-enderio:binder_composite": "2021-02-11 21:36:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/speckled_melon": {
+    "criteria": {
+      "has_melon": "2021-02-24 17:21:56 +0100"
     },
     "done": true
   },
@@ -535,6 +553,12 @@
   "botania:challenge/root": {
     "criteria": {
       "flower": "2021-02-15 19:35:22 +0100"
+    },
+    "done": true
+  },
+  "botania:challenge/infinite_fruit": {
+    "criteria": {
+      "fruit": "2021-02-24 17:52:46 +0100"
     },
     "done": true
   },
@@ -734,6 +758,7 @@
       "zombie": "2021-02-01 19:51:02 +0100",
       "silverfish": "2021-02-02 22:18:07 +0100",
       "cave_spider": "2021-02-23 21:02:02 +0100",
+      "witch": "2021-02-24 17:48:22 +0100",
       "guardian": "2021-02-13 20:03:45 +0100",
       "spider": "2021-02-01 17:24:11 +0100",
       "ghast": "2021-02-03 16:38:08 +0100",
@@ -1006,6 +1031,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2021-02-24 17:39:07 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
     "criteria": {
       "has_bonemeal": "2021-02-02 12:42:14 +0100"
@@ -1243,6 +1274,12 @@
   "minecraft:recipes/building_blocks/blue_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2021-02-08 22:50:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_log": "2021-02-24 17:51:44 +0100"
     },
     "done": true
   },
@@ -1549,6 +1586,12 @@
     },
     "done": true
   },
+  "botania:main/bauble_wear": {
+    "criteria": {
+      "code_triggered": "2021-02-24 17:50:31 +0100"
+    },
+    "done": true
+  },
   "appliedenergistics2:main/root": {
     "criteria": {
       "certus": "2021-02-01 17:25:50 +0100"
@@ -1558,6 +1601,12 @@
   "minecraft:recipes/building_blocks/brown_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2021-02-08 22:50:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_red_flower": "2021-02-24 17:46:42 +0100"
     },
     "done": true
   },
@@ -1589,6 +1638,12 @@
     "criteria": {
       "get_activator": "2021-02-14 17:24:03 +0100",
       "get_keystone": "2021-02-14 17:23:44 +0100"
+    },
+    "done": true
+  },
+  "botania:challenge/thor_ring": {
+    "criteria": {
+      "ring": "2021-02-24 17:50:24 +0100"
     },
     "done": true
   },
@@ -1637,6 +1692,12 @@
   "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {
       "has_brick_block": "2021-02-05 12:17:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon_block": {
+    "criteria": {
+      "has_melon": "2021-02-24 17:21:56 +0100"
     },
     "done": true
   },
@@ -1937,6 +1998,12 @@
   "erebus:exploration/poison_sac": {
     "criteria": {
       "sac_get": "2021-02-03 15:14:19 +0100"
+    },
+    "done": true
+  },
+  "botania:challenge/flugel_eye": {
+    "criteria": {
+      "eye": "2021-02-24 17:52:52 +0100"
     },
     "done": true
   },
@@ -2354,6 +2421,12 @@
     },
     "done": true
   },
+  "botania:main/functional_flower": {
+    "criteria": {
+      "code_triggered": "2021-02-24 17:12:47 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2021-02-02 19:19:45 +0100"
@@ -2603,6 +2676,12 @@
   "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
     "criteria": {
       "has_black_dye": "2021-02-01 17:09:21 +0100"
+    },
+    "done": true
+  },
+  "botania:challenge/king_key": {
+    "criteria": {
+      "key": "2021-02-24 17:52:54 +0100"
     },
     "done": true
   },
@@ -2862,6 +2941,12 @@
   "twilightforest:alt/treasures/knightmetal_tool_set": {
     "criteria": {
       "ingredien3": "2021-02-12 22:42:43 +0100"
+    },
+    "done": true
+  },
+  "botania:challenge/loki_ring": {
+    "criteria": {
+      "ring": "2021-02-24 17:52:48 +0100"
     },
     "done": true
   },

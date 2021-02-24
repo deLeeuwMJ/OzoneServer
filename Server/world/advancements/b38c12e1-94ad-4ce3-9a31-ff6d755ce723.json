@@ -345,6 +345,12 @@
     },
     "done": true
   },
+  "botania:challenge/odin_ring": {
+    "criteria": {
+      "ring": "2021-02-24 17:50:31 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_at_least_9_emerald": "2021-02-08 17:51:43 +0100"
@@ -381,6 +387,12 @@
     },
     "done": true
   },
+  "nuclearcraft:processors/dissolver": {
+    "criteria": {
+      "has_item": "2021-02-24 16:19:17 +0100"
+    },
+    "done": true
+  },
   "enderioconduits:item/1_item_conduit": {
     "criteria": {
       "inv_changed-enderio:item_conduit": "2021-02-15 18:54:07 +0100"
@@ -408,6 +420,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2021-02-05 14:25:30 +0100"
+    },
+    "done": true
+  },
+  "nuclearcraft:processors/rock_crusher": {
+    "criteria": {
+      "has_item": "2021-02-24 16:49:04 +0100"
     },
     "done": true
   },
@@ -671,6 +689,12 @@
     },
     "done": true
   },
+  "botania:challenge/infinite_fruit": {
+    "criteria": {
+      "fruit": "2021-02-24 17:50:52 +0100"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2021-02-06 20:55:26 +0100"
@@ -680,6 +704,12 @@
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2021-02-03 14:54:27 +0100"
+    },
+    "done": true
+  },
+  "rftools:specialores": {
+    "criteria": {
+      "find_ores": "2021-02-24 17:57:28 +0100"
     },
     "done": true
   },
@@ -858,6 +888,12 @@
     },
     "done": true
   },
+  "nuclearcraft:processors/nuclear_furnace": {
+    "criteria": {
+      "has_item": "2021-02-24 16:23:41 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-02-01 17:40:16 +0100"
@@ -885,6 +921,12 @@
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2021-02-03 13:47:17 +0100"
+    },
+    "done": true
+  },
+  "nuclearcraft:processors/decay_hastener": {
+    "criteria": {
+      "has_item": "2021-02-24 16:23:10 +0100"
     },
     "done": true
   },
@@ -1550,6 +1592,12 @@
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_log": "2021-02-03 13:41:27 +0100"
+    },
+    "done": true
+  },
+  "botania:main/gaia_guardian_kill": {
+    "criteria": {
+      "guardian": "2021-02-24 17:49:08 +0100"
     },
     "done": true
   },
@@ -2470,6 +2518,12 @@
     },
     "done": true
   },
+  "nuclearcraft:fission/fission_controller": {
+    "criteria": {
+      "has_item": "2021-02-24 16:24:57 +0100"
+    },
+    "done": true
+  },
   "minecraft:nether/summon_wither": {
     "criteria": {
       "summoned": "2021-02-08 23:32:17 +0100"
@@ -2482,6 +2536,12 @@
     },
     "done": true
   },
+  "botania:challenge/flugel_eye": {
+    "criteria": {
+      "eye": "2021-02-24 17:51:02 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2021-02-01 17:34:31 +0100"
@@ -2491,6 +2551,12 @@
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2021-02-01 17:35:56 +0100"
+    },
+    "done": true
+  },
+  "nuclearcraft:processors/infuser": {
+    "criteria": {
+      "has_item": "2021-02-24 16:27:54 +0100"
     },
     "done": true
   },
@@ -2712,6 +2778,12 @@
       "bred_sheep": "2021-02-02 20:39:40 +0100"
     },
     "done": false
+  },
+  "nuclearcraft:fusion/fusion_core": {
+    "criteria": {
+      "has_item": "2021-02-24 17:15:05 +0100"
+    },
+    "done": true
   },
   "twilightforest:alt/biomes/twilight_forest": {
     "criteria": {
@@ -3072,6 +3144,12 @@
     },
     "done": true
   },
+  "nuclearcraft:processors/melter": {
+    "criteria": {
+      "has_item": "2021-02-24 16:22:10 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-02-01 17:40:16 +0100"
@@ -3123,6 +3201,12 @@
   "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
       "has_ender_eye": "2021-02-08 20:57:11 +0100"
+    },
+    "done": true
+  },
+  "nuclearcraft:processors/isotope_separator": {
+    "criteria": {
+      "has_item": "2021-02-24 16:22:56 +0100"
     },
     "done": true
   },
@@ -3243,6 +3327,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2021-02-03 13:47:17 +0100"
+    },
+    "done": true
+  },
+  "nuclearcraft:processors/irradiator": {
+    "criteria": {
+      "has_item": "2021-02-24 16:17:14 +0100"
     },
     "done": true
   },
@@ -3489,6 +3579,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2021-02-02 20:50:12 +0100"
+    },
+    "done": true
+  },
+  "nuclearcraft:processors/supercooler": {
+    "criteria": {
+      "has_item": "2021-02-24 16:18:01 +0100"
     },
     "done": true
   },
@@ -3815,6 +3911,12 @@
     },
     "done": true
   },
+  "nuclearcraft:processors/fuel_reprocessor": {
+    "criteria": {
+      "has_item": "2021-02-24 16:22:35 +0100"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2021-02-08 16:09:46 +0100"
@@ -3968,6 +4070,12 @@
   "minecraft:recipes/building_blocks/magenta_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2021-02-04 19:23:31 +0100"
+    },
+    "done": true
+  },
+  "nuclearcraft:processors/crystallizer": {
+    "criteria": {
+      "has_item": "2021-02-24 17:12:05 +0100"
     },
     "done": true
   },

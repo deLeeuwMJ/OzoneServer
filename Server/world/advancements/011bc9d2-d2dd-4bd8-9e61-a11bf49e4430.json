@@ -225,24 +225,30 @@
   },
   "erebus:exploration/kill_all": {
     "criteria": {
+      "kill_black_widow": "2021-02-24 17:17:29 +0100",
       "kill_bot_fly": "2021-02-08 18:52:05 +0100",
       "kill_black_ant": "2021-02-08 18:51:28 +0100",
       "kill_mosquito": "2021-02-08 18:55:05 +0100",
       "kill_locust": "2021-02-08 18:57:14 +0100",
+      "kill_beetle": "2021-02-24 17:19:03 +0100",
+      "kill_scytodes": "2021-02-24 17:20:11 +0100",
       "kill_zombie_ant": "2021-02-08 18:51:23 +0100",
       "kill_glow_worm": "2021-02-08 19:03:55 +0100",
       "kill_scorpion": "2021-02-08 18:49:32 +0100",
       "kill_tarantula": "2021-02-08 18:50:19 +0100",
       "kill_rhino": "2021-02-08 18:50:11 +0100",
       "kill_fire_ant_soldier": "2021-02-08 18:58:26 +0100",
+      "kill_cicada": "2021-02-24 17:18:50 +0100",
       "kill_jumping_spider": "2021-02-08 18:55:00 +0100",
       "kill_dragonfly": "2021-02-08 19:05:06 +0100",
       "kill_honey_pot_ant": "2021-02-08 18:50:58 +0100",
       "kill_midge_swarm": "2021-02-08 18:54:09 +0100",
       "kill_chameleon_tick": "2021-02-08 19:04:32 +0100",
       "kill_solifuge_small": "2021-02-08 18:52:03 +0100",
+      "kill_wasp": "2021-02-24 17:20:39 +0100",
       "kill_solifuge": "2021-02-08 18:52:13 +0100",
-      "kill_fungal_weevil": "2021-02-08 18:51:40 +0100"
+      "kill_fungal_weevil": "2021-02-08 18:51:40 +0100",
+      "kill_titan": "2021-02-24 17:18:27 +0100"
     },
     "done": false
   },
@@ -1352,6 +1358,12 @@
     },
     "done": true
   },
+  "enderioconduits:fluid/1_fluid_conduit": {
+    "criteria": {
+      "inv_changed-enderio:liquid_conduit": "2021-02-24 18:22:58 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2021-02-04 15:27:13 +0100"
@@ -1718,6 +1730,12 @@
     },
     "done": true
   },
+  "erebus:agriculture/root": {
+    "criteria": {
+      "mandrake": "2021-02-24 17:17:59 +0100"
+    },
+    "done": true
+  },
   "twilightforest:alt/entities/giants": {
     "criteria": {
       "1": "2021-02-06 22:43:42 +0100"
@@ -2077,6 +2095,12 @@
     },
     "done": true
   },
+  "erebus:agriculture/farm_complete": {
+    "criteria": {
+      "mandrake": "2021-02-24 17:17:59 +0100"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2021-02-04 14:51:41 +0100"
@@ -2112,6 +2136,12 @@
       "entered_water": "2021-02-04 14:56:59 +0100"
     },
     "done": true
+  },
+  "enderioconduits:goals/all_conduits": {
+    "criteria": {
+      "inv_changed-enderio:liquid_conduit_ender2": "2021-02-24 18:22:58 +0100"
+    },
+    "done": false
   },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
@@ -2627,6 +2657,12 @@
     },
     "done": true
   },
+  "erebus:exploration/titan_beetle": {
+    "criteria": {
+      "kill_titan": "2021-02-24 17:18:27 +0100"
+    },
+    "done": false
+  },
   "tombstone:tutorial/use_lost_tablet": {
     "criteria": {
       "coded_trigger": "2021-02-06 15:45:58 +0100"
@@ -2674,12 +2710,13 @@
       "fungal": "2021-02-08 18:51:21 +0100",
       "petrified": "2021-02-08 18:47:13 +0100",
       "savannah": "2021-02-08 18:52:41 +0100",
+      "elysian": "2021-02-24 17:18:18 +0100",
       "jungle": "2021-02-08 18:57:58 +0100",
       "desert": "2021-02-08 18:58:05 +0100",
       "swamp": "2021-02-08 19:04:07 +0100",
       "outback": "2021-02-08 18:47:30 +0100"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:alt/treasures/knightmetal_tool_set": {
     "criteria": {
@@ -3060,6 +3097,12 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_at_least_9_bonemeal": "2021-02-08 21:10:36 +0100"
+    },
+    "done": true
+  },
+  "enderioconduits:fluid/3_fluid_conduit_ender": {
+    "criteria": {
+      "inv_changed-enderio:liquid_conduit_ender": "2021-02-24 18:22:58 +0100"
     },
     "done": true
   }
