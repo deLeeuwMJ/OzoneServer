@@ -20,9 +20,9 @@
   "Enable Rain": false,
   "Enable Snow": true,
   "Dictionary Types": [
+    "COLD",
     "CONIFEROUS",
     "FOREST",
-    "COLD",
     "SNOWY"
   ],
   "BiomeManager Entries": {

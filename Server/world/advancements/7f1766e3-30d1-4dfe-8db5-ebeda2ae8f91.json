@@ -302,6 +302,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log2": "2021-02-25 15:00:28 +0100"
+    },
+    "done": true
+  },
   "enderioconduits:item/1_item_conduit": {
     "criteria": {
       "inv_changed-enderio:item_conduit": "2021-02-14 12:32:52 +0100"

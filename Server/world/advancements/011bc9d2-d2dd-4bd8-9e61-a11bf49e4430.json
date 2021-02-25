@@ -348,6 +348,12 @@
     },
     "done": true
   },
+  "astralsorcery:craft_t4_altar": {
+    "criteria": {
+      "altar_craft_t4_altar": "2021-02-25 17:27:38 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2021-02-04 15:27:13 +0100"
@@ -2527,6 +2533,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2021-02-04 19:38:37 +0100"
+    },
+    "done": true
+  },
+  "astralsorcery:celestial_crystals": {
+    "criteria": {
+      "rock_crystal_in_inventory": "2021-02-25 17:26:46 +0100"
     },
     "done": true
   },
