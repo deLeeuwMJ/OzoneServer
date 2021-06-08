@@ -1,4421 +1,4421 @@
 {
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
-      "has_string": "2021-02-01 17:24:00 +0100"
+      "has_string": "2021-02-01 16:24:00 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/purple_stained_glass_pane": {
     "criteria": {
-      "has_glass": "2021-02-02 21:18:57 +0100"
+      "has_glass": "2021-02-02 20:18:57 +0000"
     },
     "done": true
   },
   "twilightforest:alt/entities/hydra": {
     "criteria": {
-      "hurt_by_indirect_alt": "2021-02-06 21:47:42 +0100"
+      "hurt_by_indirect_alt": "2021-02-06 20:47:42 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/black_stained_glass": {
     "criteria": {
-      "has_glass": "2021-02-02 21:18:57 +0100"
+      "has_glass": "2021-02-02 20:18:57 +0000"
     },
     "done": true
   },
   "erebus:exploration/entomology": {
     "criteria": {
-      "in_erebus": "2021-02-08 18:02:45 +0100",
-      "kill_black_widow": "2021-02-07 00:20:26 +0100"
+      "in_erebus": "2021-02-08 17:02:45 +0000",
+      "kill_black_widow": "2021-02-06 23:20:26 +0000"
     },
     "done": true
   },
   "erebus:exploration/beetlejuice": {
     "criteria": {
-      "bambucket": "2021-02-08 19:29:29 +0100"
+      "bambucket": "2021-02-08 18:29:29 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/red_stained_hardened_clay": {
     "criteria": {
-      "has_hardened_clay": "2021-02-04 19:23:31 +0100"
+      "has_hardened_clay": "2021-02-04 18:23:31 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
-      "has_cobblestone": "2021-02-01 17:17:56 +0100"
+      "has_cobblestone": "2021-02-01 16:17:56 +0000"
     },
     "done": true
   },
   "tombstone:tutorial/first_knowledge": {
     "criteria": {
-      "coded_trigger": "2021-02-03 16:28:19 +0100"
+      "coded_trigger": "2021-02-03 15:28:19 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/acacia_wooden_slab": {
     "criteria": {
-      "has_planks": "2021-02-01 20:33:46 +0100"
+      "has_planks": "2021-02-01 19:33:46 +0000"
     },
     "done": true
   },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
-      "has_iron_ingot": "2021-02-01 18:45:55 +0100"
+      "has_iron_ingot": "2021-02-01 17:45:55 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
     "criteria": {
-      "has_red_flower": "2021-02-09 20:21:54 +0100"
+      "has_red_flower": "2021-02-09 19:21:54 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
-      "has_quartz": "2021-02-03 14:54:27 +0100"
+      "has_quartz": "2021-02-03 13:54:27 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
-      "has_planks": "2021-02-05 15:20:30 +0100"
+      "has_planks": "2021-02-05 14:20:30 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/mossy_cobblestone": {
     "criteria": {
-      "has_vine": "2021-02-06 19:44:31 +0100"
+      "has_vine": "2021-02-06 18:44:31 +0000"
     },
     "done": true
   },
   "projecte:red_matter": {
     "criteria": {
-      "rm": "2021-02-21 02:38:30 +0100"
+      "rm": "2021-02-21 01:38:30 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/snow": {
     "criteria": {
-      "has_snowball": "2021-02-08 20:45:26 +0100"
+      "has_snowball": "2021-02-08 19:45:26 +0000"
     },
     "done": true
   },
   "astralsorcery:root": {
     "criteria": {
-      "astralsorcery_present": "2021-02-01 17:08:33 +0100"
+      "astralsorcery_present": "2021-02-01 16:08:33 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
-      "has_sand": "2021-02-01 18:58:14 +0100"
+      "has_sand": "2021-02-01 17:58:14 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/nether_brick_slab": {
     "criteria": {
-      "has_nether_brick": "2021-02-09 15:49:57 +0100"
+      "has_nether_brick": "2021-02-09 14:49:57 +0000"
     },
     "done": true
   },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
-      "has_iron_ingot": "2021-02-01 18:45:55 +0100"
+      "has_iron_ingot": "2021-02-01 17:45:55 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
-      "has_glass": "2021-02-02 21:18:57 +0100"
+      "has_glass": "2021-02-02 20:18:57 +0000"
     },
     "done": true
   },
   "twilightforest:progress_naga": {
     "criteria": {
-      "kill_mob": "2021-02-06 20:49:44 +0100",
-      "naga": "2021-02-06 21:11:40 +0100"
+      "kill_mob": "2021-02-06 19:49:44 +0000",
+      "naga": "2021-02-06 20:11:40 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
-      "has_sand": "2021-02-01 18:58:14 +0100"
+      "has_sand": "2021-02-01 17:58:14 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
-      "has_planks": "2021-02-05 15:20:30 +0100"
+      "has_planks": "2021-02-05 14:20:30 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
-      "has_pumpkin": "2021-02-03 17:30:47 +0100"
+      "has_pumpkin": "2021-02-03 16:30:47 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "has_planks": "2021-02-01 17:14:15 +0100"
+      "has_planks": "2021-02-01 16:14:15 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
-      "has_white_wool": "2021-02-01 17:34:31 +0100"
+      "has_white_wool": "2021-02-01 16:34:31 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/mossy_stonebrick": {
     "criteria": {
-      "has_mossy_cobblestone": "2021-02-06 21:41:46 +0100"
+      "has_mossy_cobblestone": "2021-02-06 20:41:46 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
-      "has_glass": "2021-02-02 21:18:57 +0100"
+      "has_glass": "2021-02-02 20:18:57 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
-      "has_melon": "2021-02-03 17:31:32 +0100"
+      "has_melon": "2021-02-03 16:31:32 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
-      "has_stick": "2021-02-01 17:17:17 +0100"
+      "has_stick": "2021-02-01 16:17:17 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/map": {
     "criteria": {
-      "has_compass": "2021-02-02 20:20:30 +0100"
+      "has_compass": "2021-02-02 19:20:30 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/black_stained_hardened_clay": {
     "criteria": {
-      "has_hardened_clay": "2021-02-04 19:23:31 +0100"
+      "has_hardened_clay": "2021-02-04 18:23:31 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
-      "has_lots_of_items": "2021-02-01 17:15:14 +0100"
+      "has_lots_of_items": "2021-02-01 16:15:14 +0000"
     },
     "done": true
   },
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
-      "has_gold_ingot": "2021-02-01 17:35:56 +0100"
+      "has_gold_ingot": "2021-02-01 16:35:56 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/white_stained_hardened_clay": {
     "criteria": {
-      "has_hardened_clay": "2021-02-04 19:23:31 +0100"
+      "has_hardened_clay": "2021-02-04 18:23:31 +0000"
     },
     "done": true
   },
   "minecraft:story/shiny_gear": {
     "criteria": {
-      "diamond_leggings": "2021-02-09 19:14:17 +0100",
-      "diamond_helmet": "2021-02-09 19:14:17 +0100",
-      "diamond_chestplate": "2021-02-09 19:14:17 +0100",
-      "diamond_boots": "2021-02-09 19:14:17 +0100"
+      "diamond_leggings": "2021-02-09 18:14:17 +0000",
+      "diamond_helmet": "2021-02-09 18:14:17 +0000",
+      "diamond_chestplate": "2021-02-09 18:14:17 +0000",
+      "diamond_boots": "2021-02-09 18:14:17 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/magenta_stained_glass_pane": {
     "criteria": {
-      "has_glass": "2021-02-02 21:18:57 +0100"
+      "has_glass": "2021-02-02 20:18:57 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/red_sandstone": {
     "criteria": {
-      "has_sand": "2021-02-08 18:54:52 +0100"
+      "has_sand": "2021-02-08 17:54:52 +0000"
     },
     "done": true
   },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
-      "has_stick": "2021-02-01 17:17:17 +0100"
+      "has_stick": "2021-02-01 16:17:17 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
-      "has_stone_pickaxe": "2021-02-01 17:18:48 +0100"
+      "has_stone_pickaxe": "2021-02-01 16:18:48 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/purpur_stairs": {
     "criteria": {
-      "has_purpur_block": "2021-02-17 20:23:44 +0100"
+      "has_purpur_block": "2021-02-17 19:23:44 +0000"
     },
     "done": true
   },
   "enderio:gears/g3_iron_gear": {
     "criteria": {
-      "inv_changed-enderio:item_material": "2021-02-22 12:46:42 +0100"
+      "inv_changed-enderio:item_material": "2021-02-22 11:46:42 +0000"
     },
     "done": true
   },
   "minecraft:recipes/tools/shears": {
     "criteria": {
-      "has_iron_ingot": "2021-02-01 18:45:55 +0100"
+      "has_iron_ingot": "2021-02-01 17:45:55 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/lime_stained_hardened_clay": {
     "criteria": {
-      "has_hardened_clay": "2021-02-04 19:23:31 +0100"
+      "has_hardened_clay": "2021-02-04 18:23:31 +0000"
     },
     "done": true
   },
   "twilightforest:alt/entities/stable_ice_core": {
     "criteria": {
-      "slay": "2021-02-06 22:30:41 +0100"
+      "slay": "2021-02-06 21:30:41 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/stick": {
     "criteria": {
-      "has_planks": "2021-02-01 17:14:15 +0100"
+      "has_planks": "2021-02-01 16:14:15 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/redstone_lamp": {
     "criteria": {
-      "has_glowstone": "2021-02-02 21:18:18 +0100"
+      "has_glowstone": "2021-02-02 20:18:18 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/blue_carpet": {
     "criteria": {
-      "has_blue_wool": "2021-02-03 13:45:08 +0100"
+      "has_blue_wool": "2021-02-03 12:45:08 +0000"
     },
     "done": true
   },
   "erebus:exploration/kill_all": {
     "criteria": {
-      "kill_black_widow": "2021-02-07 00:20:26 +0100",
-      "kill_moth": "2021-02-08 18:06:44 +0100",
-      "kill_bot_fly": "2021-02-08 18:48:42 +0100",
-      "kill_locust": "2021-02-08 18:11:50 +0100",
-      "kill_beetle": "2021-02-08 18:06:50 +0100",
-      "kill_scytodes": "2021-02-08 18:07:16 +0100",
-      "kill_zombie_ant": "2021-02-08 18:51:14 +0100",
-      "kill_magma_crawler": "2021-02-08 19:20:22 +0100",
-      "kill_glow_worm": "2021-02-08 18:07:07 +0100",
-      "kill_antlion": "2021-02-08 18:13:26 +0100",
-      "kill_scorpion": "2021-02-08 18:39:47 +0100",
-      "kill_centipede": "2021-02-08 18:53:32 +0100",
-      "kill_tarantula": "2021-02-08 18:10:25 +0100",
-      "kill_rhino": "2021-02-08 18:51:42 +0100",
-      "kill_fire_ant_soldier": "2021-02-08 19:24:00 +0100",
-      "kill_jumping_spider": "2021-02-08 18:06:56 +0100",
-      "kill_dragonfly": "2021-02-08 18:06:59 +0100",
-      "kill_honey_pot_ant": "2021-02-08 18:49:21 +0100",
-      "kill_midge_swarm": "2021-02-08 18:47:33 +0100",
-      "kill_grasshopper": "2021-02-08 18:07:21 +0100",
-      "kill_chameleon_tick": "2021-02-08 18:41:49 +0100",
-      "kill_solifuge_small": "2021-02-08 18:52:00 +0100",
-      "kill_wasp": "2021-02-08 18:08:33 +0100",
-      "kill_solifuge": "2021-02-08 18:51:57 +0100"
+      "kill_black_widow": "2021-02-06 23:20:26 +0000",
+      "kill_moth": "2021-02-08 17:06:44 +0000",
+      "kill_bot_fly": "2021-02-08 17:48:42 +0000",
+      "kill_locust": "2021-02-08 17:11:50 +0000",
+      "kill_beetle": "2021-02-08 17:06:50 +0000",
+      "kill_scytodes": "2021-02-08 17:07:16 +0000",
+      "kill_zombie_ant": "2021-02-08 17:51:14 +0000",
+      "kill_magma_crawler": "2021-02-08 18:20:22 +0000",
+      "kill_glow_worm": "2021-02-08 17:07:07 +0000",
+      "kill_antlion": "2021-02-08 17:13:26 +0000",
+      "kill_scorpion": "2021-02-08 17:39:47 +0000",
+      "kill_centipede": "2021-02-08 17:53:32 +0000",
+      "kill_tarantula": "2021-02-08 17:10:25 +0000",
+      "kill_rhino": "2021-02-08 17:51:42 +0000",
+      "kill_fire_ant_soldier": "2021-02-08 18:24:00 +0000",
+      "kill_jumping_spider": "2021-02-08 17:06:56 +0000",
+      "kill_dragonfly": "2021-02-08 17:06:59 +0000",
+      "kill_honey_pot_ant": "2021-02-08 17:49:21 +0000",
+      "kill_midge_swarm": "2021-02-08 17:47:33 +0000",
+      "kill_grasshopper": "2021-02-08 17:07:21 +0000",
+      "kill_chameleon_tick": "2021-02-08 17:41:49 +0000",
+      "kill_solifuge_small": "2021-02-08 17:52:00 +0000",
+      "kill_wasp": "2021-02-08 17:08:33 +0000",
+      "kill_solifuge": "2021-02-08 17:51:57 +0000"
     },
     "done": false
   },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
-      "has_bow": "2021-02-08 19:11:48 +0100"
+      "has_bow": "2021-02-08 18:11:48 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
     "criteria": {
-      "has_bonemeal": "2021-02-01 17:40:16 +0100"
+      "has_bonemeal": "2021-02-01 16:40:16 +0000"
     },
     "done": true
   },
   "botania:challenge/odin_ring": {
     "criteria": {
-      "ring": "2021-02-24 17:50:31 +0100"
+      "ring": "2021-02-24 16:50:31 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
-      "has_at_least_9_emerald": "2021-02-08 17:51:43 +0100"
+      "has_at_least_9_emerald": "2021-02-08 16:51:43 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
-      "has_log2": "2021-02-01 21:38:33 +0100"
+      "has_log2": "2021-02-01 20:38:33 +0000"
     },
     "done": true
   },
   "minecraft:recipes/food/cake": {
     "criteria": {
-      "has_egg": "2021-02-02 19:46:11 +0100"
+      "has_egg": "2021-02-02 18:46:11 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
-      "has_rail": "2021-02-02 20:43:56 +0100"
+      "has_rail": "2021-02-02 19:43:56 +0000"
     },
     "done": true
   },
   "twilightforest:alt/entities/goblins": {
     "criteria": {
-      "2": "2021-02-06 21:58:19 +0100"
+      "2": "2021-02-06 20:58:19 +0000"
     },
     "done": true
   },
   "twilightforest:alt/entities/penguin": {
     "criteria": {
-      "slay": "2021-02-06 22:29:55 +0100"
+      "slay": "2021-02-06 21:29:55 +0000"
     },
     "done": true
   },
   "nuclearcraft:processors/dissolver": {
     "criteria": {
-      "has_item": "2021-02-24 16:19:17 +0100"
+      "has_item": "2021-02-24 15:19:17 +0000"
     },
     "done": true
   },
   "enderioconduits:item/1_item_conduit": {
     "criteria": {
-      "inv_changed-enderio:item_conduit": "2021-02-15 18:54:07 +0100"
+      "inv_changed-enderio:item_conduit": "2021-02-15 17:54:07 +0000"
     },
     "done": true
   },
   "enderioconduits:item/3_big_filter": {
     "criteria": {
-      "inv_changed-enderio:item_big_item_filter": "2021-02-24 01:03:33 +0100"
+      "inv_changed-enderio:item_big_item_filter": "2021-02-24 00:03:33 +0000"
     },
     "done": true
   },
   "tombstone:tutorial/find_lost_tablet": {
     "criteria": {
-      "has_lost_tablet": "2021-02-14 19:52:04 +0100"
+      "has_lost_tablet": "2021-02-14 18:52:04 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
-      "has_planks": "2021-02-01 22:02:47 +0100"
+      "has_planks": "2021-02-01 21:02:47 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
-      "has_sandstone": "2021-02-05 14:25:30 +0100"
+      "has_sandstone": "2021-02-05 13:25:30 +0000"
     },
     "done": true
   },
   "nuclearcraft:processors/rock_crusher": {
     "criteria": {
-      "has_item": "2021-02-24 16:49:04 +0100"
+      "has_item": "2021-02-24 15:49:04 +0000"
     },
     "done": true
   },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
-      "has_gold_nugget": "2021-02-02 19:18:11 +0100"
+      "has_gold_nugget": "2021-02-02 18:18:11 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
-      "has_nether_wart": "2021-02-02 19:18:59 +0100"
+      "has_nether_wart": "2021-02-02 18:18:59 +0000"
     },
     "done": true
   },
   "minecraft:recipes/combat/shield": {
     "criteria": {
-      "has_iron_ingot": "2021-02-01 18:45:55 +0100"
+      "has_iron_ingot": "2021-02-01 17:45:55 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/brown_banner": {
     "criteria": {
-      "has_brown_wool": "2021-02-08 16:37:01 +0100"
+      "has_brown_wool": "2021-02-08 15:37:01 +0000"
     },
     "done": true
   },
   "erebus:portal/gaean_gem": {
     "criteria": {
-      "obtain_gem": "2021-02-08 17:53:06 +0100"
+      "obtain_gem": "2021-02-08 16:53:06 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
-      "has_cobblestone": "2021-02-01 17:17:56 +0100"
+      "has_cobblestone": "2021-02-01 16:17:56 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/red_sandstone_stairs": {
     "criteria": {
-      "has_red_sandstone": "2021-02-08 19:13:51 +0100"
+      "has_red_sandstone": "2021-02-08 18:13:51 +0000"
     },
     "done": true
   },
   "minecraft:recipes/brewing/speckled_melon": {
     "criteria": {
-      "has_melon": "2021-02-03 17:31:32 +0100"
+      "has_melon": "2021-02-03 16:31:32 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/iron_ingot_from_block": {
     "criteria": {
-      "has_iron_block": "2021-02-03 18:43:41 +0100"
+      "has_iron_block": "2021-02-03 17:43:41 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/trapped_chest": {
     "criteria": {
-      "has_tripwire_hook": "2021-02-19 21:55:49 +0100"
+      "has_tripwire_hook": "2021-02-19 20:55:49 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
-      "has_gray_wool": "2021-02-02 19:45:55 +0100"
+      "has_gray_wool": "2021-02-02 18:45:55 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
-      "has_iron_ingot": "2021-02-01 18:45:55 +0100"
+      "has_iron_ingot": "2021-02-01 17:45:55 +0000"
     },
     "done": true
   },
   "twilightforest:alt/entities/naga": {
     "criteria": {
-      "hurt_by_indirect": "2021-02-06 20:53:17 +0100"
+      "hurt_by_indirect": "2021-02-06 19:53:17 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
-      "has_gravel": "2021-02-02 14:27:12 +0100"
+      "has_gravel": "2021-02-02 13:27:12 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/fence_gate": {
     "criteria": {
-      "has_planks": "2021-02-01 17:14:15 +0100"
+      "has_planks": "2021-02-01 16:14:15 +0000"
     },
     "done": true
   },
   "abyssalcraft:shadow_gems": {
     "criteria": {
-      "necronomicon": "2021-02-02 19:21:57 +0100"
+      "necronomicon": "2021-02-02 18:21:57 +0000"
     },
     "done": true
   },
   "twilightforest:alt/biomes/dense_twilight_forest": {
     "criteria": {
-      "discover": "2021-02-06 21:02:13 +0100"
+      "discover": "2021-02-06 20:02:13 +0000"
     },
     "done": true
   },
   "erebus:portal/portal": {
     "criteria": {
-      "portal_activate": "2021-02-08 18:02:28 +0100"
+      "portal_activate": "2021-02-08 17:02:28 +0000"
     },
     "done": true
   },
   "enderioconduits:root": {
     "criteria": {
-      "inv_changed-enderio:gravel": "2021-02-02 14:27:12 +0100",
-      "inv_changed-enderio:clay": "2021-02-02 20:54:38 +0100",
-      "inv_changed-enderio:sand": "2021-02-01 18:58:14 +0100"
+      "inv_changed-enderio:gravel": "2021-02-02 13:27:12 +0000",
+      "inv_changed-enderio:clay": "2021-02-02 19:54:38 +0000",
+      "inv_changed-enderio:sand": "2021-02-01 17:58:14 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
-      "has_sand": "2021-02-01 18:58:14 +0100"
+      "has_sand": "2021-02-01 17:58:14 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/magenta_carpet": {
     "criteria": {
-      "has_magenta_wool": "2021-02-03 13:45:26 +0100"
+      "has_magenta_wool": "2021-02-03 12:45:26 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
-      "has_bonemeal": "2021-02-01 17:40:16 +0100"
+      "has_bonemeal": "2021-02-01 16:40:16 +0000"
     },
     "done": true
   },
   "twilightforest:alt/major_landmarks/final_castle": {
     "criteria": {
-      "discover": "2021-02-06 22:49:58 +0100"
+      "discover": "2021-02-06 21:49:58 +0000"
     },
     "done": true
   },
   "twilightforest:alt/major_landmarks/dark_tower": {
     "criteria": {
-      "discover": "2021-02-06 22:13:17 +0100"
+      "discover": "2021-02-06 21:13:17 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
-      "has_sand": "2021-02-01 18:58:14 +0100"
+      "has_sand": "2021-02-01 17:58:14 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
-      "has_sandstone": "2021-02-05 14:25:30 +0100"
+      "has_sandstone": "2021-02-05 13:25:30 +0000"
     },
     "done": true
   },
   "twilightforest:alt/treasures/scepters": {
     "criteria": {
-      "3": "2021-02-06 21:18:59 +0100"
+      "3": "2021-02-06 20:18:59 +0000"
     },
     "done": true
   },
   "appliedenergistics2:main/cable_glass": {
     "criteria": {
-      "certus": "2021-02-06 14:52:14 +0100"
+      "certus": "2021-02-06 13:52:14 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/emerald": {
     "criteria": {
-      "has_emerald_block": "2021-02-08 17:33:49 +0100"
+      "has_emerald_block": "2021-02-08 16:33:49 +0000"
     },
     "done": true
   },
   "erebus:agriculture/honeyfoods": {
     "criteria": {
-      "sandwich": "2021-02-08 19:28:50 +0100"
+      "sandwich": "2021-02-08 18:28:50 +0000"
     },
     "done": false
   },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
-      "has_glass": "2021-02-02 21:18:57 +0100"
+      "has_glass": "2021-02-02 20:18:57 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
-      "has_planks": "2021-02-01 20:33:46 +0100"
+      "has_planks": "2021-02-01 19:33:46 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
     "criteria": {
-      "has_bed": "2021-02-01 17:40:16 +0100"
+      "has_bed": "2021-02-01 16:40:16 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
-      "has_iron_ingot": "2021-02-01 18:45:55 +0100"
+      "has_iron_ingot": "2021-02-01 17:45:55 +0000"
     },
     "done": true
   },
   "twilightforest:quest_ram": {
     "criteria": {
-      "quest_ram_complete": "2021-02-08 17:33:48 +0100"
+      "quest_ram_complete": "2021-02-08 16:33:48 +0000"
     },
     "done": true
   },
   "bhc:main/red_heart_canister": {
     "criteria": {
-      "red_heart_canister_in_inventory": "2021-02-08 21:59:10 +0100"
+      "red_heart_canister_in_inventory": "2021-02-08 20:59:10 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/sugar": {
     "criteria": {
-      "has_reeds": "2021-02-03 18:06:43 +0100"
+      "has_reeds": "2021-02-03 17:06:43 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
-      "has_double_plant": "2021-02-02 22:37:02 +0100"
+      "has_double_plant": "2021-02-02 21:37:02 +0000"
     },
     "done": true
   },
   "erebus:exploration/antivenom": {
     "criteria": {
-      "bottle": "2021-02-08 18:08:33 +0100"
+      "bottle": "2021-02-08 17:08:33 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
-      "has_white_wool": "2021-02-01 17:34:31 +0100"
+      "has_white_wool": "2021-02-01 16:34:31 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
-      "has_at_least_9_gold_ingot": "2021-02-02 19:18:11 +0100"
+      "has_at_least_9_gold_ingot": "2021-02-02 18:18:11 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
     "criteria": {
-      "has_pink_dye": "2021-02-08 16:16:57 +0100"
+      "has_pink_dye": "2021-02-08 15:16:57 +0000"
     },
     "done": true
   },
   "botania:challenge/root": {
     "criteria": {
-      "flower": "2021-02-17 20:20:44 +0100"
+      "flower": "2021-02-17 19:20:44 +0000"
     },
     "done": true
   },
   "botania:challenge/infinite_fruit": {
     "criteria": {
-      "fruit": "2021-02-24 17:50:52 +0100"
+      "fruit": "2021-02-24 16:50:52 +0000"
     },
     "done": true
   },
   "minecraft:story/obtain_armor": {
     "criteria": {
-      "iron_chestplate": "2021-02-06 20:55:26 +0100"
+      "iron_chestplate": "2021-02-06 19:55:26 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
-      "has_quartz": "2021-02-03 14:54:27 +0100"
+      "has_quartz": "2021-02-03 13:54:27 +0000"
     },
     "done": true
   },
   "rftools:specialores": {
     "criteria": {
-      "find_ores": "2021-02-24 17:57:28 +0100"
+      "find_ores": "2021-02-24 16:57:28 +0000"
     },
     "done": true
   },
   "erebus:exploration/rhino_exo_set": {
     "criteria": {
-      "shield": "2021-02-08 23:07:25 +0100"
+      "shield": "2021-02-08 22:07:25 +0000"
     },
     "done": false
   },
   "minecraft:nether/return_to_sender": {
     "criteria": {
-      "killed_ghast": "2021-02-08 23:40:20 +0100"
+      "killed_ghast": "2021-02-08 22:40:20 +0000"
     },
     "done": true
   },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
-      "has_water_bucket": "2021-02-02 14:38:44 +0100"
+      "has_water_bucket": "2021-02-02 13:38:44 +0000"
     },
     "done": true
   },
   "enderioconduits:item/2_basic_filter": {
     "criteria": {
-      "inv_changed-enderio:item_basic_item_filter": "2021-02-20 22:30:55 +0100"
+      "inv_changed-enderio:item_basic_item_filter": "2021-02-20 21:30:55 +0000"
     },
     "done": true
   },
   "twilightforest:progress_trophy_pedestal": {
     "criteria": {
-      "kill_lich": "2021-02-06 21:18:59 +0100",
-      "trophy_pedestal": "2021-02-06 22:07:11 +0100"
+      "kill_lich": "2021-02-06 20:18:59 +0000",
+      "trophy_pedestal": "2021-02-06 21:07:11 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/gray_stained_glass_pane": {
     "criteria": {
-      "has_glass": "2021-02-02 21:18:57 +0100"
+      "has_glass": "2021-02-02 20:18:57 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
-      "has_stone_slab": "2021-02-03 14:55:49 +0100"
+      "has_stone_slab": "2021-02-03 13:55:49 +0000"
     },
     "done": true
   },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
-      "slept_in_bed": "2021-02-01 17:40:24 +0100"
+      "slept_in_bed": "2021-02-01 16:40:24 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
-      "has_sand": "2021-02-01 18:58:14 +0100"
+      "has_sand": "2021-02-01 17:58:14 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
-      "has_glass": "2021-02-02 21:18:57 +0100"
+      "has_glass": "2021-02-02 20:18:57 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
-      "has_log": "2021-02-02 19:54:04 +0100"
+      "has_log": "2021-02-02 18:54:04 +0000"
     },
     "done": true
   },
   "projecte:alchemical_bag": {
     "criteria": {
-      "bag": "2021-02-05 17:11:42 +0100"
+      "bag": "2021-02-05 16:11:42 +0000"
     },
     "done": true
   },
   "galacticraftcore:galacticraft/oxygen_gear": {
     "criteria": {
-      "oxygen_mask": "2021-02-23 20:54:14 +0100"
+      "oxygen_mask": "2021-02-23 19:54:14 +0000"
     },
     "done": false
   },
   "minecraft:story/lava_bucket": {
     "criteria": {
-      "lava_bucket": "2021-02-03 19:51:23 +0100"
+      "lava_bucket": "2021-02-03 18:51:23 +0000"
     },
     "done": true
   },
   "twilightforest:alt/major_landmarks/giant_cloud": {
     "criteria": {
-      "discover": "2021-02-06 22:43:40 +0100"
+      "discover": "2021-02-06 21:43:40 +0000"
     },
     "done": true
   },
   "tombstone:recipes/from_voodoo_poppet": {
     "criteria": {
-      "has_ingredient": "2021-02-06 21:19:20 +0100"
+      "has_ingredient": "2021-02-06 20:19:20 +0000"
     },
     "done": true
   },
   "bhc:main/root": {
     "criteria": {
-      "red_heart_in_inventory": "2021-02-01 17:24:02 +0100"
+      "red_heart_in_inventory": "2021-02-01 16:24:02 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
-      "has_planks": "2021-02-01 17:14:15 +0100"
+      "has_planks": "2021-02-01 16:14:15 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
-      "has_quartz_block": "2021-02-09 21:36:47 +0100"
+      "has_quartz_block": "2021-02-09 20:36:47 +0000"
     },
     "done": true
   },
   "tombstone:tutorial/create_magic_scroll": {
     "criteria": {
-      "has_ingredient": "2021-02-01 19:10:19 +0100"
+      "has_ingredient": "2021-02-01 18:10:19 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/red_carpet": {
     "criteria": {
-      "has_red_wool": "2021-02-03 13:45:11 +0100"
+      "has_red_wool": "2021-02-03 12:45:11 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
-      "entered_water": "2021-02-01 18:42:24 +0100"
+      "entered_water": "2021-02-01 17:42:24 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
-      "has_iron_ingot": "2021-02-01 18:45:55 +0100"
+      "has_iron_ingot": "2021-02-01 17:45:55 +0000"
     },
     "done": true
   },
   "nuclearcraft:processors/electrolyser": {
     "criteria": {
-      "has_item": "2021-02-13 21:23:22 +0100"
+      "has_item": "2021-02-13 20:23:22 +0000"
     },
     "done": true
   },
   "minecraft:end/dragon_breath": {
     "criteria": {
-      "dragon_breath": "2021-02-15 14:30:55 +0100"
+      "dragon_breath": "2021-02-15 13:30:55 +0000"
     },
     "done": true
   },
   "minecraft:adventure/root": {
     "criteria": {
-      "killed_something": "2021-02-01 17:19:44 +0100"
+      "killed_something": "2021-02-01 16:19:44 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
-      "has_black_wool": "2021-02-01 17:34:33 +0100"
+      "has_black_wool": "2021-02-01 16:34:33 +0000"
     },
     "done": true
   },
   "pneumaticcraft:printed_circuit_board": {
     "criteria": {
-      "air_compressor": "2021-02-06 17:54:02 +0100"
+      "air_compressor": "2021-02-06 16:54:02 +0000"
     },
     "done": true
   },
   "twilightforest:alt/treasures/ironwood_tool_set": {
     "criteria": {
-      "ingredien2": "2021-02-06 22:32:04 +0100"
+      "ingredien2": "2021-02-06 21:32:04 +0000"
     },
     "done": true
   },
   "nuclearcraft:processors/nuclear_furnace": {
     "criteria": {
-      "has_item": "2021-02-24 16:23:41 +0100"
+      "has_item": "2021-02-24 15:23:41 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
-      "has_bed": "2021-02-01 17:40:16 +0100"
+      "has_bed": "2021-02-01 16:40:16 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
-      "has_sand": "2021-02-01 18:58:14 +0100"
+      "has_sand": "2021-02-01 17:58:14 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/jungle_fence": {
     "criteria": {
-      "has_planks": "2021-02-01 19:03:02 +0100"
+      "has_planks": "2021-02-01 18:03:02 +0000"
     },
     "done": true
   },
   "minecraft:end/kill_dragon": {
     "criteria": {
-      "killed_dragon": "2021-02-09 16:02:43 +0100"
+      "killed_dragon": "2021-02-09 15:02:43 +0000"
     },
     "done": true
   },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
-      "has_diamond": "2021-02-03 13:47:17 +0100"
+      "has_diamond": "2021-02-03 12:47:17 +0000"
     },
     "done": true
   },
   "nuclearcraft:processors/decay_hastener": {
     "criteria": {
-      "has_item": "2021-02-24 16:23:10 +0100"
+      "has_item": "2021-02-24 15:23:10 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/red_nether_brick": {
     "criteria": {
-      "has_nether_wart": "2021-02-02 19:18:59 +0100"
+      "has_nether_wart": "2021-02-02 18:18:59 +0000"
     },
     "done": true
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "zombie_pigman": "2021-02-07 00:21:10 +0100",
-      "shulker": "2021-02-09 17:01:47 +0100",
-      "wither_skeleton": "2021-02-01 17:23:49 +0100",
-      "zombie_villager": "2021-02-02 11:55:18 +0100",
-      "slime": "2021-02-02 15:24:12 +0100",
-      "skeleton": "2021-02-01 22:10:09 +0100",
-      "blaze": "2021-02-07 00:06:42 +0100",
-      "zombie": "2021-02-01 17:23:19 +0100",
-      "cave_spider": "2021-02-02 20:46:26 +0100",
-      "silverfish": "2021-02-06 21:23:22 +0100",
-      "witch": "2021-02-02 21:09:55 +0100",
-      "guardian": "2021-02-01 21:49:47 +0100",
-      "spider": "2021-02-01 17:20:38 +0100",
-      "ghast": "2021-02-08 23:40:20 +0100",
-      "creeper": "2021-02-01 20:06:07 +0100",
-      "enderman": "2021-02-08 23:21:07 +0100"
+      "zombie_pigman": "2021-02-06 23:21:10 +0000",
+      "shulker": "2021-02-09 16:01:47 +0000",
+      "wither_skeleton": "2021-02-01 16:23:49 +0000",
+      "zombie_villager": "2021-02-02 10:55:18 +0000",
+      "slime": "2021-02-02 14:24:12 +0000",
+      "skeleton": "2021-02-01 21:10:09 +0000",
+      "blaze": "2021-02-06 23:06:42 +0000",
+      "zombie": "2021-02-01 16:23:19 +0000",
+      "cave_spider": "2021-02-02 19:46:26 +0000",
+      "silverfish": "2021-02-06 20:23:22 +0000",
+      "witch": "2021-02-02 20:09:55 +0000",
+      "guardian": "2021-02-01 20:49:47 +0000",
+      "spider": "2021-02-01 16:20:38 +0000",
+      "ghast": "2021-02-08 22:40:20 +0000",
+      "creeper": "2021-02-01 19:06:07 +0000",
+      "enderman": "2021-02-08 22:21:07 +0000"
     },
     "done": false
   },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
-      "has_blaze_powder": "2021-02-08 19:24:04 +0100"
+      "has_blaze_powder": "2021-02-08 18:24:04 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/orange_bed": {
     "criteria": {
-      "has_orange_wool": "2021-02-03 13:45:08 +0100"
+      "has_orange_wool": "2021-02-03 12:45:08 +0000"
     },
     "done": true
   },
   "galacticraftcore:galacticraft/oil": {
     "criteria": {
-      "in_oil": "2021-02-10 12:17:03 +0100"
+      "in_oil": "2021-02-10 11:17:03 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/yellow_banner": {
     "criteria": {
-      "has_yellow_wool": "2021-02-03 13:45:05 +0100"
+      "has_yellow_wool": "2021-02-03 12:45:05 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
-      "has_at_least_9_redstone": "2021-02-03 18:03:32 +0100"
+      "has_at_least_9_redstone": "2021-02-03 17:03:32 +0000"
     },
     "done": true
   },
   "nuclearcraft:processors/speed_upgrade": {
     "criteria": {
-      "has_item": "2021-02-13 21:44:34 +0100"
+      "has_item": "2021-02-13 20:44:34 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/pink_bed_from_white_bed": {
     "criteria": {
-      "has_bed": "2021-02-01 17:40:16 +0100"
+      "has_bed": "2021-02-01 16:40:16 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
-      "has_glass": "2021-02-02 21:18:57 +0100"
+      "has_glass": "2021-02-02 20:18:57 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/pink_stained_glass_pane": {
     "criteria": {
-      "has_glass": "2021-02-02 21:18:57 +0100"
+      "has_glass": "2021-02-02 20:18:57 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
-      "has_red_flower": "2021-02-01 19:09:40 +0100"
+      "has_red_flower": "2021-02-01 18:09:40 +0000"
     },
     "done": true
   },
   "twilightforest:alt/treasures/knightmetal_armor_set": {
     "criteria": {
-      "ingredien3": "2021-02-11 19:17:32 +0100"
+      "ingredien3": "2021-02-11 18:17:32 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
-      "has_planks": "2021-02-01 22:02:47 +0100"
+      "has_planks": "2021-02-01 21:02:47 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
-      "has_brown_wool": "2021-02-08 16:37:01 +0100"
+      "has_brown_wool": "2021-02-08 15:37:01 +0000"
     },
     "done": true
   },
   "twilightforest:alt/treasures/naga_armor_set": {
     "criteria": {
-      "leggings": "2021-02-06 21:08:16 +0100"
+      "leggings": "2021-02-06 20:08:16 +0000"
     },
     "done": true
   },
   "twilightforest:alt/entities/bighorn_sheep": {
     "criteria": {
-      "hurt": "2021-02-06 21:34:56 +0100"
+      "hurt": "2021-02-06 20:34:56 +0000"
     },
     "done": true
   },
   "twilightforest:alt/entities/harbinger_cube": {
     "criteria": {
-      "hurt": "2021-02-08 17:21:41 +0100"
+      "hurt": "2021-02-08 16:21:41 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/green_stained_hardened_clay": {
     "criteria": {
-      "has_hardened_clay": "2021-02-04 19:23:31 +0100"
+      "has_hardened_clay": "2021-02-04 18:23:31 +0000"
     },
     "done": true
   },
   "pneumaticcraft:pressure_tube": {
     "criteria": {
-      "pressure_tube": "2021-02-13 18:47:37 +0100"
+      "pressure_tube": "2021-02-13 17:47:37 +0000"
     },
     "done": true
   },
   "twilightforest:ghast_trap": {
     "criteria": {
-      "activate_ghast_trap": "2021-02-06 22:19:55 +0100"
+      "activate_ghast_trap": "2021-02-06 21:19:55 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/gray_stained_hardened_clay": {
     "criteria": {
-      "has_hardened_clay": "2021-02-04 19:23:31 +0100"
+      "has_hardened_clay": "2021-02-04 18:23:31 +0000"
     },
     "done": true
   },
   "twilightforest:progress_glacier": {
     "criteria": {
-      "previous_progression": "2021-02-06 22:27:58 +0100",
-      "trophy": "2021-02-06 22:35:46 +0100"
+      "previous_progression": "2021-02-06 21:27:58 +0000",
+      "trophy": "2021-02-06 21:35:46 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/yellow_bed": {
     "criteria": {
-      "has_yellow_wool": "2021-02-03 13:45:05 +0100"
+      "has_yellow_wool": "2021-02-03 12:45:05 +0000"
     },
     "done": true
   },
   "tombstone:tutorial/create_strange_scroll": {
     "criteria": {
-      "has_strange_scroll": "2021-02-03 16:28:19 +0100"
+      "has_strange_scroll": "2021-02-03 15:28:19 +0000"
     },
     "done": true
   },
   "twilightforest:twilight_hunter": {
     "criteria": {
-      "deer": "2021-02-06 20:49:44 +0100"
+      "deer": "2021-02-06 19:49:44 +0000"
     },
     "done": true
   },
   "twilightforest:alt/treasures/foods/meef": {
     "criteria": {
-      "raw": "2021-02-06 21:38:42 +0100"
+      "raw": "2021-02-06 20:38:42 +0000"
     },
     "done": true
   },
   "minecraft:story/follow_ender_eye": {
     "criteria": {
-      "in_stronghold": "2021-02-09 15:58:15 +0100"
+      "in_stronghold": "2021-02-09 14:58:15 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
-      "has_glass": "2021-02-02 21:18:57 +0100"
+      "has_glass": "2021-02-02 20:18:57 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/brick_block": {
     "criteria": {
-      "has_brick": "2021-02-06 15:05:54 +0100"
+      "has_brick": "2021-02-06 14:05:54 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
-      "has_sand": "2021-02-01 18:58:14 +0100"
+      "has_sand": "2021-02-01 17:58:14 +0000"
     },
     "done": true
   },
   "twilightforest:alt/treasures/foods/hydra_chop": {
     "criteria": {
-      "food": "2021-02-06 21:53:15 +0100"
+      "food": "2021-02-06 20:53:15 +0000"
     },
     "done": true
   },
   "twilightforest:alt/entities/adherent": {
     "criteria": {
-      "hurt_by_indirect": "2021-02-06 22:51:17 +0100"
+      "hurt_by_indirect": "2021-02-06 21:51:17 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/blue_stained_glass_pane": {
     "criteria": {
-      "has_glass": "2021-02-02 21:18:57 +0100"
+      "has_glass": "2021-02-02 20:18:57 +0000"
     },
     "done": true
   },
   "nuclearcraft:food/smore": {
     "criteria": {
-      "has_item": "2021-02-02 19:18:11 +0100"
+      "has_item": "2021-02-02 18:18:11 +0000"
     },
     "done": true
   },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
-      "tamed_animal": "2021-02-22 14:08:11 +0100"
+      "tamed_animal": "2021-02-22 13:08:11 +0000"
     },
     "done": true
   },
   "twilightforest:alt/major_landmarks/naga_courtyard": {
     "criteria": {
-      "discover": "2021-02-06 20:53:11 +0100"
+      "discover": "2021-02-06 19:53:11 +0000"
     },
     "done": true
   },
   "abyssalcraft:root": {
     "criteria": {
-      "necronomicon": "2021-02-03 17:07:48 +0100"
+      "necronomicon": "2021-02-03 16:07:48 +0000"
     },
     "done": true
   },
   "appliedenergistics2:main/interface": {
     "criteria": {
-      "certus": "2021-02-22 12:15:22 +0100"
+      "certus": "2021-02-22 11:15:22 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
-      "has_lapis": "2021-02-02 19:11:01 +0100"
+      "has_lapis": "2021-02-02 18:11:01 +0000"
     },
     "done": true
   },
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
-      "has_blaze_rod": "2021-02-08 16:09:46 +0100"
+      "has_blaze_rod": "2021-02-08 15:09:46 +0000"
     },
     "done": true
   },
   "twilightforest:alt/entities/yeti": {
     "criteria": {
-      "hurt": "2021-02-06 22:26:10 +0100"
+      "hurt": "2021-02-06 21:26:10 +0000"
     },
     "done": true
   },
   "minecraft:end/root": {
     "criteria": {
-      "entered_end": "2021-02-09 15:58:31 +0100"
+      "entered_end": "2021-02-09 14:58:31 +0000"
     },
     "done": true
   },
   "enderiomachines:basics/goal/1_all_simple_get": {
     "criteria": {
-      "inv_changed-enderio:block_simple_stirling_generator": "2021-02-22 13:24:58 +0100"
+      "inv_changed-enderio:block_simple_stirling_generator": "2021-02-22 12:24:58 +0000"
     },
     "done": false
   },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
-      "has_white_wool": "2021-02-01 17:34:31 +0100"
+      "has_white_wool": "2021-02-01 16:34:31 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/purple_bed": {
     "criteria": {
-      "has_purple_wool": "2021-02-03 13:45:22 +0100"
+      "has_purple_wool": "2021-02-03 12:45:22 +0000"
     },
     "done": true
   },
   "twilightforest:alt/biomes/highlands_center": {
     "criteria": {
-      "discover": "2021-02-06 22:49:30 +0100"
+      "discover": "2021-02-06 21:49:30 +0000"
     },
     "done": true
   },
   "twilightforest:alt/compat/ie_shaders": {
     "criteria": {
-      "ie_shader_bag": "2021-02-02 14:49:58 +0100"
+      "ie_shader_bag": "2021-02-02 13:49:58 +0000"
     },
     "done": true
   },
   "erebus:exploration/root": {
     "criteria": {
-      "in_ere": "2021-02-08 18:02:45 +0100"
+      "in_ere": "2021-02-08 17:02:45 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/yellow_stained_hardened_clay": {
     "criteria": {
-      "has_hardened_clay": "2021-02-04 19:23:31 +0100"
+      "has_hardened_clay": "2021-02-04 18:23:31 +0000"
     },
     "done": true
   },
   "projecte:klein_star_omega": {
     "criteria": {
-      "klein_star": "2021-02-21 02:51:42 +0100"
+      "klein_star": "2021-02-21 01:51:42 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/magenta_dye_from_lapis_red_pink": {
     "criteria": {
-      "has_lapis": "2021-02-02 19:11:01 +0100"
+      "has_lapis": "2021-02-02 18:11:01 +0000"
     },
     "done": true
   },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
-      "has_glass": "2021-02-02 21:18:57 +0100"
+      "has_glass": "2021-02-02 20:18:57 +0000"
     },
     "done": true
   },
   "twilightforest:alt/entities/undead": {
     "criteria": {
-      "0": "2021-02-06 20:50:29 +0100"
+      "0": "2021-02-06 19:50:29 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
-      "has_glass": "2021-02-02 21:18:57 +0100"
+      "has_glass": "2021-02-02 20:18:57 +0000"
     },
     "done": true
   },
   "twilightforest:alt/entities/tower_ghast": {
     "criteria": {
-      "slay": "2021-02-06 22:17:05 +0100"
+      "slay": "2021-02-06 21:17:05 +0000"
     },
     "done": true
   },
   "tombstone:tutorial/find_grave_dust": {
     "criteria": {
-      "has_grave_dust": "2021-02-02 11:53:58 +0100"
+      "has_grave_dust": "2021-02-02 10:53:58 +0000"
     },
     "done": true
   },
   "twilightforest:alt/treasures/shield_scepter": {
     "criteria": {
-      "scepter": "2021-02-06 21:18:59 +0100"
+      "scepter": "2021-02-06 20:18:59 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
     "criteria": {
-      "has_bonemeal": "2021-02-01 17:40:16 +0100"
+      "has_bonemeal": "2021-02-01 16:40:16 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/leather": {
     "criteria": {
-      "has_rabbit_hide": "2021-02-17 20:00:56 +0100"
+      "has_rabbit_hide": "2021-02-17 19:00:56 +0000"
     },
     "done": true
   },
   "simplyjetpacks:ie/root_ie": {
     "criteria": {
-      "code_trigger": "2021-02-01 17:08:33 +0100"
+      "code_trigger": "2021-02-01 16:08:33 +0000"
     },
     "done": true
   },
   "twilightforest:alt/treasures/foods/vension": {
     "criteria": {
-      "raw": "2021-02-06 20:49:45 +0100"
+      "raw": "2021-02-06 19:49:45 +0000"
     },
     "done": true
   },
   "twilightforest:alt/biomes/thornlands": {
     "criteria": {
-      "discover": "2021-02-06 22:45:00 +0100"
+      "discover": "2021-02-06 21:45:00 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
-      "has_at_least_9_iron_ingot": "2021-02-02 20:19:21 +0100"
+      "has_at_least_9_iron_ingot": "2021-02-02 19:19:21 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
-      "has_light_gray_wool": "2021-02-03 13:45:13 +0100"
+      "has_light_gray_wool": "2021-02-03 12:45:13 +0000"
     },
     "done": true
   },
   "twilightforest:alt/treasures/smoking_block": {
     "criteria": {
-      "fire_swamp": "2021-02-06 21:35:12 +0100"
+      "fire_swamp": "2021-02-06 20:35:12 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
-      "has_quartz_block": "2021-02-09 21:36:47 +0100"
+      "has_quartz_block": "2021-02-09 20:36:47 +0000"
     },
     "done": true
   },
   "erebus:exploration/rhino_beetle": {
     "criteria": {
-      "kill_rhino": "2021-02-08 18:51:42 +0100"
+      "kill_rhino": "2021-02-08 17:51:42 +0000"
     },
     "done": false
   },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
-      "has_red_flower": "2021-02-03 14:09:09 +0100"
+      "has_red_flower": "2021-02-03 13:09:09 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/wooden_pressure_plate": {
     "criteria": {
-      "has_planks": "2021-02-01 17:14:15 +0100"
+      "has_planks": "2021-02-01 16:14:15 +0000"
     },
     "done": true
   },
   "twilightforest:progress_troll": {
     "criteria": {
-      "previous_progression": "2021-02-06 22:35:46 +0100",
-      "lamp": "2021-02-06 22:47:04 +0100"
+      "previous_progression": "2021-02-06 21:35:46 +0000",
+      "lamp": "2021-02-06 21:47:04 +0000"
     },
     "done": true
   },
   "twilightforest:alt/entities/lich": {
     "criteria": {
-      "hurt_by_indirect": "2021-02-06 21:15:10 +0100"
+      "hurt_by_indirect": "2021-02-06 20:15:10 +0000"
     },
     "done": true
   },
   "enderio:start/1_infinity_powder_get": {
     "criteria": {
-      "inv_changed-enderio:item_material": "2021-02-09 16:02:47 +0100"
+      "inv_changed-enderio:item_material": "2021-02-09 15:02:47 +0000"
     },
     "done": true
   },
   "enderio:gears/g4_energized_gear": {
     "criteria": {
-      "inv_changed-enderio:item_material": "2021-02-22 13:06:59 +0100"
+      "inv_changed-enderio:item_material": "2021-02-22 12:06:59 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
-      "has_yellow_flower": "2021-02-01 21:04:50 +0100"
+      "has_yellow_flower": "2021-02-01 20:04:50 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
-      "has_clay_ball": "2021-02-02 20:54:38 +0100"
+      "has_clay_ball": "2021-02-02 19:54:38 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
-      "has_glass": "2021-02-02 21:18:57 +0100"
+      "has_glass": "2021-02-02 20:18:57 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
-      "has_white_wool": "2021-02-01 17:34:31 +0100"
+      "has_white_wool": "2021-02-01 16:34:31 +0000"
     },
     "done": true
   },
   "nuclearcraft:food/marshmallow": {
     "criteria": {
-      "has_item": "2021-02-02 19:17:38 +0100"
+      "has_item": "2021-02-02 18:17:38 +0000"
     },
     "done": true
   },
   "tombstone:tutorial/enchant_voodoo_poppet": {
     "criteria": {
-      "has_enchanted_voodoo_poppet": "2021-02-06 21:19:20 +0100"
+      "has_enchanted_voodoo_poppet": "2021-02-06 20:19:20 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/wooden_button": {
     "criteria": {
-      "has_planks": "2021-02-01 17:14:15 +0100"
+      "has_planks": "2021-02-01 16:14:15 +0000"
     },
     "done": true
   },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
-      "has_stick": "2021-02-01 17:17:17 +0100"
+      "has_stick": "2021-02-01 16:17:17 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/gray_banner": {
     "criteria": {
-      "has_gray_wool": "2021-02-02 19:45:55 +0100"
+      "has_gray_wool": "2021-02-02 18:45:55 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
-      "has_log": "2021-02-01 17:12:59 +0100"
+      "has_log": "2021-02-01 16:12:59 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
-      "has_sand": "2021-02-01 18:58:14 +0100"
+      "has_sand": "2021-02-01 17:58:14 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/light_blue_carpet": {
     "criteria": {
-      "has_light_blue_wool": "2021-02-03 13:45:06 +0100"
+      "has_light_blue_wool": "2021-02-03 12:45:06 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/light_gray_banner": {
     "criteria": {
-      "has_light_gray_wool": "2021-02-03 13:45:13 +0100"
+      "has_light_gray_wool": "2021-02-03 12:45:13 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/golden_rail": {
     "criteria": {
-      "has_rail": "2021-02-02 20:43:56 +0100"
+      "has_rail": "2021-02-02 19:43:56 +0000"
     },
     "done": true
   },
   "botania:main/root": {
     "criteria": {
-      "flower": "2021-02-17 20:20:44 +0100"
+      "flower": "2021-02-17 19:20:44 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/cyan_banner": {
     "criteria": {
-      "has_cyan_wool": "2021-02-03 13:45:07 +0100"
+      "has_cyan_wool": "2021-02-03 12:45:07 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
-      "has_book": "2021-02-03 17:12:10 +0100"
+      "has_book": "2021-02-03 16:12:10 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/fence": {
     "criteria": {
-      "has_planks": "2021-02-01 17:14:15 +0100"
+      "has_planks": "2021-02-01 16:14:15 +0000"
     },
     "done": true
   },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
-      "has_gold_ingot": "2021-02-01 17:35:56 +0100"
+      "has_gold_ingot": "2021-02-01 16:35:56 +0000"
     },
     "done": true
   },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
-      "has_iron_ingot": "2021-02-01 18:45:55 +0100"
+      "has_iron_ingot": "2021-02-01 17:45:55 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
-      "has_glowstone_dust": "2021-02-02 21:14:13 +0100"
+      "has_glowstone_dust": "2021-02-02 20:14:13 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
-      "has_prismarine_crystals": "2021-02-01 20:36:32 +0100"
+      "has_prismarine_crystals": "2021-02-01 19:36:32 +0000"
     },
     "done": true
   },
   "twilightforest:alt/entities/skeleton_druid": {
     "criteria": {
-      "hurt": "2021-02-06 20:50:29 +0100"
+      "hurt": "2021-02-06 19:50:29 +0000"
     },
     "done": true
   },
   "appliedenergistics2:main/storage_bus": {
     "criteria": {
-      "part": "2021-02-16 19:48:53 +0100"
+      "part": "2021-02-16 18:48:53 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
-      "has_log": "2021-02-01 17:28:33 +0100"
+      "has_log": "2021-02-01 16:28:33 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
-      "has_black_wool": "2021-02-01 17:34:33 +0100"
+      "has_black_wool": "2021-02-01 16:34:33 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
-      "has_gray_wool": "2021-02-02 19:45:55 +0100"
+      "has_gray_wool": "2021-02-02 18:45:55 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/red_banner": {
     "criteria": {
-      "has_red_wool": "2021-02-03 13:45:11 +0100"
+      "has_red_wool": "2021-02-03 12:45:11 +0000"
     },
     "done": true
   },
   "twilightforest:alt/entities/giant_miner": {
     "criteria": {
-      "hurt": "2021-02-06 22:43:46 +0100"
+      "hurt": "2021-02-06 21:43:46 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
-      "has_string": "2021-02-01 17:24:00 +0100"
+      "has_string": "2021-02-01 16:24:00 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/dark_oak_wooden_slab": {
     "criteria": {
-      "has_planks": "2021-02-01 22:02:47 +0100"
+      "has_planks": "2021-02-01 21:02:47 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/blue_stained_hardened_clay": {
     "criteria": {
-      "has_hardened_clay": "2021-02-04 19:23:31 +0100"
+      "has_hardened_clay": "2021-02-04 18:23:31 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/chiseled_quartz_block": {
     "criteria": {
-      "has_quartz_block": "2021-02-09 21:36:47 +0100"
+      "has_quartz_block": "2021-02-09 20:36:47 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
-      "has_log": "2021-02-03 13:41:27 +0100"
+      "has_log": "2021-02-03 12:41:27 +0000"
     },
     "done": true
   },
   "botania:main/gaia_guardian_kill": {
     "criteria": {
-      "guardian": "2021-02-24 17:49:08 +0100"
+      "guardian": "2021-02-24 16:49:08 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/bone_meal_from_bone": {
     "criteria": {
-      "has_bone": "2021-02-01 17:35:56 +0100"
+      "has_bone": "2021-02-01 16:35:56 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
-      "has_sand": "2021-02-01 18:58:14 +0100"
+      "has_sand": "2021-02-01 17:58:14 +0000"
     },
     "done": true
   },
   "twilightforest:alt/biomes/firefly_forest": {
     "criteria": {
-      "discover": "2021-02-06 21:16:46 +0100"
+      "discover": "2021-02-06 20:16:46 +0000"
     },
     "done": true
   },
   "minecraft:story/iron_tools": {
     "criteria": {
-      "iron_pickaxe": "2021-02-02 11:51:42 +0100"
+      "iron_pickaxe": "2021-02-02 10:51:42 +0000"
     },
     "done": true
   },
   "twilightforest:progress_merge": {
     "criteria": {
-      "hydra": "2021-02-06 21:51:51 +0100",
-      "snow_queen": "2021-02-06 22:35:46 +0100",
-      "ur_ghast": "2021-02-06 22:25:22 +0100"
+      "hydra": "2021-02-06 20:51:51 +0000",
+      "snow_queen": "2021-02-06 21:35:46 +0000",
+      "ur_ghast": "2021-02-06 21:25:22 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/orange_banner": {
     "criteria": {
-      "has_orange_wool": "2021-02-03 13:45:08 +0100"
+      "has_orange_wool": "2021-02-03 12:45:08 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/spruce_wooden_slab": {
     "criteria": {
-      "has_planks": "2021-02-05 15:20:30 +0100"
+      "has_planks": "2021-02-05 14:20:30 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
-      "has_planks": "2021-02-03 13:41:35 +0100"
+      "has_planks": "2021-02-03 12:41:35 +0000"
     },
     "done": true
   },
   "twilightforest:alt/entities/snow_queen": {
     "criteria": {
-      "hurt": "2021-02-06 22:34:56 +0100"
+      "hurt": "2021-02-06 21:34:56 +0000"
     },
     "done": true
   },
   "twilightforest:alt/biomes/mushroom_forest": {
     "criteria": {
-      "discover": "2021-02-06 20:51:57 +0100"
+      "discover": "2021-02-06 19:51:57 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
-      "has_stone": "2021-02-02 12:12:58 +0100"
+      "has_stone": "2021-02-02 11:12:58 +0000"
     },
     "done": true
   },
   "twilightforest:alt/treasures/fiery_tool_set": {
     "criteria": {
-      "ingredient": "2021-02-06 21:52:54 +0100"
+      "ingredient": "2021-02-06 20:52:54 +0000"
     },
     "done": true
   },
   "twilightforest:alt/treasures/ender_bow": {
     "criteria": {
-      "bow": "2021-02-06 22:33:20 +0100"
+      "bow": "2021-02-06 21:33:20 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
-      "has_white_wool": "2021-02-01 17:34:31 +0100"
+      "has_white_wool": "2021-02-01 16:34:31 +0000"
     },
     "done": true
   },
   "twilightforest:alt/entities/goblin_knight": {
     "criteria": {
-      "hurt_by_indirect_alt": "2021-02-06 21:58:19 +0100"
+      "hurt_by_indirect_alt": "2021-02-06 20:58:19 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/prismarine_bricks": {
     "criteria": {
-      "has_prismarine_shard": "2021-02-01 20:36:32 +0100"
+      "has_prismarine_shard": "2021-02-01 19:36:32 +0000"
     },
     "done": true
   },
   "twilightforest:alt/major_landmarks/hollow_hills": {
     "criteria": {
-      "1": "2021-02-06 22:38:27 +0100"
+      "1": "2021-02-06 21:38:27 +0000"
     },
     "done": true
   },
   "chancecubes:chance_icosahedron": {
     "criteria": {
-      "placed_icosahedron": "2021-02-03 13:44:30 +0100"
+      "placed_icosahedron": "2021-02-03 12:44:30 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/noteblock": {
     "criteria": {
-      "has_redstone": "2021-02-01 19:34:21 +0100"
+      "has_redstone": "2021-02-01 18:34:21 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
     "criteria": {
-      "has_bed": "2021-02-01 17:40:16 +0100"
+      "has_bed": "2021-02-01 16:40:16 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
-      "has_sand": "2021-02-01 18:58:14 +0100"
+      "has_sand": "2021-02-01 17:58:14 +0000"
     },
     "done": true
   },
   "pneumaticcraft:advanced_pressure_tube": {
     "criteria": {
-      "pressure_tube": "2021-02-13 19:19:03 +0100"
+      "pressure_tube": "2021-02-13 18:19:03 +0000"
     },
     "done": true
   },
   "tombstone:tutorial/root": {
     "criteria": {
-      "auto": "2021-02-01 17:08:33 +0100"
+      "auto": "2021-02-01 16:08:33 +0000"
     },
     "done": true
   },
   "twilightforest:alt/biomes/twilight_lake": {
     "criteria": {
-      "discover": "2021-02-08 17:27:43 +0100"
+      "discover": "2021-02-08 16:27:43 +0000"
     },
     "done": true
   },
   "projecte:red_matter_block": {
     "criteria": {
-      "rm_block": "2021-02-21 02:38:48 +0100"
+      "rm_block": "2021-02-21 01:38:48 +0000"
     },
     "done": true
   },
   "projecte:dark_matter_pickaxe": {
     "criteria": {
-      "dm_pick": "2021-02-21 05:30:25 +0100"
+      "dm_pick": "2021-02-21 04:30:25 +0000"
     },
     "done": true
   },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
-      "spider": "2021-02-01 17:20:38 +0100"
+      "spider": "2021-02-01 16:20:38 +0000"
     },
     "done": true
   },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
-      "has_gold_ingot": "2021-02-01 17:35:56 +0100"
+      "has_gold_ingot": "2021-02-01 16:35:56 +0000"
     },
     "done": true
   },
   "twilightforest:alt/treasures/crumble_horn": {
     "criteria": {
-      "crumble_horn": "2021-02-08 17:33:50 +0100"
+      "crumble_horn": "2021-02-08 16:33:50 +0000"
     },
     "done": true
   },
   "twilightforest:alt/entities/pinch_beetle": {
     "criteria": {
-      "hurt": "2021-02-06 21:40:33 +0100"
+      "hurt": "2021-02-06 20:40:33 +0000"
     },
     "done": true
   },
   "astralsorcery:rock_crystals": {
     "criteria": {
-      "rock_crystal_in_inventory": "2021-02-09 17:05:54 +0100"
+      "rock_crystal_in_inventory": "2021-02-09 16:05:54 +0000"
     },
     "done": true
   },
   "chancecubes:herobrine": {
     "criteria": {
-      "spawn_herobrine": "2021-02-23 21:01:13 +0100"
+      "spawn_herobrine": "2021-02-23 20:01:13 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
-      "has_slime_ball": "2021-02-02 15:24:26 +0100"
+      "has_slime_ball": "2021-02-02 14:24:26 +0000"
     },
     "done": true
   },
   "twilightforest:progress_knights": {
     "criteria": {
-      "previous_progression": "2021-02-06 22:07:11 +0100",
-      "knight": "2021-02-06 22:07:31 +0100",
-      "structure": "2021-02-06 22:02:00 +0100"
+      "previous_progression": "2021-02-06 21:07:11 +0000",
+      "knight": "2021-02-06 21:07:31 +0000",
+      "structure": "2021-02-06 21:02:00 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/green_carpet": {
     "criteria": {
-      "has_green_wool": "2021-02-03 13:45:05 +0100"
+      "has_green_wool": "2021-02-03 12:45:05 +0000"
     },
     "done": true
   },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
-      "has_blaze_powder": "2021-02-08 19:24:04 +0100"
+      "has_blaze_powder": "2021-02-08 18:24:04 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
-      "has_bonemeal": "2021-02-01 17:40:16 +0100"
+      "has_bonemeal": "2021-02-01 16:40:16 +0000"
     },
     "done": true
   },
   "pneumaticcraft:vortex_tube": {
     "criteria": {
-      "air_compressor": "2021-02-13 18:47:45 +0100"
+      "air_compressor": "2021-02-13 17:47:45 +0000"
     },
     "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "forest": "2021-02-01 17:08:33 +0100",
-      "swampland": "2021-02-02 19:46:46 +0100",
-      "birch_forest": "2021-02-02 23:05:21 +0100",
-      "deep_ocean": "2021-02-02 19:55:45 +0100",
-      "beaches": "2021-02-01 17:12:02 +0100",
-      "extreme_hills_with_trees": "2021-02-02 19:49:48 +0100",
-      "desert_hills": "2021-02-02 14:48:29 +0100",
-      "forest_hills": "2021-02-01 21:38:02 +0100",
-      "savanna": "2021-02-01 17:25:51 +0100",
-      "plains": "2021-02-01 17:10:38 +0100",
-      "jungle_hills": "2021-02-08 16:37:32 +0100",
-      "jungle_edge": "2021-02-08 16:37:12 +0100",
-      "savanna_rock": "2021-02-01 17:35:18 +0100",
-      "redwood_taiga": "2021-02-02 19:53:40 +0100",
-      "taiga": "2021-02-02 19:53:09 +0100",
-      "redwood_taiga_hills": "2021-02-02 19:54:21 +0100",
-      "taiga_hills": "2021-02-03 13:58:32 +0100",
-      "ocean": "2021-02-01 22:40:17 +0100",
-      "extreme_hills": "2021-02-02 19:48:45 +0100",
-      "roofed_forest": "2021-02-01 21:38:23 +0100",
-      "river": "2021-02-01 20:29:40 +0100",
-      "jungle": "2021-02-08 16:36:50 +0100",
-      "desert": "2021-02-02 14:47:36 +0100",
-      "stone_beach": "2021-02-02 22:54:17 +0100"
+      "forest": "2021-02-01 16:08:33 +0000",
+      "swampland": "2021-02-02 18:46:46 +0000",
+      "birch_forest": "2021-02-02 22:05:21 +0000",
+      "deep_ocean": "2021-02-02 18:55:45 +0000",
+      "beaches": "2021-02-01 16:12:02 +0000",
+      "extreme_hills_with_trees": "2021-02-02 18:49:48 +0000",
+      "desert_hills": "2021-02-02 13:48:29 +0000",
+      "forest_hills": "2021-02-01 20:38:02 +0000",
+      "savanna": "2021-02-01 16:25:51 +0000",
+      "plains": "2021-02-01 16:10:38 +0000",
+      "jungle_hills": "2021-02-08 15:37:32 +0000",
+      "jungle_edge": "2021-02-08 15:37:12 +0000",
+      "savanna_rock": "2021-02-01 16:35:18 +0000",
+      "redwood_taiga": "2021-02-02 18:53:40 +0000",
+      "taiga": "2021-02-02 18:53:09 +0000",
+      "redwood_taiga_hills": "2021-02-02 18:54:21 +0000",
+      "taiga_hills": "2021-02-03 12:58:32 +0000",
+      "ocean": "2021-02-01 21:40:17 +0000",
+      "extreme_hills": "2021-02-02 18:48:45 +0000",
+      "roofed_forest": "2021-02-01 20:38:23 +0000",
+      "river": "2021-02-01 19:29:40 +0000",
+      "jungle": "2021-02-08 15:36:50 +0000",
+      "desert": "2021-02-02 13:47:36 +0000",
+      "stone_beach": "2021-02-02 21:54:17 +0000"
     },
     "done": false
   },
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
-      "has_bed": "2021-02-01 17:40:16 +0100"
+      "has_bed": "2021-02-01 16:40:16 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/book": {
     "criteria": {
-      "has_paper": "2021-02-02 19:17:38 +0100"
+      "has_paper": "2021-02-02 18:17:38 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/birch_wooden_slab": {
     "criteria": {
-      "has_planks": "2021-02-03 13:41:35 +0100"
+      "has_planks": "2021-02-03 12:41:35 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/purpur_slab": {
     "criteria": {
-      "has_purpur_block": "2021-02-17 20:23:44 +0100"
+      "has_purpur_block": "2021-02-17 19:23:44 +0000"
     },
     "done": true
   },
   "twilightforest:progress_labyrinth": {
     "criteria": {
-      "meef": "2021-02-06 21:46:30 +0100",
-      "kill_lich": "2021-02-06 21:18:59 +0100"
+      "meef": "2021-02-06 20:46:30 +0000",
+      "kill_lich": "2021-02-06 20:18:59 +0000"
     },
     "done": true
   },
   "twilightforest:alt/treasures/fiery_blood_tears": {
     "criteria": {
-      "tools": "2021-02-06 21:52:54 +0100"
+      "tools": "2021-02-06 20:52:54 +0000"
     },
     "done": true
   },
   "simplyjetpacks:te/root_te": {
     "criteria": {
-      "code_trigger": "2021-02-01 17:08:33 +0100"
+      "code_trigger": "2021-02-01 16:08:33 +0000"
     },
     "done": true
   },
   "enderioconduits:fluid/1_fluid_conduit": {
     "criteria": {
-      "inv_changed-enderio:liquid_conduit": "2021-02-20 21:49:08 +0100"
+      "inv_changed-enderio:liquid_conduit": "2021-02-20 20:49:08 +0000"
     },
     "done": true
   },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
-      "has_cobblestone": "2021-02-01 17:17:56 +0100"
+      "has_cobblestone": "2021-02-01 16:17:56 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/light_gray_carpet": {
     "criteria": {
-      "has_light_gray_wool": "2021-02-03 13:45:13 +0100"
+      "has_light_gray_wool": "2021-02-03 12:45:13 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
-      "has_cobblestone": "2021-02-01 17:17:56 +0100"
+      "has_cobblestone": "2021-02-01 16:17:56 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/light_blue_banner": {
     "criteria": {
-      "has_light_blue_wool": "2021-02-03 13:45:06 +0100"
+      "has_light_blue_wool": "2021-02-03 12:45:06 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/magenta_banner": {
     "criteria": {
-      "has_magenta_wool": "2021-02-03 13:45:26 +0100"
+      "has_magenta_wool": "2021-02-03 12:45:26 +0000"
     },
     "done": true
   },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
-      "has_spider_eye": "2021-02-01 17:24:25 +0100"
+      "has_spider_eye": "2021-02-01 16:24:25 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/purple_carpet": {
     "criteria": {
-      "has_purple_wool": "2021-02-03 13:45:22 +0100"
+      "has_purple_wool": "2021-02-03 12:45:22 +0000"
     },
     "done": true
   },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
-      "has_cobblestone": "2021-02-01 17:17:56 +0100"
+      "has_cobblestone": "2021-02-01 16:17:56 +0000"
     },
     "done": true
   },
   "twilightforest:alt/treasures/fiery_armor_set": {
     "criteria": {
-      "ingredient": "2021-02-06 21:52:54 +0100"
+      "ingredient": "2021-02-06 20:52:54 +0000"
     },
     "done": true
   },
   "nuclearcraft:processors/alloy_furnace": {
     "criteria": {
-      "has_item": "2021-02-24 01:25:01 +0100"
+      "has_item": "2021-02-24 00:25:01 +0000"
     },
     "done": true
   },
   "pneumaticcraft:tp_plant": {
     "criteria": {
-      "refinery": "2021-02-14 17:36:34 +0100"
+      "refinery": "2021-02-14 16:36:34 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/orange_stained_hardened_clay": {
     "criteria": {
-      "has_hardened_clay": "2021-02-04 19:23:31 +0100"
+      "has_hardened_clay": "2021-02-04 18:23:31 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
-      "has_stone": "2021-02-02 12:12:58 +0100"
+      "has_stone": "2021-02-02 11:12:58 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
-      "has_glass": "2021-02-02 21:18:57 +0100"
+      "has_glass": "2021-02-02 20:18:57 +0000"
     },
     "done": true
   },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
-      "wheat": "2021-02-05 14:20:55 +0100"
+      "wheat": "2021-02-05 13:20:55 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/boat": {
     "criteria": {
-      "entered_water": "2021-02-01 18:42:24 +0100"
+      "entered_water": "2021-02-01 17:42:24 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
-      "has_lapis": "2021-02-02 19:11:01 +0100"
+      "has_lapis": "2021-02-02 18:11:01 +0000"
     },
     "done": true
   },
   "botania:main/bauble_wear": {
     "criteria": {
-      "code_triggered": "2021-02-10 15:09:16 +0100"
+      "code_triggered": "2021-02-10 14:09:16 +0000"
     },
     "done": true
   },
   "appliedenergistics2:main/root": {
     "criteria": {
-      "certus": "2021-02-01 19:34:51 +0100"
+      "certus": "2021-02-01 18:34:51 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/brown_stained_hardened_clay": {
     "criteria": {
-      "has_hardened_clay": "2021-02-04 19:23:31 +0100"
+      "has_hardened_clay": "2021-02-04 18:23:31 +0000"
     },
     "done": true
   },
   "twilightforest:alt/entities/ur_ghast": {
     "criteria": {
-      "hurt": "2021-02-06 22:24:44 +0100"
+      "hurt": "2021-02-06 21:24:44 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
     "criteria": {
-      "has_red_flower": "2021-02-14 22:52:58 +0100"
+      "has_red_flower": "2021-02-14 21:52:58 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
-      "has_glass": "2021-02-02 21:18:57 +0100"
+      "has_glass": "2021-02-02 20:18:57 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
-      "has_brown_wool": "2021-02-08 16:37:01 +0100"
+      "has_brown_wool": "2021-02-08 15:37:01 +0000"
     },
     "done": true
   },
   "minecraft:end/dragon_egg": {
     "criteria": {
-      "dragon_egg": "2021-02-09 16:03:56 +0100"
+      "dragon_egg": "2021-02-09 15:03:56 +0000"
     },
     "done": true
   },
   "twilightforest:alt/treasures/phantom_armor_worn": {
     "criteria": {
-      "helmet": "2021-02-06 22:03:06 +0100"
+      "helmet": "2021-02-06 21:03:06 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
-      "has_at_least_9_diamond": "2021-02-08 17:51:38 +0100"
+      "has_at_least_9_diamond": "2021-02-08 16:51:38 +0000"
     },
     "done": true
   },
   "erebus:portal/portal_activator": {
     "criteria": {
-      "get_activator": "2021-02-08 17:55:51 +0100",
-      "get_keystone": "2021-02-08 17:57:16 +0100"
+      "get_activator": "2021-02-08 16:55:51 +0000",
+      "get_keystone": "2021-02-08 16:57:16 +0000"
     },
     "done": true
   },
   "projecte:klein_star_ein": {
     "criteria": {
-      "klein_star": "2021-02-21 02:49:45 +0100"
+      "klein_star": "2021-02-21 01:49:45 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
-      "has_glass": "2021-02-02 21:18:57 +0100"
+      "has_glass": "2021-02-02 20:18:57 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
-      "has_brick": "2021-02-06 15:05:54 +0100"
+      "has_brick": "2021-02-06 14:05:54 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/purple_shulker_box": {
     "criteria": {
-      "has_shulker_shell": "2021-02-09 17:01:49 +0100"
+      "has_shulker_shell": "2021-02-09 16:01:49 +0000"
     },
     "done": true
   },
   "bhc:main/yellow_heart": {
     "criteria": {
-      "orange_heart_in_inventory": "2021-02-02 14:49:58 +0100"
+      "orange_heart_in_inventory": "2021-02-02 13:49:58 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
-      "has_at_least_9_lapis": "2021-02-02 19:20:06 +0100"
+      "has_at_least_9_lapis": "2021-02-02 18:20:06 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/yellow_carpet": {
     "criteria": {
-      "has_yellow_wool": "2021-02-03 13:45:05 +0100"
+      "has_yellow_wool": "2021-02-03 12:45:05 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/melon_block": {
     "criteria": {
-      "has_melon": "2021-02-03 17:31:32 +0100"
+      "has_melon": "2021-02-03 16:31:32 +0000"
     },
     "done": true
   },
   "twilightforest:alt/treasures/tools": {
     "criteria": {
-      "1": "2021-02-06 21:44:50 +0100"
+      "1": "2021-02-06 20:44:50 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
-      "has_prismarine_shard": "2021-02-01 20:36:32 +0100"
+      "has_prismarine_shard": "2021-02-01 19:36:32 +0000"
     },
     "done": true
   },
   "minecraft:recipes/food/cookie": {
     "criteria": {
-      "has_cocoa": "2021-02-08 16:36:51 +0100"
+      "has_cocoa": "2021-02-08 15:36:51 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
-      "has_diamond_block": "2021-02-08 17:33:50 +0100"
+      "has_diamond_block": "2021-02-08 16:33:50 +0000"
     },
     "done": true
   },
   "twilightforest:alt/major_landmarks/labyrinth": {
     "criteria": {
-      "discover": "2021-02-06 21:36:52 +0100"
+      "discover": "2021-02-06 20:36:52 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/bone_meal_from_block": {
     "criteria": {
-      "has_bone_block": "2021-02-14 19:19:36 +0100"
+      "has_bone_block": "2021-02-14 18:19:36 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
-      "has_stone": "2021-02-06 19:23:50 +0100"
+      "has_stone": "2021-02-06 18:23:50 +0000"
     },
     "done": true
   },
   "erebus:portal/altar": {
     "criteria": {
-      "collect_jade": "2021-02-08 17:50:00 +0100"
+      "collect_jade": "2021-02-08 16:50:00 +0000"
     },
     "done": true
   },
   "twilightforest:alt/biomes/twilight_glacier": {
     "criteria": {
-      "discover": "2021-02-06 22:29:49 +0100"
+      "discover": "2021-02-06 21:29:49 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/light_gray_wool": {
     "criteria": {
-      "has_white_wool": "2021-02-01 17:34:31 +0100"
+      "has_white_wool": "2021-02-01 16:34:31 +0000"
     },
     "done": true
   },
   "twilightforest:alt/treasures/charm_of_keeping": {
     "criteria": {
-      "1": "2021-02-06 21:39:36 +0100"
+      "1": "2021-02-06 20:39:36 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/red_bed_from_white_bed": {
     "criteria": {
-      "has_bed": "2021-02-01 17:40:16 +0100"
+      "has_bed": "2021-02-01 16:40:16 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/purple_stained_hardened_clay": {
     "criteria": {
-      "has_hardened_clay": "2021-02-04 19:23:31 +0100"
+      "has_hardened_clay": "2021-02-04 18:23:31 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
-      "has_white_wool": "2021-02-01 17:34:31 +0100"
+      "has_white_wool": "2021-02-01 16:34:31 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
-      "has_planks": "2021-02-01 20:33:46 +0100"
+      "has_planks": "2021-02-01 19:33:46 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
-      "has_red_flower": "2021-02-02 14:21:36 +0100"
+      "has_red_flower": "2021-02-02 13:21:36 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/orange_dye_from_red_yellow": {
     "criteria": {
-      "has_red_dye": "2021-02-08 22:24:44 +0100"
+      "has_red_dye": "2021-02-08 21:24:44 +0000"
     },
     "done": true
   },
   "simplyjetpacks:eio/root_eio": {
     "criteria": {
-      "code_trigger": "2021-02-01 17:08:33 +0100"
+      "code_trigger": "2021-02-01 16:08:33 +0000"
     },
     "done": true
   },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
-      "has_cobblestone": "2021-02-01 17:17:56 +0100"
+      "has_cobblestone": "2021-02-01 16:17:56 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/blue_banner": {
     "criteria": {
-      "has_blue_wool": "2021-02-03 13:45:08 +0100"
+      "has_blue_wool": "2021-02-03 12:45:08 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/slime": {
     "criteria": {
-      "has_at_least_9_slime_ball": "2021-02-02 15:24:31 +0100"
+      "has_at_least_9_slime_ball": "2021-02-02 14:24:31 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
-      "has_white_wool": "2021-02-01 17:34:31 +0100"
+      "has_white_wool": "2021-02-01 16:34:31 +0000"
     },
     "done": true
   },
   "twilightforest:alt/treasures/trophies": {
     "criteria": {
-      "1": "2021-02-06 21:11:40 +0100"
+      "1": "2021-02-06 20:11:40 +0000"
     },
     "done": true
   },
   "twilightforest:alt/treasures/foods/maze_wafer": {
     "criteria": {
-      "food": "2021-02-06 21:39:30 +0100"
+      "food": "2021-02-06 20:39:30 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
-      "has_sand": "2021-02-01 18:58:14 +0100"
+      "has_sand": "2021-02-01 17:58:14 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/blue_bed": {
     "criteria": {
-      "has_blue_wool": "2021-02-03 13:45:08 +0100"
+      "has_blue_wool": "2021-02-03 12:45:08 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/pillar_quartz_block": {
     "criteria": {
-      "has_quartz_block": "2021-02-09 21:36:47 +0100"
+      "has_quartz_block": "2021-02-09 20:36:47 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/green_bed": {
     "criteria": {
-      "has_green_wool": "2021-02-03 13:45:05 +0100"
+      "has_green_wool": "2021-02-03 12:45:05 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/lime_carpet": {
     "criteria": {
-      "has_lime_wool": "2021-02-08 16:15:13 +0100"
+      "has_lime_wool": "2021-02-08 15:15:13 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
-      "has_book": "2021-02-03 17:12:10 +0100"
+      "has_book": "2021-02-03 16:12:10 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
-      "has_planks": "2021-02-01 17:14:15 +0100"
+      "has_planks": "2021-02-01 16:14:15 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
-      "has_hay_block": "2021-02-12 21:24:25 +0100"
+      "has_hay_block": "2021-02-12 20:24:25 +0000"
     },
     "done": true
   },
   "twilightforest:alt/entities/winter_wolf": {
     "criteria": {
-      "slay": "2021-02-13 17:26:46 +0100"
+      "slay": "2021-02-13 16:26:46 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
-      "has_white_wool": "2021-02-01 17:34:31 +0100"
+      "has_white_wool": "2021-02-01 16:34:31 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/lime_banner": {
     "criteria": {
-      "has_lime_wool": "2021-02-08 16:15:13 +0100"
+      "has_lime_wool": "2021-02-08 15:15:13 +0000"
     },
     "done": true
   },
   "twilightforest:alt/major_landmarks/yeti_lairs": {
     "criteria": {
-      "discover": "2021-02-06 22:26:25 +0100"
+      "discover": "2021-02-06 21:26:25 +0000"
     },
     "done": true
   },
   "minecraft:nether/root": {
     "criteria": {
-      "entered_nether": "2021-02-02 21:12:47 +0100"
+      "entered_nether": "2021-02-02 20:12:47 +0000"
     },
     "done": true
   },
   "twilightforest:alt/entities/yeti_alpha": {
     "criteria": {
-      "hurt": "2021-02-06 22:26:40 +0100"
+      "hurt": "2021-02-06 21:26:40 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/magenta_bed": {
     "criteria": {
-      "has_magenta_wool": "2021-02-03 13:45:26 +0100"
+      "has_magenta_wool": "2021-02-03 12:45:26 +0000"
     },
     "done": true
   },
   "projecte:transmutation_tablet": {
     "criteria": {
-      "trans_tablet": "2021-02-15 18:24:23 +0100"
+      "trans_tablet": "2021-02-15 17:24:23 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/dark_prismarine": {
     "criteria": {
-      "has_prismarine_shard": "2021-02-01 20:36:32 +0100"
+      "has_prismarine_shard": "2021-02-01 19:36:32 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
-      "has_redstone_block": "2021-02-05 18:52:47 +0100"
+      "has_redstone_block": "2021-02-05 17:52:47 +0000"
     },
     "done": true
   },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
-      "has_gold_ingot": "2021-02-01 17:35:56 +0100"
+      "has_gold_ingot": "2021-02-01 16:35:56 +0000"
     },
     "done": true
   },
   "minecraft:recipes/food/bread": {
     "criteria": {
-      "has_wheat": "2021-02-01 21:23:00 +0100"
+      "has_wheat": "2021-02-01 20:23:00 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/trapdoor": {
     "criteria": {
-      "has_planks": "2021-02-01 17:14:15 +0100"
+      "has_planks": "2021-02-01 16:14:15 +0000"
     },
     "done": true
   },
   "twilightforest:alt/treasures/fire_jet": {
     "criteria": {
-      "fire_swamp": "2021-02-06 21:35:12 +0100"
+      "fire_swamp": "2021-02-06 20:35:12 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/lime_stained_glass_pane": {
     "criteria": {
-      "has_glass": "2021-02-02 21:18:57 +0100"
+      "has_glass": "2021-02-02 20:18:57 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
-      "has_iron_ingot": "2021-02-01 18:45:55 +0100"
+      "has_iron_ingot": "2021-02-01 17:45:55 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
-      "has_sand": "2021-02-01 18:58:14 +0100"
+      "has_sand": "2021-02-01 17:58:14 +0000"
     },
     "done": true
   },
   "twilightforest:alt/entities/maze_slime": {
     "criteria": {
-      "hurt": "2021-02-06 21:40:01 +0100"
+      "hurt": "2021-02-06 20:40:01 +0000"
     },
     "done": true
   },
   "erebus:exploration/find_beetles": {
     "criteria": {
-      "dmg_beetle": "2021-02-08 18:06:50 +0100"
+      "dmg_beetle": "2021-02-08 17:06:50 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
-      "has_bed": "2021-02-01 17:40:16 +0100"
+      "has_bed": "2021-02-01 16:40:16 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/pink_carpet": {
     "criteria": {
-      "has_pink_wool": "2021-02-08 16:17:42 +0100"
+      "has_pink_wool": "2021-02-08 15:17:42 +0000"
     },
     "done": true
   },
   "pneumaticcraft:refinery": {
     "criteria": {
-      "refinery": "2021-02-13 18:55:29 +0100"
+      "refinery": "2021-02-13 17:55:29 +0000"
     },
     "done": true
   },
   "twilightforest:alt/treasures/carminite": {
     "criteria": {
-      "carminite": "2021-02-06 22:25:22 +0100"
+      "carminite": "2021-02-06 21:25:22 +0000"
     },
     "done": true
   },
   "twilightforest:alt/entities/giants": {
     "criteria": {
-      "0": "2021-02-06 22:43:46 +0100"
+      "0": "2021-02-06 21:43:46 +0000"
     },
     "done": true
   },
   "pneumaticcraft:plastic": {
     "criteria": {
-      "plastic": "2021-02-13 18:42:38 +0100"
+      "plastic": "2021-02-13 17:42:38 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/cyan_stained_glass_pane": {
     "criteria": {
-      "has_glass": "2021-02-02 21:18:57 +0100"
+      "has_glass": "2021-02-02 20:18:57 +0000"
     },
     "done": true
   },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
-      "has_diamond": "2021-02-03 13:47:17 +0100"
+      "has_diamond": "2021-02-03 12:47:17 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
-      "has_glass": "2021-02-02 21:18:57 +0100"
+      "has_glass": "2021-02-02 20:18:57 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
-      "has_white_wool": "2021-02-01 17:34:31 +0100"
+      "has_white_wool": "2021-02-01 16:34:31 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/sign": {
     "criteria": {
-      "has_planks": "2021-02-01 17:14:15 +0100"
+      "has_planks": "2021-02-01 16:14:15 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
-      "entered_water": "2021-02-01 18:42:24 +0100"
+      "entered_water": "2021-02-01 17:42:24 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
-      "has_diamond": "2021-02-03 13:47:17 +0100"
+      "has_diamond": "2021-02-03 12:47:17 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
-      "has_quartz": "2021-02-03 14:54:27 +0100"
+      "has_quartz": "2021-02-03 13:54:27 +0000"
     },
     "done": true
   },
   "nuclearcraft:fission/fission_controller": {
     "criteria": {
-      "has_item": "2021-02-24 16:24:57 +0100"
+      "has_item": "2021-02-24 15:24:57 +0000"
     },
     "done": true
   },
   "minecraft:nether/summon_wither": {
     "criteria": {
-      "summoned": "2021-02-08 23:32:17 +0100"
+      "summoned": "2021-02-08 22:32:17 +0000"
     },
     "done": true
   },
   "erebus:exploration/poison_sac": {
     "criteria": {
-      "sac_get": "2021-02-08 18:39:52 +0100"
+      "sac_get": "2021-02-08 17:39:52 +0000"
     },
     "done": true
   },
   "botania:challenge/flugel_eye": {
     "criteria": {
-      "eye": "2021-02-24 17:51:02 +0100"
+      "eye": "2021-02-24 16:51:02 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
-      "has_white_wool": "2021-02-01 17:34:31 +0100"
+      "has_white_wool": "2021-02-01 16:34:31 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
-      "has_gold_ingot": "2021-02-01 17:35:56 +0100"
+      "has_gold_ingot": "2021-02-01 16:35:56 +0000"
     },
     "done": true
   },
   "nuclearcraft:processors/infuser": {
     "criteria": {
-      "has_item": "2021-02-24 16:27:54 +0100"
+      "has_item": "2021-02-24 15:27:54 +0000"
     },
     "done": true
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_porkchop": "2021-02-06 22:47:24 +0100",
-      "cooked_beef": "2021-02-02 15:18:15 +0100",
-      "beef": "2021-02-01 18:51:01 +0100",
-      "baked_potato": "2021-02-02 20:19:19 +0100",
-      "apple": "2021-02-01 19:30:34 +0100",
-      "mutton": "2021-02-01 17:38:37 +0100",
-      "golden_apple": "2021-02-02 19:29:51 +0100",
-      "rotten_flesh": "2021-02-02 11:55:12 +0100",
-      "cooked_chicken": "2021-02-06 22:42:27 +0100",
-      "enchanted_golden_apple": "2021-02-06 22:04:00 +0100",
-      "mushroom_stew": "2021-02-06 22:10:37 +0100"
+      "cooked_porkchop": "2021-02-06 21:47:24 +0000",
+      "cooked_beef": "2021-02-02 14:18:15 +0000",
+      "beef": "2021-02-01 17:51:01 +0000",
+      "baked_potato": "2021-02-02 19:19:19 +0000",
+      "apple": "2021-02-01 18:30:34 +0000",
+      "mutton": "2021-02-01 16:38:37 +0000",
+      "golden_apple": "2021-02-02 18:29:51 +0000",
+      "rotten_flesh": "2021-02-02 10:55:12 +0000",
+      "cooked_chicken": "2021-02-06 21:42:27 +0000",
+      "enchanted_golden_apple": "2021-02-06 21:04:00 +0000",
+      "mushroom_stew": "2021-02-06 21:10:37 +0000"
     },
     "done": false
   },
   "twilightforest:alt/biomes/general_biomes": {
     "criteria": {
-      "3": "2021-02-05 12:44:40 +0100"
+      "3": "2021-02-05 11:44:40 +0000"
     },
     "done": true
   },
   "twilightforest:alt/entities/wolves": {
     "criteria": {
-      "2": "2021-02-13 17:26:46 +0100"
+      "2": "2021-02-13 16:26:46 +0000"
     },
     "done": true
   },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
-      "has_stick": "2021-02-01 17:17:17 +0100"
+      "has_stick": "2021-02-01 16:17:17 +0000"
     },
     "done": true
   },
   "twilightforest:alt/treasures/charms": {
     "criteria": {
-      "1": "2021-02-06 21:39:36 +0100"
+      "1": "2021-02-06 20:39:36 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
-      "has_bed": "2021-02-01 17:40:16 +0100"
+      "has_bed": "2021-02-01 16:40:16 +0000"
     },
     "done": true
   },
   "twilightforest:alt/biomes/dark_forest": {
     "criteria": {
-      "0": "2021-02-06 21:55:26 +0100"
+      "0": "2021-02-06 20:55:26 +0000"
     },
     "done": true
   },
   "tombstone:tutorial/info_grave_key": {
     "criteria": {
-      "grave_key": "2021-02-01 17:25:16 +0100"
+      "grave_key": "2021-02-01 16:25:16 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/orange_stained_glass_pane": {
     "criteria": {
-      "has_glass": "2021-02-02 21:18:57 +0100"
+      "has_glass": "2021-02-02 20:18:57 +0000"
     },
     "done": true
   },
   "twilightforest:arborist": {
     "criteria": {
-      "canopy_plate": "2021-02-06 22:24:34 +0100",
-      "rainbow_oak_sapling": "2021-02-08 17:37:26 +0100",
-      "twilight_oak_log": "2021-02-06 20:47:18 +0100",
-      "canopy_planks": "2021-02-06 22:16:56 +0100",
-      "giant_log": "2021-02-06 22:44:39 +0100",
-      "canopy_log": "2021-02-06 20:52:36 +0100",
-      "twilight_oak_sapling": "2021-02-06 20:53:23 +0100",
-      "canopy_sapling": "2021-02-06 20:52:36 +0100",
-      "liveroots": "2021-02-10 12:08:57 +0100",
-      "tower_wood": "2021-02-06 22:13:23 +0100"
+      "canopy_plate": "2021-02-06 21:24:34 +0000",
+      "rainbow_oak_sapling": "2021-02-08 16:37:26 +0000",
+      "twilight_oak_log": "2021-02-06 19:47:18 +0000",
+      "canopy_planks": "2021-02-06 21:16:56 +0000",
+      "giant_log": "2021-02-06 21:44:39 +0000",
+      "canopy_log": "2021-02-06 19:52:36 +0000",
+      "twilight_oak_sapling": "2021-02-06 19:53:23 +0000",
+      "canopy_sapling": "2021-02-06 19:52:36 +0000",
+      "liveroots": "2021-02-10 11:08:57 +0000",
+      "tower_wood": "2021-02-06 21:13:23 +0000"
     },
     "done": false
   },
   "enderioconduits:item/4_big_advanced_filter": {
     "criteria": {
-      "inv_changed-enderio:item_big_advanced_item_filter": "2021-02-24 01:03:33 +0100"
+      "inv_changed-enderio:item_big_advanced_item_filter": "2021-02-24 00:03:33 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
-      "has_white_wool": "2021-02-01 17:34:31 +0100"
+      "has_white_wool": "2021-02-01 16:34:31 +0000"
     },
     "done": true
   },
   "nuclearcraft:root": {
     "criteria": {
-      "location": "2021-02-01 17:08:33 +0100"
+      "location": "2021-02-01 16:08:33 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
-      "has_sand": "2021-02-01 18:58:14 +0100"
+      "has_sand": "2021-02-01 17:58:14 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/pink_banner": {
     "criteria": {
-      "has_pink_wool": "2021-02-08 16:17:42 +0100"
+      "has_pink_wool": "2021-02-08 15:17:42 +0000"
     },
     "done": true
   },
   "galacticraftcore:galacticraft/root": {
     "criteria": {
-      "tick": "2021-02-01 17:08:33 +0100"
+      "tick": "2021-02-01 16:08:33 +0000"
     },
     "done": true
   },
   "twilightforest:alt/treasures/maps": {
     "criteria": {
-      "1": "2021-02-22 12:54:54 +0100"
+      "1": "2021-02-22 11:54:54 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
-      "has_mossy_cobblestone": "2021-02-06 21:41:46 +0100"
+      "has_mossy_cobblestone": "2021-02-06 20:41:46 +0000"
     },
     "done": true
   },
   "twilightforest:alt/major_landmarks/troll_lairs": {
     "criteria": {
-      "discover": "2021-02-06 22:45:22 +0100"
+      "discover": "2021-02-06 21:45:22 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
-      "has_at_least_9_wheat": "2021-02-02 20:31:48 +0100"
+      "has_at_least_9_wheat": "2021-02-02 19:31:48 +0000"
     },
     "done": true
   },
   "twilightforest:alt/compat/tconstruct": {
     "criteria": {
-      "cast": "2021-02-03 19:35:10 +0100"
+      "cast": "2021-02-03 18:35:10 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/lime_bed": {
     "criteria": {
-      "has_lime_wool": "2021-02-08 16:15:13 +0100"
+      "has_lime_wool": "2021-02-08 15:15:13 +0000"
     },
     "done": true
   },
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
-      "has_gold_ingot": "2021-02-01 17:35:56 +0100"
+      "has_gold_ingot": "2021-02-01 16:35:56 +0000"
     },
     "done": true
   },
   "minecraft:recipes/combat/bow": {
     "criteria": {
-      "has_string": "2021-02-01 17:24:00 +0100"
+      "has_string": "2021-02-01 16:24:00 +0000"
     },
     "done": true
   },
   "twilightforest:progress_hydra": {
     "criteria": {
-      "hydra": "2021-02-06 21:51:51 +0100",
-      "stroganoff": "2021-02-06 21:46:30 +0100"
+      "hydra": "2021-02-06 20:51:51 +0000",
+      "stroganoff": "2021-02-06 20:46:30 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
-      "has_gunpowder": "2021-02-02 17:47:48 +0100"
+      "has_gunpowder": "2021-02-02 16:47:48 +0000"
     },
     "done": true
   },
   "minecraft:nether/get_wither_skull": {
     "criteria": {
-      "wither_skull": "2021-02-06 23:43:42 +0100"
+      "wither_skull": "2021-02-06 22:43:42 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
-      "has_glass": "2021-02-02 21:18:57 +0100"
+      "has_glass": "2021-02-02 20:18:57 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
-      "has_sandstone": "2021-02-05 17:24:42 +0100"
+      "has_sandstone": "2021-02-05 16:24:42 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
-      "has_quartz": "2021-02-03 14:54:27 +0100"
+      "has_quartz": "2021-02-03 13:54:27 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
-      "has_sand": "2021-02-01 18:58:14 +0100"
+      "has_sand": "2021-02-01 17:58:14 +0000"
     },
     "done": true
   },
   "botania:main/terrasteel_pickup": {
     "criteria": {
-      "terrasteel": "2021-02-16 19:22:40 +0100"
+      "terrasteel": "2021-02-16 18:22:40 +0000"
     },
     "done": true
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "bred_chicken": "2021-02-08 21:03:45 +0100",
-      "bred_sheep": "2021-02-02 20:39:40 +0100"
+      "bred_chicken": "2021-02-08 20:03:45 +0000",
+      "bred_sheep": "2021-02-02 19:39:40 +0000"
     },
     "done": false
   },
   "nuclearcraft:fusion/fusion_core": {
     "criteria": {
-      "has_item": "2021-02-24 17:15:05 +0100"
+      "has_item": "2021-02-24 16:15:05 +0000"
     },
     "done": true
   },
   "twilightforest:alt/biomes/twilight_forest": {
     "criteria": {
-      "discover": "2021-02-06 21:06:48 +0100"
+      "discover": "2021-02-06 20:06:48 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
-      "has_bed": "2021-02-01 17:40:16 +0100"
+      "has_bed": "2021-02-01 16:40:16 +0000"
     },
     "done": true
   },
   "twilightforest:alt/entities/snow_guardian": {
     "criteria": {
-      "hurt": "2021-02-06 22:33:22 +0100"
+      "hurt": "2021-02-06 21:33:22 +0000"
     },
     "done": true
   },
   "twilightforest:progress_castle": {
     "criteria": {
-      "discover": "2021-02-06 22:49:58 +0100",
-      "previous_progression": "2021-02-06 22:49:58 +0100"
+      "discover": "2021-02-06 21:49:58 +0000",
+      "previous_progression": "2021-02-06 21:49:58 +0000"
     },
     "done": true
   },
   "twilightforest:alt/biomes/oak_savannah": {
     "criteria": {
-      "discover": "2021-02-05 12:44:40 +0100"
+      "discover": "2021-02-05 11:44:40 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/orange_carpet": {
     "criteria": {
-      "has_orange_wool": "2021-02-03 13:45:08 +0100"
+      "has_orange_wool": "2021-02-03 12:45:08 +0000"
     },
     "done": true
   },
   "erebus:exploration/stung": {
     "criteria": {
-      "wasp": "2021-02-08 18:08:30 +0100"
+      "wasp": "2021-02-08 17:08:30 +0000"
     },
     "done": true
   },
   "twilightforest:alt/biomes/twilight_clearing": {
     "criteria": {
-      "discover": "2021-02-08 21:03:02 +0100"
+      "discover": "2021-02-08 20:03:02 +0000"
     },
     "done": true
   },
   "minecraft:story/mine_stone": {
     "criteria": {
-      "get_stone": "2021-02-01 17:17:56 +0100"
+      "get_stone": "2021-02-01 16:17:56 +0000"
     },
     "done": true
   },
   "twilightforest:alt/entities/animals": {
     "criteria": {
-      "2": "2021-02-06 20:49:44 +0100"
+      "2": "2021-02-06 19:49:44 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
-      "has_cobblestone": "2021-02-01 17:17:56 +0100"
+      "has_cobblestone": "2021-02-01 16:17:56 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
-      "has_iron_ingot": "2021-02-01 18:45:55 +0100"
+      "has_iron_ingot": "2021-02-01 17:45:55 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/beacon": {
     "criteria": {
-      "has_nether_star": "2021-02-08 23:32:44 +0100"
+      "has_nether_star": "2021-02-08 22:32:44 +0000"
     },
     "done": true
   },
   "projecte:red_matter_pickaxe": {
     "criteria": {
-      "rm_pick": "2021-02-21 05:31:35 +0100"
+      "rm_pick": "2021-02-21 04:31:35 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
-      "has_white_wool": "2021-02-01 17:34:31 +0100"
+      "has_white_wool": "2021-02-01 16:34:31 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/green_stained_glass_pane": {
     "criteria": {
-      "has_glass": "2021-02-02 21:18:57 +0100"
+      "has_glass": "2021-02-02 20:18:57 +0000"
     },
     "done": true
   },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
-      "has_stick": "2021-02-01 17:17:17 +0100"
+      "has_stick": "2021-02-01 16:17:17 +0000"
     },
     "done": true
   },
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
-      "has_iron_ingot": "2021-02-01 18:45:55 +0100"
+      "has_iron_ingot": "2021-02-01 17:45:55 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/cyan_carpet": {
     "criteria": {
-      "has_cyan_wool": "2021-02-03 13:45:07 +0100"
+      "has_cyan_wool": "2021-02-03 12:45:07 +0000"
     },
     "done": true
   },
   "minecraft:husbandry/root": {
     "criteria": {
-      "consumed_item": "2021-02-01 17:38:37 +0100"
+      "consumed_item": "2021-02-01 16:38:37 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
-      "has_redstone": "2021-02-01 19:34:21 +0100"
+      "has_redstone": "2021-02-01 18:34:21 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
-      "has_stonebrick": "2021-02-02 18:55:11 +0100"
+      "has_stonebrick": "2021-02-02 17:55:11 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
-      "entered_water": "2021-02-01 18:42:24 +0100"
+      "entered_water": "2021-02-01 17:42:24 +0000"
     },
     "done": true
   },
   "enderioconduits:goals/all_conduits": {
     "criteria": {
-      "inv_changed-enderio:item_conduit2": "2021-02-15 18:54:07 +0100",
-      "inv_changed-enderio:liquid_conduit_ender2": "2021-02-20 21:49:10 +0100"
+      "inv_changed-enderio:item_conduit2": "2021-02-15 17:54:07 +0000",
+      "inv_changed-enderio:liquid_conduit_ender2": "2021-02-20 20:49:10 +0000"
     },
     "done": false
   },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
-      "has_gold_ingot": "2021-02-01 17:35:56 +0100"
+      "has_gold_ingot": "2021-02-01 16:35:56 +0000"
     },
     "done": true
   },
   "erebus:portal/root": {
     "criteria": {
-      "obsidian": "2021-02-01 18:53:52 +0100",
-      "diamond": "2021-02-03 13:47:17 +0100",
-      "emerald": "2021-02-06 21:54:12 +0100"
+      "obsidian": "2021-02-01 17:53:52 +0000",
+      "diamond": "2021-02-03 12:47:17 +0000",
+      "emerald": "2021-02-06 20:54:12 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
-      "has_obsidian": "2021-02-01 18:53:52 +0100"
+      "has_obsidian": "2021-02-01 17:53:52 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
-      "has_sand": "2021-02-01 18:58:14 +0100"
+      "has_sand": "2021-02-01 17:58:14 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
     "criteria": {
-      "has_bonemeal": "2021-02-01 17:40:16 +0100"
+      "has_bonemeal": "2021-02-01 16:40:16 +0000"
     },
     "done": true
   },
   "nuclearcraft:processors/manufactory": {
     "criteria": {
-      "has_item": "2021-02-13 20:05:58 +0100"
+      "has_item": "2021-02-13 19:05:58 +0000"
     },
     "done": true
   },
   "pneumaticcraft:root": {
     "criteria": {
-      "explode_iron": "2021-02-13 18:35:35 +0100"
+      "explode_iron": "2021-02-13 17:35:35 +0000"
     },
     "done": true
   },
   "enderiomachines:basics/sagmill/7_black": {
     "criteria": {
-      "inv_changed-enderio:item_material": "2021-02-14 22:51:18 +0100"
+      "inv_changed-enderio:item_material": "2021-02-14 21:51:18 +0000"
     },
     "done": true
   },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
-      "has_iron_ingot": "2021-02-01 18:45:55 +0100"
+      "has_iron_ingot": "2021-02-01 17:45:55 +0000"
     },
     "done": true
   },
   "twilightforest:progress_thorns": {
     "criteria": {
-      "discover": "2021-02-06 22:49:58 +0100",
-      "previous_progression": "2021-02-06 22:47:04 +0100"
+      "discover": "2021-02-06 21:49:58 +0000",
+      "previous_progression": "2021-02-06 21:47:04 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/acacia_door": {
     "criteria": {
-      "has_planks": "2021-02-01 20:33:46 +0100"
+      "has_planks": "2021-02-01 19:33:46 +0000"
     },
     "done": true
   },
   "rockcandy:recipes/root": {
     "criteria": {
-      "auto": "2021-02-01 17:08:33 +0100"
+      "auto": "2021-02-01 16:08:33 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
-      "has_glass": "2021-02-02 21:18:57 +0100"
+      "has_glass": "2021-02-02 20:18:57 +0000"
     },
     "done": true
   },
   "nuclearcraft:processors/salt_mixer": {
     "criteria": {
-      "has_item": "2021-02-24 00:28:18 +0100"
+      "has_item": "2021-02-23 23:28:18 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
-      "has_bed": "2021-02-01 17:40:16 +0100"
+      "has_bed": "2021-02-01 16:40:16 +0000"
     },
     "done": true
   },
   "enderio:gears/g1_wooden_gear": {
     "criteria": {
-      "inv_changed-enderio:item_material": "2021-02-08 21:47:50 +0100"
+      "inv_changed-enderio:item_material": "2021-02-08 20:47:50 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
-      "has_red_mushroom": "2021-02-06 21:41:56 +0100"
+      "has_red_mushroom": "2021-02-06 20:41:56 +0000"
     },
     "done": true
   },
   "tombstone:tutorial/create_voodoo_poppet": {
     "criteria": {
-      "has_voodoo_poppet": "2021-02-06 21:19:20 +0100"
+      "has_voodoo_poppet": "2021-02-06 20:19:20 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
-      "has_leather": "2021-02-01 17:19:59 +0100"
+      "has_leather": "2021-02-01 16:19:59 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/lime_bed_from_white_bed": {
     "criteria": {
-      "has_bed": "2021-02-01 17:40:16 +0100"
+      "has_bed": "2021-02-01 16:40:16 +0000"
     },
     "done": true
   },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
-      "has_cobblestone": "2021-02-01 17:17:56 +0100"
+      "has_cobblestone": "2021-02-01 16:17:56 +0000"
     },
     "done": true
   },
   "minecraft:recipes/tools/clock": {
     "criteria": {
-      "has_redstone": "2021-02-01 19:34:21 +0100"
+      "has_redstone": "2021-02-01 18:34:21 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
-      "has_planks": "2021-02-05 15:20:30 +0100"
+      "has_planks": "2021-02-05 14:20:30 +0000"
     },
     "done": true
   },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
-      "has_diamond": "2021-02-03 13:47:17 +0100"
+      "has_diamond": "2021-02-03 12:47:17 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
-      "has_rail": "2021-02-02 20:43:56 +0100"
+      "has_rail": "2021-02-02 19:43:56 +0000"
     },
     "done": true
   },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
-      "has_glowstone_dust": "2021-02-02 21:14:13 +0100"
+      "has_glowstone_dust": "2021-02-02 20:14:13 +0000"
     },
     "done": true
   },
   "tombstone:tutorial/cancel_ghostly_shape": {
     "criteria": {
-      "coded_trigger": "2021-02-03 16:28:19 +0100"
+      "coded_trigger": "2021-02-03 15:28:19 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
-      "has_glass": "2021-02-02 21:18:57 +0100"
+      "has_glass": "2021-02-02 20:18:57 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
-      "has_planks": "2021-02-01 22:02:47 +0100"
+      "has_planks": "2021-02-01 21:02:47 +0000"
     },
     "done": true
   },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
-      "has_diamond": "2021-02-03 13:47:17 +0100"
+      "has_diamond": "2021-02-03 12:47:17 +0000"
     },
     "done": true
   },
   "simplyjetpacks:te/jetpack_te4": {
     "criteria": {
-      "jetpack_te4": "2021-02-24 00:47:01 +0100"
+      "jetpack_te4": "2021-02-23 23:47:01 +0000"
     },
     "done": true
   },
   "minecraft:story/enter_the_nether": {
     "criteria": {
-      "entered_nether": "2021-02-02 21:12:47 +0100"
+      "entered_nether": "2021-02-02 20:12:47 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
-      "has_ender_eye": "2021-02-08 20:57:11 +0100"
+      "has_ender_eye": "2021-02-08 19:57:11 +0000"
     },
     "done": true
   },
   "simplyjetpacks:te/jetpack_te3": {
     "criteria": {
-      "jetpack_te3": "2021-02-24 00:46:59 +0100"
+      "jetpack_te3": "2021-02-23 23:46:59 +0000"
     },
     "done": true
   },
   "immersiveengineering:main/craft_pump": {
     "criteria": {
-      "craft_hammer": "2021-02-13 18:57:45 +0100"
+      "craft_hammer": "2021-02-13 17:57:45 +0000"
     },
     "done": true
   },
   "nuclearcraft:processors/melter": {
     "criteria": {
-      "has_item": "2021-02-24 16:22:10 +0100"
+      "has_item": "2021-02-24 15:22:10 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
-      "has_bed": "2021-02-01 17:40:16 +0100"
+      "has_bed": "2021-02-01 16:40:16 +0000"
     },
     "done": true
   },
   "enderiomachines:basics/alloy/2_energetic_alloy_get": {
     "criteria": {
-      "inv_changed-enderio:item_energetic_alloy": "2021-02-09 16:40:41 +0100"
+      "inv_changed-enderio:item_energetic_alloy": "2021-02-09 15:40:41 +0000"
     },
     "done": true
   },
   "simplyjetpacks:te/jetpack_te2": {
     "criteria": {
-      "jetpack_te2": "2021-02-24 00:46:56 +0100"
+      "jetpack_te2": "2021-02-23 23:46:56 +0000"
     },
     "done": true
   },
   "simplyjetpacks:te/jetpack_te1": {
     "criteria": {
-      "jetpack_te1": "2021-02-22 13:57:52 +0100"
+      "jetpack_te1": "2021-02-22 12:57:52 +0000"
     },
     "done": true
   },
   "twilightforest:alt/entities/death_tome": {
     "criteria": {
-      "hurt": "2021-02-06 21:28:50 +0100"
+      "hurt": "2021-02-06 20:28:50 +0000"
     },
     "done": true
   },
   "tombstone:recipes/from_decorative_grave": {
     "criteria": {
-      "has_ingredient": "2021-02-01 17:25:16 +0100"
+      "has_ingredient": "2021-02-01 16:25:16 +0000"
     },
     "done": true
   },
   "projecte:dark_matter": {
     "criteria": {
-      "dm": "2021-02-21 02:38:12 +0100"
+      "dm": "2021-02-21 01:38:12 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
-      "has_white_wool": "2021-02-01 17:34:31 +0100"
+      "has_white_wool": "2021-02-01 16:34:31 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
-      "has_ender_eye": "2021-02-08 20:57:11 +0100"
+      "has_ender_eye": "2021-02-08 19:57:11 +0000"
     },
     "done": true
   },
   "nuclearcraft:processors/isotope_separator": {
     "criteria": {
-      "has_item": "2021-02-24 16:22:56 +0100"
+      "has_item": "2021-02-24 15:22:56 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
-      "has_planks": "2021-02-05 15:20:30 +0100"
+      "has_planks": "2021-02-05 14:20:30 +0000"
     },
     "done": true
   },
   "twilightforest:alt/entities/knight_phantom": {
     "criteria": {
-      "hurt_by_indirect": "2021-02-06 22:00:55 +0100"
+      "hurt_by_indirect": "2021-02-06 21:00:55 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/red_sandstone_slab": {
     "criteria": {
-      "has_red_sandstone": "2021-02-08 19:13:51 +0100"
+      "has_red_sandstone": "2021-02-08 18:13:51 +0000"
     },
     "done": true
   },
   "minecraft:nether/uneasy_alliance": {
     "criteria": {
-      "killed_ghast": "2021-02-10 20:30:10 +0100"
+      "killed_ghast": "2021-02-10 19:30:10 +0000"
     },
     "done": true
   },
   "tombstone:tutorial/first_grave": {
     "criteria": {
-      "coded_trigger": "2021-02-01 17:25:13 +0100"
+      "coded_trigger": "2021-02-01 16:25:13 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
-      "has_planks": "2021-02-03 13:41:35 +0100"
+      "has_planks": "2021-02-03 12:41:35 +0000"
     },
     "done": true
   },
   "twilightforest:root": {
     "criteria": {
-      "make_portal": "2021-02-05 12:44:22 +0100"
+      "make_portal": "2021-02-05 11:44:22 +0000"
     },
     "done": true
   },
   "twilightforest:alt/treasures/arctic_armor_set": {
     "criteria": {
-      "ingredient": "2021-02-06 22:27:37 +0100"
+      "ingredient": "2021-02-06 21:27:37 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/green_banner": {
     "criteria": {
-      "has_green_wool": "2021-02-03 13:45:05 +0100"
+      "has_green_wool": "2021-02-03 12:45:05 +0000"
     },
     "done": true
   },
   "twilightforest:alt/treasures/ironwood_armor_set": {
     "criteria": {
-      "ingredien2": "2021-02-06 22:32:04 +0100"
+      "ingredien2": "2021-02-06 21:32:04 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
-      "has_glass": "2021-02-02 21:18:57 +0100"
+      "has_glass": "2021-02-02 20:18:57 +0000"
     },
     "done": true
   },
   "twilightforest:alt/entities/minotaur": {
     "criteria": {
-      "hurt": "2021-02-06 21:38:26 +0100"
+      "hurt": "2021-02-06 20:38:26 +0000"
     },
     "done": true
   },
   "twilightforest:alt/treasures/giant_tool_set": {
     "criteria": {
-      "ingredien2": "2021-02-06 22:44:39 +0100"
+      "ingredien2": "2021-02-06 21:44:39 +0000"
     },
     "done": true
   },
   "enderiomachines:basics/sagmill/6_coal": {
     "criteria": {
-      "inv_changed-enderio:item_material": "2021-02-09 16:50:52 +0100"
+      "inv_changed-enderio:item_material": "2021-02-09 15:50:52 +0000"
     },
     "done": true
   },
   "twilightforest:alt/entities/ghasts": {
     "criteria": {
-      "1": "2021-02-06 22:17:05 +0100"
+      "1": "2021-02-06 21:17:05 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/purple_banner": {
     "criteria": {
-      "has_purple_wool": "2021-02-03 13:45:22 +0100"
+      "has_purple_wool": "2021-02-03 12:45:22 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
-      "has_at_least_9_gold_nugget": "2021-02-08 22:48:26 +0100"
+      "has_at_least_9_gold_nugget": "2021-02-08 21:48:26 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
-      "has_lapis_block": "2021-02-08 17:33:49 +0100"
+      "has_lapis_block": "2021-02-08 16:33:49 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
-      "has_glass": "2021-02-02 21:18:57 +0100"
+      "has_glass": "2021-02-02 20:18:57 +0000"
     },
     "done": true
   },
   "minecraft:story/mine_diamond": {
     "criteria": {
-      "diamond": "2021-02-03 13:47:17 +0100"
+      "diamond": "2021-02-03 12:47:17 +0000"
     },
     "done": true
   },
   "nuclearcraft:processors/irradiator": {
     "criteria": {
-      "has_item": "2021-02-24 16:17:14 +0100"
+      "has_item": "2021-02-24 15:17:14 +0000"
     },
     "done": true
   },
   "minecraft:story/upgrade_tools": {
     "criteria": {
-      "stone_pickaxe": "2021-02-01 17:18:48 +0100"
+      "stone_pickaxe": "2021-02-01 16:18:48 +0000"
     },
     "done": true
   },
   "simplyjetpacks:root": {
     "criteria": {
-      "location": "2021-02-01 17:08:33 +0100"
+      "location": "2021-02-01 16:08:33 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
-      "has_iron_block": "2021-02-03 18:43:41 +0100"
+      "has_iron_block": "2021-02-03 17:43:41 +0000"
     },
     "done": true
   },
   "erebus:exploration/jade_ore": {
     "criteria": {
-      "collect_jade": "2021-02-08 19:24:44 +0100"
+      "collect_jade": "2021-02-08 18:24:44 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
-      "has_bed": "2021-02-01 17:40:16 +0100"
+      "has_bed": "2021-02-01 16:40:16 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
     "criteria": {
-      "has_red_flower": "2021-02-02 20:36:54 +0100"
+      "has_red_flower": "2021-02-02 19:36:54 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
-      "has_planks": "2021-02-03 13:41:35 +0100"
+      "has_planks": "2021-02-03 12:41:35 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
-      "has_sand": "2021-02-01 18:58:14 +0100"
+      "has_sand": "2021-02-01 17:58:14 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/gold_ingot_from_block": {
     "criteria": {
-      "has_gold_block": "2021-02-08 17:33:50 +0100"
+      "has_gold_block": "2021-02-08 16:33:50 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
-      "has_stonebrick": "2021-02-02 18:55:11 +0100"
+      "has_stonebrick": "2021-02-02 17:55:11 +0000"
     },
     "done": true
   },
   "appliedenergistics2:main/charged_quartz": {
     "criteria": {
-      "certus": "2021-02-09 18:55:14 +0100"
+      "certus": "2021-02-09 17:55:14 +0000"
     },
     "done": true
   },
   "twilightforest:alt/entities/bunny": {
     "criteria": {
-      "slay": "2021-02-06 20:54:32 +0100"
+      "slay": "2021-02-06 19:54:32 +0000"
     },
     "done": true
   },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
-      "has_stick": "2021-02-01 17:17:17 +0100"
+      "has_stick": "2021-02-01 16:17:17 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
-      "has_white_wool": "2021-02-01 17:34:31 +0100"
+      "has_white_wool": "2021-02-01 16:34:31 +0000"
     },
     "done": true
   },
   "twilightforest:alt/treasures/phantom_armor_set": {
     "criteria": {
-      "helmet": "2021-02-06 22:01:42 +0100"
+      "helmet": "2021-02-06 21:01:42 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/paper": {
     "criteria": {
-      "has_reeds": "2021-02-03 18:06:43 +0100"
+      "has_reeds": "2021-02-03 17:06:43 +0000"
     },
     "done": true
   },
   "twilightforest:alt/major_landmarks/ice_tower": {
     "criteria": {
-      "discover": "2021-02-06 22:30:28 +0100"
+      "discover": "2021-02-06 21:30:28 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
     "criteria": {
-      "has_bonemeal": "2021-02-01 17:40:16 +0100"
+      "has_bonemeal": "2021-02-01 16:40:16 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/pink_dye_from_peony": {
     "criteria": {
-      "has_double_plant": "2021-02-08 16:16:54 +0100"
+      "has_double_plant": "2021-02-08 15:16:54 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
-      "has_white_wool": "2021-02-01 17:34:31 +0100"
+      "has_white_wool": "2021-02-01 16:34:31 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal": {
     "criteria": {
-      "has_bonemeal": "2021-02-01 17:40:16 +0100"
+      "has_bonemeal": "2021-02-01 16:40:16 +0000"
     },
     "done": true
   },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
-      "has_diamond": "2021-02-03 13:47:17 +0100"
+      "has_diamond": "2021-02-03 12:47:17 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
-      "has_white_wool": "2021-02-01 17:34:31 +0100"
+      "has_white_wool": "2021-02-01 16:34:31 +0000"
     },
     "done": true
   },
   "minecraft:nether/find_fortress": {
     "criteria": {
-      "fortress": "2021-02-07 00:06:50 +0100"
+      "fortress": "2021-02-06 23:06:50 +0000"
     },
     "done": true
   },
   "twilightforest:alt/entities/unstable_ice_core": {
     "criteria": {
-      "hurt_by_indirect": "2021-02-06 22:33:18 +0100"
+      "hurt_by_indirect": "2021-02-06 21:33:18 +0000"
     },
     "done": true
   },
   "appliedenergistics2:main/network_tool": {
     "criteria": {
-      "network_tool": "2021-02-22 12:12:05 +0100"
+      "network_tool": "2021-02-22 11:12:05 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/end_bricks": {
     "criteria": {
-      "has_end_stone": "2021-02-09 15:59:11 +0100"
+      "has_end_stone": "2021-02-09 14:59:11 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
-      "has_wool": "2021-02-01 17:34:31 +0100"
+      "has_wool": "2021-02-01 16:34:31 +0000"
     },
     "done": true
   },
   "twilightforest:alt/biomes/snowy_forest": {
     "criteria": {
-      "discover": "2021-02-06 22:25:55 +0100"
+      "discover": "2021-02-06 21:25:55 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/pink_bed": {
     "criteria": {
-      "has_pink_wool": "2021-02-08 16:17:42 +0100"
+      "has_pink_wool": "2021-02-08 15:17:42 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
-      "has_glass": "2021-02-02 21:18:57 +0100"
+      "has_glass": "2021-02-02 20:18:57 +0000"
     },
     "done": true
   },
   "botania:main/flower_pickup": {
     "criteria": {
-      "flower": "2021-02-17 20:20:44 +0100"
+      "flower": "2021-02-17 19:20:44 +0000"
     },
     "done": true
   },
   "bonsaitrees:root": {
     "criteria": {
-      "bonsaipot_in_inventory": "2021-02-03 15:56:24 +0100"
+      "bonsaipot_in_inventory": "2021-02-03 14:56:24 +0000"
     },
     "done": true
   },
   "nuclearcraft:processors/chemical_reactor": {
     "criteria": {
-      "has_item": "2021-02-13 20:29:53 +0100"
+      "has_item": "2021-02-13 19:29:53 +0000"
     },
     "done": true
   },
   "twilightforest:alt/biomes/dark_forest_center": {
     "criteria": {
-      "discover": "2021-02-06 21:58:54 +0100"
+      "discover": "2021-02-06 20:58:54 +0000"
     },
     "done": true
   },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
-      "has_feather": "2021-02-01 17:15:29 +0100"
+      "has_feather": "2021-02-01 16:15:29 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
-      "has_black_wool": "2021-02-01 17:34:33 +0100"
+      "has_black_wool": "2021-02-01 16:34:33 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
-      "has_planks": "2021-02-01 20:33:46 +0100"
+      "has_planks": "2021-02-01 19:33:46 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
-      "has_stone": "2021-02-02 12:12:58 +0100"
+      "has_stone": "2021-02-02 11:12:58 +0000"
     },
     "done": true
   },
   "twilightforest:alt/treasures/ice_bomb": {
     "criteria": {
-      "ice_bomb": "2021-02-06 22:27:55 +0100"
+      "ice_bomb": "2021-02-06 21:27:55 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
-      "has_at_least_9_coal": "2021-02-02 20:50:12 +0100"
+      "has_at_least_9_coal": "2021-02-02 19:50:12 +0000"
     },
     "done": true
   },
   "nuclearcraft:processors/supercooler": {
     "criteria": {
-      "has_item": "2021-02-24 16:18:01 +0100"
+      "has_item": "2021-02-24 15:18:01 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
-      "has_gold_ingot": "2021-02-01 17:35:56 +0100"
+      "has_gold_ingot": "2021-02-01 16:35:56 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/snow_layer": {
     "criteria": {
-      "has_snowball": "2021-02-08 20:45:26 +0100"
+      "has_snowball": "2021-02-08 19:45:26 +0000"
     },
     "done": true
   },
   "twilightforest:progress_ur_ghast": {
     "criteria": {
-      "tear": "2021-02-06 22:25:22 +0100",
-      "previous_progression": "2021-02-06 22:07:31 +0100"
+      "tear": "2021-02-06 21:25:22 +0000",
+      "previous_progression": "2021-02-06 21:07:31 +0000"
     },
     "done": true
   },
   "twilightforest:alt/treasures/yeti_armor_set": {
     "criteria": {
-      "ingredient": "2021-02-06 22:27:58 +0100"
+      "ingredient": "2021-02-06 21:27:58 +0000"
     },
     "done": true
   },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
-      "has_cobblestone": "2021-02-01 17:17:56 +0100"
+      "has_cobblestone": "2021-02-01 16:17:56 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/yellow_stained_glass_pane": {
     "criteria": {
-      "has_glass": "2021-02-02 21:18:57 +0100"
+      "has_glass": "2021-02-02 20:18:57 +0000"
     },
     "done": true
   },
   "bhc:main/yellow_heart_canister": {
     "criteria": {
-      "orange_heart_canister_in_inventory": "2021-02-08 22:09:42 +0100"
+      "orange_heart_canister_in_inventory": "2021-02-08 21:09:42 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
-      "has_sand": "2021-02-01 18:58:14 +0100"
+      "has_sand": "2021-02-01 17:58:14 +0000"
     },
     "done": true
   },
   "twilightforest:alt/entities/helmet_crab": {
     "criteria": {
-      "hurt_by_indirect": "2021-02-06 21:57:47 +0100"
+      "hurt_by_indirect": "2021-02-06 20:57:47 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
-      "has_glass": "2021-02-02 21:18:57 +0100"
+      "has_glass": "2021-02-02 20:18:57 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/light_blue_stained_hardened_clay": {
     "criteria": {
-      "has_hardened_clay": "2021-02-04 19:23:31 +0100"
+      "has_hardened_clay": "2021-02-04 18:23:31 +0000"
     },
     "done": true
   },
   "twilightforest:alt/entities/tower_broodling": {
     "criteria": {
-      "hurt": "2021-02-06 22:17:10 +0100"
+      "hurt": "2021-02-06 21:17:10 +0000"
     },
     "done": true
   },
   "appliedenergistics2:main/crafting_terminal": {
     "criteria": {
-      "certus": "2021-02-06 14:52:19 +0100"
+      "certus": "2021-02-06 13:52:19 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/cyan_stained_hardened_clay": {
     "criteria": {
-      "has_hardened_clay": "2021-02-04 19:23:31 +0100"
+      "has_hardened_clay": "2021-02-04 18:23:31 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
-      "has_stone": "2021-02-06 19:23:50 +0100"
+      "has_stone": "2021-02-06 18:23:50 +0000"
     },
     "done": true
   },
   "twilightforest:alt/biomes/fire_swamp": {
     "criteria": {
-      "discover": "2021-02-06 21:35:12 +0100"
+      "discover": "2021-02-06 20:35:12 +0000"
     },
     "done": true
   },
   "minecraft:recipes/tools/lead": {
     "criteria": {
-      "has_slime_ball": "2021-02-02 15:24:26 +0100"
+      "has_slime_ball": "2021-02-02 14:24:26 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/jungle_wooden_slab": {
     "criteria": {
-      "has_planks": "2021-02-01 19:03:02 +0100"
+      "has_planks": "2021-02-01 18:03:02 +0000"
     },
     "done": true
   },
   "simplyjetpacks:vanilla/root_vanilla": {
     "criteria": {
-      "code_trigger": "2021-02-01 17:08:33 +0100"
+      "code_trigger": "2021-02-01 16:08:33 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/smooth_red_sandstone": {
     "criteria": {
-      "has_red_sandstone": "2021-02-08 19:13:51 +0100"
+      "has_red_sandstone": "2021-02-08 18:13:51 +0000"
     },
     "done": true
   },
   "twilightforest:alt/major_landmarks/hedge_maze": {
     "criteria": {
-      "discover": "2021-02-08 17:25:32 +0100"
+      "discover": "2021-02-08 16:25:32 +0000"
     },
     "done": true
   },
   "erebus:exploration/traveller": {
     "criteria": {
-      "fungal": "2021-02-08 18:44:24 +0100",
-      "petrified": "2021-02-08 18:02:45 +0100",
-      "savannah": "2021-02-08 18:08:52 +0100",
-      "elysian": "2021-02-08 18:06:49 +0100",
-      "jungle": "2021-02-08 18:44:53 +0100",
-      "desert": "2021-02-08 18:12:22 +0100",
-      "swamp": "2021-02-08 18:44:03 +0100",
-      "outback": "2021-02-08 18:46:26 +0100"
+      "fungal": "2021-02-08 17:44:24 +0000",
+      "petrified": "2021-02-08 17:02:45 +0000",
+      "savannah": "2021-02-08 17:08:52 +0000",
+      "elysian": "2021-02-08 17:06:49 +0000",
+      "jungle": "2021-02-08 17:44:53 +0000",
+      "desert": "2021-02-08 17:12:22 +0000",
+      "swamp": "2021-02-08 17:44:03 +0000",
+      "outback": "2021-02-08 17:46:26 +0000"
     },
     "done": true
   },
   "abyssalcraft:mine_coralium": {
     "criteria": {
-      "gem": "2021-02-13 18:07:20 +0100"
+      "gem": "2021-02-13 17:07:20 +0000"
     },
     "done": true
   },
   "twilightforest:alt/treasures/knightmetal_tool_set": {
     "criteria": {
-      "sword": "2021-02-06 22:01:11 +0100"
+      "sword": "2021-02-06 21:01:11 +0000"
     },
     "done": true
   },
   "minecraft:story/root": {
     "criteria": {
-      "crafting_table": "2021-02-01 17:14:34 +0100"
+      "crafting_table": "2021-02-01 16:14:34 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/slime_ball": {
     "criteria": {
-      "has_slime": "2021-02-10 12:11:36 +0100"
+      "has_slime": "2021-02-10 11:11:36 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
-      "has_redstone": "2021-02-01 19:34:21 +0100"
+      "has_redstone": "2021-02-01 18:34:21 +0000"
     },
     "done": true
   },
   "tombstone:tutorial/create_magic_tablet": {
     "criteria": {
-      "has_tablet_of_recall": "2021-02-15 01:09:11 +0100"
+      "has_tablet_of_recall": "2021-02-15 00:09:11 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/coal": {
     "criteria": {
-      "has_coal_block": "2021-02-03 13:47:31 +0100"
+      "has_coal_block": "2021-02-03 12:47:31 +0000"
     },
     "done": true
   },
   "minecraft:story/form_obsidian": {
     "criteria": {
-      "obsidian": "2021-02-01 18:53:52 +0100"
+      "obsidian": "2021-02-01 17:53:52 +0000"
     },
     "done": true
   },
   "minecraft:end/find_end_city": {
     "criteria": {
-      "in_city": "2021-02-09 17:01:43 +0100"
+      "in_city": "2021-02-09 16:01:43 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/magma": {
     "criteria": {
-      "has_magma_cream": "2021-02-08 19:40:21 +0100"
+      "has_magma_cream": "2021-02-08 18:40:21 +0000"
     },
     "done": true
   },
   "enderiomachines:basics/stirling/1_stirling_generator_get": {
     "criteria": {
-      "inv_changed-enderio:block_simple_stirling_generator": "2021-02-22 13:24:58 +0100"
+      "inv_changed-enderio:block_simple_stirling_generator": "2021-02-22 12:24:58 +0000"
     },
     "done": true
   },
   "chancecubes:root": {
     "criteria": {
-      "cube_in_inventory": "2021-02-23 20:35:54 +0100"
+      "cube_in_inventory": "2021-02-23 19:35:54 +0000"
     },
     "done": true
   },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
-      "has_blaze_rod": "2021-02-08 16:09:46 +0100"
+      "has_blaze_rod": "2021-02-08 15:09:46 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/string_to_wool": {
     "criteria": {
-      "has_string": "2021-02-01 17:24:00 +0100"
+      "has_string": "2021-02-01 16:24:00 +0000"
     },
     "done": true
   },
   "twilightforest:alt/entities/kobold": {
     "criteria": {
-      "hurt_by_indirect": "2021-02-06 20:59:12 +0100"
+      "hurt_by_indirect": "2021-02-06 19:59:12 +0000"
     },
     "done": true
   },
   "enderio:gears/g2_stone_gear": {
     "criteria": {
-      "inv_changed-enderio:item_material": "2021-02-08 21:48:20 +0100"
+      "inv_changed-enderio:item_material": "2021-02-08 20:48:20 +0000"
     },
     "done": true
   },
   "minecraft:end/enter_end_gateway": {
     "criteria": {
-      "entered_end_gateway": "2021-02-15 21:10:16 +0100"
+      "entered_end_gateway": "2021-02-15 20:10:16 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
-      "has_log2": "2021-02-01 17:26:44 +0100"
+      "has_log2": "2021-02-01 16:26:44 +0000"
     },
     "done": true
   },
   "twilightforest:twilight_dinner": {
     "criteria": {
-      "raw_meef": "2021-02-06 21:53:54 +0100",
-      "raw_venison": "2021-02-06 20:49:56 +0100",
-      "meef_stroganoff": "2021-02-06 21:46:30 +0100",
-      "hydra_chop": "2021-02-06 21:58:38 +0100"
+      "raw_meef": "2021-02-06 20:53:54 +0000",
+      "raw_venison": "2021-02-06 19:49:56 +0000",
+      "meef_stroganoff": "2021-02-06 20:46:30 +0000",
+      "hydra_chop": "2021-02-06 20:58:38 +0000"
     },
     "done": false
   },
   "twilightforest:alt/treasures/giant_blocks": {
     "criteria": {
-      "giant_log": "2021-02-06 22:44:39 +0100"
+      "giant_log": "2021-02-06 21:44:39 +0000"
     },
     "done": true
   },
   "abyssalcraft:dreadium": {
     "criteria": {
-      "abyssalnite": "2021-02-12 22:21:13 +0100"
+      "abyssalnite": "2021-02-12 21:21:13 +0000"
     },
     "done": true
   },
   "minecraft:recipes/tools/compass": {
     "criteria": {
-      "has_redstone": "2021-02-01 19:34:21 +0100"
+      "has_redstone": "2021-02-01 18:34:21 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
-      "has_redstone_torch": "2021-02-08 22:19:03 +0100"
+      "has_redstone_torch": "2021-02-08 21:19:03 +0000"
     },
     "done": true
   },
   "twilightforest:alt/entities/wild_boar": {
     "criteria": {
-      "hurt": "2021-02-06 20:54:18 +0100"
+      "hurt": "2021-02-06 19:54:18 +0000"
     },
     "done": true
   },
   "twilightforest:alt/major_landmarks/medium_hollow_hill": {
     "criteria": {
-      "discover": "2021-02-06 22:38:27 +0100"
+      "discover": "2021-02-06 21:38:27 +0000"
     },
     "done": true
   },
   "twilightforest:alt/major_landmarks/lich_tower": {
     "criteria": {
-      "discover": "2021-02-06 21:12:24 +0100"
+      "discover": "2021-02-06 20:12:24 +0000"
     },
     "done": true
   },
   "twilightforest:alt/entities/arthopods": {
     "criteria": {
-      "4": "2021-02-06 21:40:33 +0100"
+      "4": "2021-02-06 20:40:33 +0000"
     },
     "done": true
   },
   "twilightforest:alt/entities/deer": {
     "criteria": {
-      "hurt": "2021-02-06 20:49:44 +0100"
+      "hurt": "2021-02-06 19:49:44 +0000"
     },
     "done": true
   },
   "twilightforest:alt/treasures/steeleaf_armor_set": {
     "criteria": {
-      "ingredient": "2021-02-10 21:44:34 +0100"
+      "ingredient": "2021-02-10 20:44:34 +0000"
     },
     "done": true
   },
   "appliedenergistics2:main/controller": {
     "criteria": {
-      "certus": "2021-02-17 20:20:34 +0100"
+      "certus": "2021-02-17 19:20:34 +0000"
     },
     "done": true
   },
   "nuclearcraft:processors/fuel_reprocessor": {
     "criteria": {
-      "has_item": "2021-02-24 16:22:35 +0100"
+      "has_item": "2021-02-24 15:22:35 +0000"
     },
     "done": true
   },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
-      "blaze_rod": "2021-02-08 16:09:46 +0100"
+      "blaze_rod": "2021-02-08 15:09:46 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
-      "has_quartz": "2021-02-03 14:54:27 +0100"
+      "has_quartz": "2021-02-03 13:54:27 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
-      "has_stone": "2021-02-09 18:55:09 +0100"
+      "has_stone": "2021-02-09 17:55:09 +0000"
     },
     "done": true
   },
   "twilightforest:alt/treasures/foods/any": {
     "criteria": {
-      "3": "2021-02-06 20:49:45 +0100"
+      "3": "2021-02-06 19:49:45 +0000"
     },
     "done": true
   },
   "immersiveengineering:main/root": {
     "criteria": {
-      "hold_manual": "2021-02-14 18:35:01 +0100"
+      "hold_manual": "2021-02-14 17:35:01 +0000"
     },
     "done": true
   },
   "twilightforest:alt/treasures/armors": {
     "criteria": {
-      "1": "2021-02-06 21:08:16 +0100"
+      "1": "2021-02-06 20:08:16 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
-      "has_iron_ingot": "2021-02-01 18:45:55 +0100"
+      "has_iron_ingot": "2021-02-01 17:45:55 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/pink_stained_hardened_clay": {
     "criteria": {
-      "has_hardened_clay": "2021-02-04 19:23:31 +0100"
+      "has_hardened_clay": "2021-02-04 18:23:31 +0000"
     },
     "done": true
   },
   "twilightforest:alt/biomes/twilight_swamp": {
     "criteria": {
-      "0": "2021-02-06 21:30:58 +0100"
+      "0": "2021-02-06 20:30:58 +0000"
     },
     "done": true
   },
   "tombstone:recipes/from_strange_scroll": {
     "criteria": {
-      "has_ingredient": "2021-02-03 16:28:19 +0100"
+      "has_ingredient": "2021-02-03 15:28:19 +0000"
     },
     "done": true
   },
   "immersiveengineering:main/craft_hammer": {
     "criteria": {
-      "craft_hammer": "2021-02-08 16:45:05 +0100"
+      "craft_hammer": "2021-02-08 15:45:05 +0000"
     },
     "done": true
   },
   "twilightforest:alt/entities/armored_giant": {
     "criteria": {
-      "hurt": "2021-02-06 22:43:48 +0100"
+      "hurt": "2021-02-06 21:43:48 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
-      "has_nether_brick": "2021-02-09 15:49:57 +0100"
+      "has_nether_brick": "2021-02-09 14:49:57 +0000"
     },
     "done": true
   },
   "botania:main/spark_craft": {
     "criteria": {
-      "spark": "2021-02-24 00:23:07 +0100"
+      "spark": "2021-02-23 23:23:07 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
-      "has_red_flower": "2021-02-09 20:21:28 +0100"
+      "has_red_flower": "2021-02-09 19:21:28 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/red_bed": {
     "criteria": {
-      "has_red_wool": "2021-02-03 13:45:11 +0100"
+      "has_red_wool": "2021-02-03 12:45:11 +0000"
     },
     "done": true
   },
   "twilightforest:alt/treasures/maze_map": {
     "criteria": {
-      "maze_map_focus": "2021-02-22 12:54:54 +0100"
+      "maze_map_focus": "2021-02-22 11:54:54 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/cyan_bed": {
     "criteria": {
-      "has_cyan_wool": "2021-02-03 13:45:07 +0100"
+      "has_cyan_wool": "2021-02-03 12:45:07 +0000"
     },
     "done": true
   },
   "twilightforest:alt/major_landmarks/knight_stronghold": {
     "criteria": {
-      "discover": "2021-02-06 21:57:26 +0100"
+      "discover": "2021-02-06 20:57:26 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
-      "has_at_least_9_iron_nugget": "2021-02-09 16:44:12 +0100"
+      "has_at_least_9_iron_nugget": "2021-02-09 15:44:12 +0000"
     },
     "done": true
   },
   "appliedenergistics2:main/growth_accelerator": {
     "criteria": {
-      "certus": "2021-02-22 12:19:43 +0100"
+      "certus": "2021-02-22 11:19:43 +0000"
     },
     "done": true
   },
   "twilightforest:alt/biomes/deep_mushroom_forest": {
     "criteria": {
-      "discover": "2021-02-08 17:26:55 +0100"
+      "discover": "2021-02-08 16:26:55 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
-      "entered_water": "2021-02-01 18:42:24 +0100"
+      "entered_water": "2021-02-01 17:42:24 +0000"
     },
     "done": true
   },
   "twilightforest:alt/treasures/steeleaf_tool_set": {
     "criteria": {
-      "pickaxe": "2021-02-06 21:44:50 +0100"
+      "pickaxe": "2021-02-06 20:44:50 +0000"
     },
     "done": true
   },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
-      "shot_arrow": "2021-02-06 23:42:58 +0100"
+      "shot_arrow": "2021-02-06 22:42:58 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/magenta_stained_hardened_clay": {
     "criteria": {
-      "has_hardened_clay": "2021-02-04 19:23:31 +0100"
+      "has_hardened_clay": "2021-02-04 18:23:31 +0000"
     },
     "done": true
   },
   "nuclearcraft:processors/crystallizer": {
     "criteria": {
-      "has_item": "2021-02-24 17:12:05 +0100"
+      "has_item": "2021-02-24 16:12:05 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
-      "has_planks": "2021-02-03 13:41:35 +0100"
+      "has_planks": "2021-02-03 12:41:35 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
-      "has_planks": "2021-02-01 19:03:02 +0100"
+      "has_planks": "2021-02-01 18:03:02 +0000"
     },
     "done": true
   },
   "twilightforest:alt/entities/lich_zombies": {
     "criteria": {
-      "hurt_alt": "2021-02-06 21:15:42 +0100"
+      "hurt_alt": "2021-02-06 20:15:42 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
-      "has_iron_ingot": "2021-02-01 18:45:55 +0100"
+      "has_iron_ingot": "2021-02-01 17:45:55 +0000"
     },
     "done": true
   },
   "twilightforest:alt/biomes/enchanted_forest": {
     "criteria": {
-      "discover": "2021-02-08 17:09:10 +0100"
+      "discover": "2021-02-08 16:09:10 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
-      "entered_water": "2021-02-01 18:42:24 +0100"
+      "entered_water": "2021-02-01 17:42:24 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
-      "has_carrot": "2021-02-01 19:14:18 +0100"
+      "has_carrot": "2021-02-01 18:14:18 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
-      "has_quartz": "2021-02-03 14:54:27 +0100"
+      "has_quartz": "2021-02-03 13:54:27 +0000"
     },
     "done": true
   },
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
-      "has_pumpkin": "2021-02-03 17:30:47 +0100"
+      "has_pumpkin": "2021-02-03 16:30:47 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/purpur_pillar": {
     "criteria": {
-      "has_purpur_block": "2021-02-17 20:23:44 +0100"
+      "has_purpur_block": "2021-02-17 19:23:44 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
-      "has_white_wool": "2021-02-01 17:34:31 +0100"
+      "has_white_wool": "2021-02-01 16:34:31 +0000"
     },
     "done": true
   },
   "bonsaitrees:grow": {
     "criteria": {
-      "finished_growing_a_bonsai_tree": "2021-02-03 15:56:50 +0100"
+      "finished_growing_a_bonsai_tree": "2021-02-03 14:56:50 +0000"
     },
     "done": true
   },
   "twilightforest:alt/major_landmarks/quest_grove": {
     "criteria": {
-      "discover": "2021-02-08 17:33:20 +0100"
+      "discover": "2021-02-08 16:33:20 +0000"
     },
     "done": true
   },
   "appliedenergistics2:main/fluix": {
     "criteria": {
-      "certus": "2021-02-22 01:46:54 +0100"
+      "certus": "2021-02-22 00:46:54 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
-      "has_planks": "2021-02-01 19:03:02 +0100"
+      "has_planks": "2021-02-01 18:03:02 +0000"
     },
     "done": true
   },
   "rockcandy:recipes/food/rock_candy_recipe": {
     "criteria": {
-      "has_raw_rock_candy": "2021-02-06 19:23:50 +0100"
+      "has_raw_rock_candy": "2021-02-06 18:23:50 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
-      "has_nether_brick": "2021-02-09 15:49:57 +0100"
+      "has_nether_brick": "2021-02-09 14:49:57 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
-      "has_bed": "2021-02-01 17:40:16 +0100"
+      "has_bed": "2021-02-01 16:40:16 +0000"
     },
     "done": true
   },
   "minecraft:story/enter_the_end": {
     "criteria": {
-      "entered_end": "2021-02-09 15:58:31 +0100"
+      "entered_end": "2021-02-09 14:58:31 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/lit_pumpkin": {
     "criteria": {
-      "has_pumpkin": "2021-02-03 17:30:47 +0100"
+      "has_pumpkin": "2021-02-03 16:30:47 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
-      "has_planks": "2021-02-01 19:03:02 +0100"
+      "has_planks": "2021-02-01 18:03:02 +0000"
     },
     "done": true
   },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
-      "bred_sheep": "2021-02-02 20:39:40 +0100"
+      "bred_sheep": "2021-02-02 19:39:40 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
-      "has_stone": "2021-02-11 15:58:14 +0100"
+      "has_stone": "2021-02-11 14:58:14 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/stonebrick": {
     "criteria": {
-      "has_stone": "2021-02-02 12:12:58 +0100"
+      "has_stone": "2021-02-02 11:12:58 +0000"
     },
     "done": true
   },
   "enderioconduits:goals/all_filters": {
     "criteria": {
-      "inv_changed-enderio:item_big_item_filter2": "2021-02-24 01:03:33 +0100",
-      "inv_changed-enderio:item_big_advanced_item_filter2": "2021-02-24 01:03:33 +0100",
-      "inv_changed-enderio:item_basic_item_filter2": "2021-02-20 22:30:55 +0100"
+      "inv_changed-enderio:item_big_item_filter2": "2021-02-24 00:03:33 +0000",
+      "inv_changed-enderio:item_big_advanced_item_filter2": "2021-02-24 00:03:33 +0000",
+      "inv_changed-enderio:item_basic_item_filter2": "2021-02-20 21:30:55 +0000"
     },
     "done": false
   },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
-      "has_redstone": "2021-02-01 19:34:21 +0100"
+      "has_redstone": "2021-02-01 18:34:21 +0000"
     },
     "done": true
   },
   "enderio:root": {
     "criteria": {
-      "location": "2021-02-02 14:49:06 +0100"
+      "location": "2021-02-02 13:49:06 +0000"
     },
     "done": true
   },
   "twilightforest:progress_yeti": {
     "criteria": {
-      "fur": "2021-02-06 22:27:58 +0100",
-      "previous_progression": "2021-02-06 21:18:59 +0100"
+      "fur": "2021-02-06 21:27:58 +0000",
+      "previous_progression": "2021-02-06 20:18:59 +0000"
     },
     "done": true
   },
   "erebus:exploration/whetstone": {
     "criteria": {
-      "powder": "2021-02-08 19:29:29 +0100"
+      "powder": "2021-02-08 18:29:29 +0000"
     },
     "done": false
   },
   "simplyjetpacks:mek/root_mek": {
     "criteria": {
-      "code_trigger": "2021-02-01 17:08:33 +0100"
+      "code_trigger": "2021-02-01 16:08:33 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
-      "has_cobblestone": "2021-02-01 17:17:56 +0100"
+      "has_cobblestone": "2021-02-01 16:17:56 +0000"
     },
     "done": true
   },
   "twilightforest:alt/major_landmarks/hydra_lair": {
     "criteria": {
-      "discover": "2021-02-06 21:47:16 +0100"
+      "discover": "2021-02-06 20:47:16 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
     "criteria": {
-      "has_red_sandstone": "2021-02-08 19:13:51 +0100"
+      "has_red_sandstone": "2021-02-08 18:13:51 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/brown_stained_glass_pane": {
     "criteria": {
-      "has_glass": "2021-02-02 21:18:57 +0100"
+      "has_glass": "2021-02-02 20:18:57 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/light_gray_stained_hardened_clay": {
     "criteria": {
-      "has_hardened_clay": "2021-02-04 19:23:31 +0100"
+      "has_hardened_clay": "2021-02-04 18:23:31 +0000"
     },
     "done": true
   },
   "nuclearcraft:processors/ingot_former": {
     "criteria": {
-      "has_item": "2021-02-24 00:28:42 +0100"
+      "has_item": "2021-02-23 23:28:42 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
-      "has_planks": "2021-02-01 22:02:47 +0100"
+      "has_planks": "2021-02-01 21:02:47 +0000"
     },
     "done": true
   },
   "enderio:start/2_simple_chassis_get": {
     "criteria": {
-      "inv_changed-enderio:item_material": "2021-02-17 22:39:50 +0100"
+      "inv_changed-enderio:item_material": "2021-02-17 21:39:50 +0000"
     },
     "done": true
   },
   "twilightforest:progress_lich": {
     "criteria": {
-      "shield_scepter": "2021-02-06 21:18:59 +0100",
-      "kill_naga": "2021-02-06 21:11:40 +0100"
+      "shield_scepter": "2021-02-06 20:18:59 +0000",
+      "kill_naga": "2021-02-06 20:11:40 +0000"
     },
     "done": true
   },
   "minecraft:end/respawn_dragon": {
     "criteria": {
-      "summoned_dragon": "2021-02-09 16:00:01 +0100"
+      "summoned_dragon": "2021-02-09 15:00:01 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/nether_brick": {
     "criteria": {
-      "has_netherbrick": "2021-02-15 19:11:02 +0100"
+      "has_netherbrick": "2021-02-15 18:11:02 +0000"
     },
     "done": true
   },
   "twilightforest:alt/biomes/twilight_highlands": {
     "criteria": {
-      "discover": "2021-02-06 22:42:46 +0100"
+      "discover": "2021-02-06 21:42:46 +0000"
     },
     "done": true
   },
   "bhc:main/relic_apple": {
     "criteria": {
-      "relic_apple_eaten": "2021-02-08 21:56:14 +0100"
+      "relic_apple_eaten": "2021-02-08 20:56:14 +0000"
     },
     "done": true
   },
   "minecraft:story/smelt_iron": {
     "criteria": {
-      "iron": "2021-02-01 18:45:55 +0100"
+      "iron": "2021-02-01 17:45:55 +0000"
     },
     "done": true
   },
   "appliedenergistics2:main/network2": {
     "criteria": {
-      "cable": "2021-02-17 22:56:00 +0100"
+      "cable": "2021-02-17 21:56:00 +0000"
     },
     "done": true
   },
   "appliedenergistics2:main/network1": {
     "criteria": {
-      "cable": "2021-02-06 21:51:51 +0100"
+      "cable": "2021-02-06 20:51:51 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/wooden_door": {
     "criteria": {
-      "has_planks": "2021-02-01 17:14:15 +0100"
+      "has_planks": "2021-02-01 16:14:15 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/light_blue_bed": {
     "criteria": {
-      "has_light_blue_wool": "2021-02-03 13:45:06 +0100"
+      "has_light_blue_wool": "2021-02-03 12:45:06 +0000"
     },
     "done": true
   },
   "twilightforest:alt/entities/ice_cores": {
     "criteria": {
-      "0": "2021-02-06 22:30:41 +0100"
+      "0": "2021-02-06 21:30:41 +0000"
     },
     "done": true
   },
   "twilightforest:alt/entities/mini_ghast": {
     "criteria": {
-      "slay": "2021-02-06 22:18:53 +0100"
+      "slay": "2021-02-06 21:18:53 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/chiseled_stonebrick": {
     "criteria": {
-      "has_stonebrick": "2021-02-02 18:55:11 +0100"
+      "has_stonebrick": "2021-02-02 17:55:11 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
-      "has_glass": "2021-02-02 21:18:57 +0100"
+      "has_glass": "2021-02-02 20:18:57 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
-      "has_bed": "2021-02-01 17:40:16 +0100"
+      "has_bed": "2021-02-01 16:40:16 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/light_gray_stained_glass_pane": {
     "criteria": {
-      "has_glass": "2021-02-02 21:18:57 +0100"
+      "has_glass": "2021-02-02 20:18:57 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
-      "has_at_least_9_bonemeal": "2021-02-02 18:44:01 +0100"
+      "has_at_least_9_bonemeal": "2021-02-02 17:44:01 +0000"
     },
     "done": true
   },
   "enderioconduits:fluid/3_fluid_conduit_ender": {
     "criteria": {
-      "inv_changed-enderio:liquid_conduit_ender": "2021-02-20 21:49:10 +0100"
+      "inv_changed-enderio:liquid_conduit_ender": "2021-02-20 20:49:10 +0000"
     },
     "done": true
   }
